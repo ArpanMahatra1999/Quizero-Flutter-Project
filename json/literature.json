@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the author of the famous storybook 'Alice's Adventures in Wonderland'?",
+    "option1": "Rudyard Kipling",
+    "option2": "John Keats",
+    "option3": "Lewis Carroll",
+    "option4": "H G Wells",
+    "answer": "Lewis Carroll"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote 'Where ignorance is bliss, it is folly to be wise'?",
+    "option1": "Browning",
+    "option2": "Marx",
+    "option3": "Shakespeare",
+    "option4": "Kipling",
+    "answer": "Shakespeare"
+  },
+  {
+    "id": 3,
+    "question": "Which is the first Harry Potter book?",
+    "option1": "Goblet of Fire",
+    "option2": "Chamber of Secrets",
+    "option3": "Philosopher's Stone",
+    "option4": "Order of the Phoenix",
+    "answer": "Philosopher's Stone"
+  },
+  {
+    "id": 4,
+    "question": "Jane Eyre' was written by which Bronte sister?",
+    "option1": "Anne",
+    "option2": "Charlotte",
+    "option3": "Emily",
+    "option4": "None of these",
+    "answer": "Charlotte"
+  },
+  {
+    "id": 5,
+    "question": "In the book ‘the Lord of the Rings ‘, who or what is Bilbo?",
+    "option1": "Dwarf",
+    "option2": "Wizard",
+    "option3": "Hobbit",
+    "option4": "Troll",
+    "answer": "Hobbit"
+  },
+  {
+    "id": 6,
+    "question": "Mr. and Mrs. Dursley, of number four Privet Drive, were proud to say that they were perfectly normal, thank you very much.\" Which book is this the opening line of?",
+    "option1": "Goblet of Fire",
+    "option2": "Chamber of Secrets",
+    "option3": "Philosopher's Stone",
+    "option4": "Order of the Phoenix",
+    "answer": "Philosopher's Stone"
+  },
+  {
+    "id": 7,
+    "question": "What nationality is Gabriel Garcia Marquez?",
+    "option1": "Argentina",
+    "option2": "Brazil",
+    "option3": "Colombia",
+    "option4": "Djibouti",
+    "answer": "Colombia"
+  },
+  {
+    "id": 8,
+    "question": "What wasn't written by Shakespeare?",
+    "option1": "Romeo and Juliet",
+    "option2": "King Lear",
+    "option3": "Hamlet",
+    "option4": "Ulysses",
+    "answer": "Ulysses"
+  },
+  {
+    "id": 9,
+    "question": "Which poem was writtem in blind condition?",
+    "option1": "A Psalm of Life",
+    "option2": "Daffodils",
+    "option3": "Paradise Lost",
+    "option4": "Sonnet 18",
+    "answer": "Paradise Lost"
+  },
+  {
+    "id": 10,
+    "question": "Who was William Shakespeare's wife?",
+    "option1": "Anne Hathaway",
+    "option2": "Charlotte Bronte",
+    "option3": "Jane Austen",
+    "option4": "Virginia Woolf",
+    "answer": "Anne Hathaway"
+  },
+  {
+    "id": 11,
+    "question": "Pride and Prejudice was written by",
+    "option1": "Anne Hathaway",
+    "option2": "Charlotte Bronte",
+    "option3": "Jane Austen",
+    "option4": "Virginia Woolf",
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 12,
+    "question": "Which of these isn't George Orwell's books?",
+    "option1": 1984,
+    "option2": "Animal Farm",
+    "option3": "Homage to Catalonia",
+    "option4": "Treasure Island",
+    "answer": "Treasure Island"
+  },
+  {
+    "id": 13,
+    "question": "Gabriel Garcia Marquez wrote One Hundred Years of",
+    "option1": "Adventure",
+    "option2": "Revolution",
+    "option3": "Silence",
+    "option4": "Solitude",
+    "answer": "Solitude"
+  },
+  {
+    "id": 14,
+    "question": "Fyodor Dostoyevsky didn't write",
+    "option1": "Anna Karenina",
+    "option2": "Crime and Punishment",
+    "option3": "The Brothers Karamazov",
+    "option4": "The Idiot",
+    "answer": "Anna Karenina"
+  },
+  {
+    "id": 15,
+    "question": "Who is not the character of Arabian nights?",
+    "option1": "Aladdin",
+    "option2": "Ali Baba",
+    "option3": "Javed",
+    "option4": "Sinbad",
+    "answer": "Javed"
+  },
+  {
+    "id": 16,
+    "question": "Vladimir Nabokov wrote",
+    "option1": "Anita",
+    "option2": "Elizabeth",
+    "option3": "Lolita",
+    "option4": "Mona Lisa",
+    "answer": "Lolita"
+  },
+  {
+    "id": 17,
+    "question": "Which spanish writer wrote Don Quixote",
+    "option1": "Federico Garcia Lorca",
+    "option2": "Miguel De Cervantes",
+    "option3": "Camilo Jose Cela",
+    "option4": "Carlos Ruiz Zafon",
+    "answer": "Miguel De Cervantes"
+  },
+  {
+    "id": 18,
+    "question": "In Charles Dickens' A Tale of Two Cities, one city is London and another is",
+    "option1": "Glasgow",
+    "option2": "Cardiff",
+    "option3": "New York",
+    "option4": "Paris",
+    "answer": "Paris"
+  },
+  {
+    "id": 19,
+    "question": "The Old Man and the Sea was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": 20,
+    "question": "The Adventures of Huckleberry Finn adn Tom Sawyer was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 21,
+    "question": "Which of these books were not written by Leo Tolstoy?",
+    "option1": "Anna Karenina",
+    "option2": "Resurrection",
+    "option3": "The Master and Margarita",
+    "option4": "War and Peace",
+    "answer": "War and Peace"
+  },
+  {
+    "id": 22,
+    "question": "Gabriel Garcia Marquez wrote Love in the Time of",
+    "option1": "Cholera",
+    "option2": "Fever",
+    "option3": "Flu",
+    "option4": "Malaria",
+    "answer": "Cholera"
+  },
+  {
+    "id": 23,
+    "question": "The Sound and the Fury was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "William Faulkner"
+  },
+  {
+    "id": 24,
+    "question": "The Tell-Tale Heart was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": 25,
+    "question": "George Eliot wrote",
+    "option1": "Autumn",
+    "option2": "Middlemarch",
+    "option3": "Mid-April",
+    "option4": "Mid-Summer",
+    "answer": "Middlemarch"
+  },
+  {
+    "id": 26,
+    "question": "Which indian writer wrote \"The God of Small Things\"?",
+    "option1": "Arundhati Roy",
+    "option2": "Salman Rushdie",
+    "option3": "RK Narayan",
+    "option4": "Rabindranath Tagore",
+    "answer": "Arundhati Roy"
+  },
+  {
+    "id": 27,
+    "question": "Which of these is not Khaled Hosseini books?",
+    "option1": "A Thousand Splendid Suns",
+    "option2": "And The Mountains Echoed",
+    "option3": "The Kite Runner",
+    "option4": "The White Tiger",
+    "answer": "The White Tiger"
+  },
+  {
+    "id": 28,
+    "question": "Who wrote Midnight Children?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Salman Rushdie"
+  },
+  {
+    "id": 29,
+    "question": "Who wrote Interpreter of Maladies?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Jhumpa Lahiri"
+  },
+  {
+    "id": 30,
+    "question": "Who wrote The Namesake?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Jhumpa Lahiri"
+  },
+  {
+    "id": 31,
+    "question": "Who wrote A Suitable Boy?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Vikram Seth"
+  },
+  {
+    "id": 32,
+    "question": "Who wrote Malgudi Days?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "RK Narayan"
+  },
+  {
+    "id": 33,
+    "question": "Who wrote Godaan?",
+    "option1": "Dhanpat Das",
+    "option2": "Gopal Sharma",
+    "option3": "Prem Das",
+    "option4": "Munshi Premchand",
+    "answer": "Munshi Premchand"
+  },
+  {
+    "id": 34,
+    "question": "Who wrote national anthem of Bangladesh 'Amar Shonar Bangla'?",
+    "option1": "Kazi Nazrul Islam",
+    "option2": "Michael Madhusudan Dutt",
+    "option3": "Faraaz Kazi",
+    "option4": "Rabindranath Tagore",
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 35,
+    "question": "My Experiments with Truth' was written by",
+    "option1": "APJ Abdul Kalam",
+    "option2": "Nirad Chaudhuri",
+    "option3": "Mahatma Gandhi",
+    "option4": "Jawaharlal Nehru",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 36,
+    "question": "Wings of Fire is an autobiography of",
+    "option1": "APJ Abdul Kalam",
+    "option2": "Nirad Chaudhuri",
+    "option3": "Mahatma Gandhi",
+    "option4": "Jawaharlal Nehru",
+    "answer": "APJ Abdul Kalam"
+  },
+  {
+    "id": 37,
+    "question": "Great poet of Sanskrit",
+    "option1": "Tulsidas",
+    "option2": "Valmiki",
+    "option3": "Kalidasa",
+    "option4": "None of these",
+    "answer": "Kalidasa"
+  },
+  {
+    "id": 38,
+    "question": "Nepali Mahakavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Laxmi Prasad Devkota"
+  },
+  {
+    "id": 39,
+    "question": "Nepali Adikavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Bhanu Bhakta Acharya"
+  },
+  {
+    "id": 40,
+    "question": "Nepali Rashtrakavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Madhav Prasad Ghimire"
+  },
+  {
+    "id": 41,
+    "question": "Nepali Yugakavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Siddhicharan Shrestha"
+  },
+  {
+    "id": 42,
+    "question": "Nepali Yuwakavi",
+    "option1": "Lekhnath Paudel",
+    "option2": "Gopal Prasad Rimal",
+    "option3": "Motiram Bhatta",
+    "option4": "Bhim Nidhi Timari",
+    "answer": "Motiram Bhatta"
+  },
+  {
+    "id": 43,
+    "question": "Nepali Kabi Shiromani",
+    "option1": "Lekhnath Paudel",
+    "option2": "Gopal Prasad Rimal",
+    "option3": "Motiram Bhatta",
+    "option4": "Bhim Nidhi Timari",
+    "answer": "Lekhnath Paudel"
+  },
+  {
+    "id": 44,
+    "question": "Who wrote National anthem of Nepal \"Sayau Thunga Fulka",
+    "option1": "Bishnu Majhi",
+    "option2": "Byakul Maila",
+    "option3": "Muna Thapa Magar",
+    "option4": "None of these",
+    "answer": "Byakul Maila"
+  },
+  {
+    "id": 45,
+    "question": "Amar Neupane wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Seto Dharti"
+  },
+  {
+    "id": 46,
+    "question": "Buddhisagar wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Karnali Blues"
+  },
+  {
+    "id": 47,
+    "question": "Parijat wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Shirishko Phul"
+  },
+  {
+    "id": 48,
+    "question": "Diamond Shumsher Rana wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Seto Bagh"
+  },
+  {
+    "id": 49,
+    "question": "Krishna Dharawasi did not write",
+    "option1": "Adha Bato",
+    "option2": "Jhola",
+    "option3": "Radha",
+    "option4": "Raktakunda",
+    "answer": "Raktakunda"
+  },
+  {
+    "id": 50,
+    "question": "Blue Mimosa is english translation of",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Shirishko Phul"
+  }
+]

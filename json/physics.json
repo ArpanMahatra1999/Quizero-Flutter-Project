@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following phenomena is involved in the absorption of ink by blotting paper?",
+    "option1": "Viscosity of ink",
+    "option2": "Capillary action",
+    "option3": "Diffusion of ink",
+    "option4": "Siphon action",
+    "answer": "Capillary action"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following name of scientist is expressed as a unit of nuclear size?",
+    "option1": "Fermi",
+    "option2": "Angstorm",
+    "option3": "Newton",
+    "option4": "Tesla",
+    "answer": "Fermi"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is measured by light year?",
+    "option1": "Time",
+    "option2": "Distance",
+    "option3": "Volume of gas",
+    "option4": "Intensity of light",
+    "answer": "Distance"
+  },
+  {
+    "id": 4,
+    "question": "The amount of time light takes to reach the earth’s surface from the sun in minutes is:",
+    "option1": 2,
+    "option2": 4,
+    "option3": 8,
+    "option4": 16,
+    "answer": 8
+  },
+  {
+    "id": 5,
+    "question": "Who was the first pre-Socratic philosopher to suggest that matter could neither be created nor destroyed?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Parmenides"
+  },
+  {
+    "id": 6,
+    "question": "Who in 1231 was the first to describe the science of optics?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Grosseteste"
+  },
+  {
+    "id": 7,
+    "question": "Which Greek philosopher suggested that the material world was composed of four basic elements – air, water, fire and earth?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Empedocles"
+  },
+  {
+    "id": 8,
+    "question": "Who was burnt to death for suggesting that the sun might be an ordinary star?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Giordano Bruno"
+  },
+  {
+    "id": 9,
+    "question": "In 1729 AD, Pieter Van Musschenbroek used the term ‘PHYSICS’ for the first time. What was the subject called so far?",
+    "option1": "Astrophysics",
+    "option2": "Natural philosophy",
+    "option3": "Physicology",
+    "option4": "United Science",
+    "answer": "Natural philosophy"
+  },
+  {
+    "id": 10,
+    "question": "Who in 1643 was the first person to create vacuum above the liquid?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Torricelli"
+  },
+  {
+    "id": 11,
+    "question": "Who in 1786 invented the gold leaf electroscope?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Bennet"
+  },
+  {
+    "id": 12,
+    "question": "Who encouraged Newton to write his idea for Principia?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Halley"
+  },
+  {
+    "id": 13,
+    "question": "Who in 1808 discovered polarization of light and introduced the term ‘Polarization’?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Malus"
+  },
+  {
+    "id": 14,
+    "question": "The first scientist to apply scientific reasoning to cosmology was Rene Descartes. What was his theory called?",
+    "option1": "Principle of Cosmos",
+    "option2": "Descartes Principle",
+    "option3": "Rene's Theory of Cosmos",
+    "option4": "Vortex Theory",
+    "answer": "Vortex Theory"
+  },
+  {
+    "id": 15,
+    "question": "Black-hole is",
+    "option1": "A flight recorder in aeroplane",
+    "option2": "A spot on sun",
+    "option3": "A place in Antarctica",
+    "option4": "A collapsed star",
+    "answer": "A collapsed star"
+  },
+  {
+    "id": 16,
+    "question": "Which one of the following is associated with 'Albedo'?",
+    "option1": "Transmitting power",
+    "option2": "Absorbing power",
+    "option3": "Emissive power",
+    "option4": "Reflecting power",
+    "answer": "Reflecting power"
+  },
+  {
+    "id": 17,
+    "question": "The phenomenon used in optical fibre for transmission of light energy is",
+    "option1": "Total internal reflection",
+    "option2": "Refraction",
+    "option3": "Scattering",
+    "option4": "Diffraction",
+    "answer": "Total internal reflection"
+  },
+  {
+    "id": 18,
+    "question": "The unit of electric power is",
+    "option1": "Ampere",
+    "option2": "Volt",
+    "option3": "Coulumb",
+    "option4": "Watt",
+    "answer": "Watt"
+  },
+  {
+    "id": 19,
+    "question": "The device to measure electric current is",
+    "option1": "Voltmeter",
+    "option2": "Ammeter",
+    "option3": "Voltameter",
+    "option4": "Potentiometer",
+    "answer": "Ammeter"
+  },
+  {
+    "id": 20,
+    "question": "What is measured in Hertz?",
+    "option1": "Frequency",
+    "option2": "Energy",
+    "option3": "Heat",
+    "option4": "Quality",
+    "answer": "Frequency"
+  },
+  {
+    "id": 21,
+    "question": "Sound wave in air is",
+    "option1": "Transverse",
+    "option2": "Longitudinal",
+    "option3": "Electromagnetic",
+    "option4": "Polarized",
+    "answer": "Longitudinal"
+  },
+  {
+    "id": 22,
+    "question": "Which one of the following quantities does not have unit?",
+    "option1": "Stress",
+    "option2": "Force",
+    "option3": "Strain",
+    "option4": "Pressure",
+    "answer": "Strain"
+  },
+  {
+    "id": 23,
+    "question": "Which one of the following is a scalar quantity?",
+    "option1": "Force",
+    "option2": "Pressure",
+    "option3": "Velocity",
+    "option4": "Acceleration",
+    "answer": "Pressure"
+  },
+  {
+    "id": 24,
+    "question": "The process of movement of molecules from a higher concentration place to a lower concentration places is known as :",
+    "option1": "Condensation",
+    "option2": "Evaporation",
+    "option3": "Diffusion",
+    "option4": "Sublimation",
+    "answer": "Diffusion"
+  },
+  {
+    "id": 25,
+    "question": "The acceleration experienced by an object during a free fall is independent of its",
+    "option1": "Velocity",
+    "option2": "Pressure",
+    "option3": "Mass",
+    "option4": "Energy",
+    "answer": "Mass"
+  },
+  {
+    "id": 26,
+    "question": "What is the minimum temperature to which a fuel must be heated so that it may catch fire and start burning?",
+    "option1": "Normal temperature",
+    "option2": "Neutral temperature",
+    "option3": "Boiling temperature",
+    "option4": "Ignition temperature",
+    "answer": "Ignition temperature"
+  },
+  {
+    "id": 27,
+    "question": "How is the ammeter connected in all circuits to measure current flowing in it?",
+    "option1": "In parallel",
+    "option2": "Across",
+    "option3": "In series",
+    "option4": "In line",
+    "answer": "In series"
+  },
+  {
+    "id": 28,
+    "question": "If a convex lens forms a real inverted same size image at 30 cm, then the object is placed ......... in front of the lens.",
+    "option1": "30cm",
+    "option2": "40cm",
+    "option3": "10cm",
+    "option4": "20cm",
+    "answer": "30cm"
+  },
+  {
+    "id": 29,
+    "question": "If the frequency of a sound wave is 100 Hz, then what is its time period in seconds?",
+    "option1": 0.1,
+    "option2": 0.01,
+    "option3": 10,
+    "option4": 1,
+    "answer": 0.01
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is TRUE about the process of evaporation?",
+    "option1": "It does not depend upon humidity level",
+    "option2": "It increases with increase in surface area",
+    "option3": "It decreases with increase in wind speed",
+    "option4": "",
+    "answer": "It increases with increase in surface area"
+  },
+  {
+    "id": 31,
+    "question": "Which form of energy causes a matchstick to ignite into a bright flame when the matchstick is struck against the match box surface?",
+    "option1": "Potential",
+    "option2": "Kinetic",
+    "option3": "Chemical",
+    "option4": "Wind",
+    "answer": "Kinetic"
+  },
+  {
+    "id": 32,
+    "question": "Sound cannot travel through",
+    "option1": "Gas",
+    "option2": "Vacuum",
+    "option3": "Liquid",
+    "option4": "Metal",
+    "answer": "Vacuum"
+  },
+  {
+    "id": 33,
+    "question": "A car undergoes a uniform circular motion. The acceleration of the car is",
+    "option1": "zero",
+    "option2": "non-zero variable",
+    "option3": "non-zero constant",
+    "option4": "None of these",
+    "answer": "non-zero variable"
+  },
+  {
+    "id": 34,
+    "question": "The rate of evaporation of liquid does not depend upon",
+    "option1": "Temperature",
+    "option2": "Surface area exposed",
+    "option3": "Mass",
+    "option4": "Humidity",
+    "answer": "Mass"
+  },
+  {
+    "id": 35,
+    "question": "Bose-Einstein Condensate is",
+    "option1": "solid state of matter",
+    "option2": "fifth state of matter",
+    "option3": "condensed state of matter",
+    "option4": "fourth state of matter",
+    "answer": "fifth state of matter"
+  },
+  {
+    "id": 36,
+    "question": "Plasma is",
+    "option1": "solid state of matter",
+    "option2": "fifth state of matter",
+    "option3": "condensed state of matter",
+    "option4": "fourth state of matter",
+    "answer": "fourth state of matter"
+  },
+  {
+    "id": 37,
+    "question": "The frequency (in Hz) of a note that is one octave higher than 500 Hz is",
+    "option1": 375,
+    "option2": 750,
+    "option3": 1000,
+    "option4": 2000,
+    "answer": 1000
+  },
+  {
+    "id": 38,
+    "question": "If the speed of a moving magnet inside a coil increases the electric current in the coil",
+    "option1": "Increases",
+    "option2": "Decrease",
+    "option3": "Remains same",
+    "option4": "Reverses to Negative",
+    "answer": "Increases"
+  },
+  {
+    "id": 39,
+    "question": "If an object is at rest, then the time (X-axis) versus distance (Y-axis) graph",
+    "option1": "is vertical",
+    "option2": "is horizontal",
+    "option3": "has positive slope of 45 degree",
+    "option4": "has negative slope of 45 degree",
+    "answer": "is horizontal"
+  },
+  {
+    "id": 40,
+    "question": "Magnification is",
+    "option1": "actual size of specimen/ observed size",
+    "option2": "observed size of specimen/ actual size",
+    "option3": "actual size of specimen - observed size",
+    "option4": "actual size of specimen - observed size",
+    "answer": "observed size of specimen/ actual size"
+  },
+  {
+    "id": 41,
+    "question": "People prefer to wear cotton clothes in summer season. This is due to the fact that cotton clothes are",
+    "option1": "good absorbers of water",
+    "option2": "good conveyors of sound",
+    "option3": "good radiators of heat",
+    "option4": "good absorbers of heat",
+    "answer": "good absorbers of water"
+  },
+  {
+    "id": 42,
+    "question": "Soap solution used for cleaning purpose appears cloudy. This is due to the fact that soap micelles can",
+    "option1": "refract light",
+    "option2": "scatter light",
+    "option3": "diffract light",
+    "option4": "polarize light",
+    "answer": "scatter light"
+  },
+  {
+    "id": 43,
+    "question": "Who is the Father of Physics?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Newton"
+  },
+  {
+    "id": 44,
+    "question": "Who is the Father of Modern Physics?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Einstein"
+  },
+  {
+    "id": 45,
+    "question": "Who is the Father of Observational Physics?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Galileo"
+  },
+  {
+    "id": 46,
+    "question": "Who gave law of gravitation?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Newton"
+  },
+  {
+    "id": 47,
+    "question": "Who gave three laws of motion?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Newton"
+  },
+  {
+    "id": 48,
+    "question": "Who gave theory of relativity?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Einstein"
+  },
+  {
+    "id": 49,
+    "question": "Mass-energy equivalence was given by",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Einstein"
+  },
+  {
+    "id": 50,
+    "question": "Father of Modern Optics",
+    "option1": "CV Raman",
+    "option2": "George Washington Carver",
+    "option3": "Ibn Al-Haytham",
+    "option4": "Luc Montagnier",
+    "answer": "Ibn Al-Haytham"
+  }
+]

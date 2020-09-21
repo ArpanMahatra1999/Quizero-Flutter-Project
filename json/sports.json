@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Where was first and only Modern Olympic games of 1800s played?",
+    "option1": "Athens, Greece",
+    "option2": "London, Great Britain",
+    "option3": "Paris, France",
+    "option4": "St. Louis, United States",
+    "answer": "Athens, Greece"
+  },
+  {
+    "id": 2,
+    "question": "Who has the most Olympic medals (23) ever?",
+    "option1": "Boris Shakhlin",
+    "option2": "Michael Phelps",
+    "option3": "Nikolai Andrianov",
+    "option4": "Ole Einar Bjørndalen",
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 3,
+    "question": "Most Olympic medals (18) by woman?",
+    "option1": "Birgit Fischer",
+    "option2": "Dana Torres",
+    "option3": "Jenny Thompson",
+    "option4": "Larisa Latynina",
+    "answer": "Larisa Latynina"
+  },
+  {
+    "id": 4,
+    "question": "Most Olympic golds by man",
+    "option1": "Boris Shakhlin",
+    "option2": "Michael Phelps",
+    "option3": "Nikolai Andrianov",
+    "option4": "Ole Einar Bjørndalen",
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 5,
+    "question": "Most Olympic golds by woman",
+    "option1": "Birgit Fischer",
+    "option2": "Dana Torres",
+    "option3": "Jenny Thompson",
+    "option4": "Larisa Latynina",
+    "answer": "Larisa Latynina"
+  },
+  {
+    "id": 6,
+    "question": "Most golds by woman in single Olympics (6)",
+    "option1": "Agnes Keleti",
+    "option2": "Fanny Blankers-Koen",
+    "option3": "Kristin Otto",
+    "option4": "Larisa Latynina",
+    "answer": "Kristin Otto"
+  },
+  {
+    "id": 7,
+    "question": "Fastest 100 m runner in 9.58 seconds",
+    "option1": "Donovan Bailey",
+    "option2": "Richard Thompson",
+    "option3": "Tyson Gay",
+    "option4": "Usain Bolt",
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": 8,
+    "question": "Fastest 100 m female runner in 10.49 seconds",
+    "option1": "Christine Arron",
+    "option2": "Florence Griffith-Joyner",
+    "option3": "Irina Privalova",
+    "option4": "Shelly-Ann Fraser-Pryce",
+    "answer": "Florence Griffith-Joyner"
+  },
+  {
+    "id": 9,
+    "question": "Most titles won in men's Olympic football (3)",
+    "option1": "Argentina and Uruguay",
+    "option2": "Cameroon and Nigeria",
+    "option3": "France and Italy",
+    "option4": "Great Britain and Hungary",
+    "answer": "Great Britain and Hungary"
+  },
+  {
+    "id": 10,
+    "question": "Most titles won in Olympic football both men's and women's combined (4)",
+    "option1": "Argentina",
+    "option2": "Great Britain",
+    "option3": "Hungary",
+    "option4": "United States",
+    "answer": "United States"
+  },
+  {
+    "id": 11,
+    "question": "When did Modern Olympics start?",
+    "option1": "1895 AD",
+    "option2": "1896 AD",
+    "option3": "1897 AD",
+    "option4": "1898 AD",
+    "answer": "1896 AD"
+  },
+  {
+    "id": 12,
+    "question": "Which is not an Olympic sport?",
+    "option1": "Swimming",
+    "option2": "High Jump",
+    "option3": "Skateboarding",
+    "option4": "Wrestling",
+    "answer": "Skateboarding"
+  },
+  {
+    "id": 13,
+    "question": "Which is not an Olympic sport?",
+    "option1": "Basketball",
+    "option2": "Cricket",
+    "option3": "Football",
+    "option4": "Tennis",
+    "answer": "Cricket"
+  },
+  {
+    "id": 14,
+    "question": "Where is Olympia, the place where ancient Olympic games were staged?",
+    "option1": "Great Britain",
+    "option2": "Greece",
+    "option3": "Italy",
+    "option4": "Syria",
+    "answer": "Greece"
+  },
+  {
+    "id": 15,
+    "question": "Number of rings in Olympic flag",
+    "option1": 5,
+    "option2": 6,
+    "option3": 7,
+    "option4": 8,
+    "answer": 5
+  },
+  {
+    "id": 16,
+    "question": "Country with most summer Olympic medals",
+    "option1": "Germany",
+    "option2": "Great Britain",
+    "option3": "Russia",
+    "option4": "United States",
+    "answer": "United States"
+  },
+  {
+    "id": 17,
+    "question": "Country with most winter Olympic medals",
+    "option1": "Germany",
+    "option2": "Great Britain",
+    "option3": "Russia",
+    "option4": "United States",
+    "answer": "Germany"
+  },
+  {
+    "id": 18,
+    "question": "Who never scored ICC ODI world cup final century?",
+    "option1": "Adam Gilchrist",
+    "option2": "Mahela Jayawardene",
+    "option3": "Sachin Tendulkar",
+    "option4": "Viv Richards",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 19,
+    "question": "Cricketer with most runs in both Test and ODI",
+    "option1": "Jacques Kallis",
+    "option2": "Kumar Sangakkara",
+    "option3": "Ricky Ponting",
+    "option4": "Sachin Tendulkar",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 20,
+    "question": "Cricketer with most wickets in both Test and ODI",
+    "option1": "Glenn McGrath",
+    "option2": "Muttiah Muralitharan",
+    "option3": "Shaun Pollock",
+    "option4": "Wasim Akram",
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 21,
+    "question": "Who is known as best cricketer ever widely because of batting average of 99.94 while others don't even come close to 70.00?",
+    "option1": "Donald Bradman",
+    "option2": "Garfield Sobers",
+    "option3": "Sachin Tendulkar",
+    "option4": "Muttiah Muralitharan",
+    "answer": "Donald Bradman"
+  },
+  {
+    "id": 22,
+    "question": "Which of these Australian players haven't won 3 ICC ODI cricket world cups?",
+    "option1": "Adam Gilchrist",
+    "option2": "Glenn McGrath",
+    "option3": "Matthew Hayden",
+    "option4": "Ricky Ponting",
+    "answer": "Matthew Hayden"
+  },
+  {
+    "id": 23,
+    "question": "Which two countries contest in the test series \"The Ashes\"?",
+    "option1": "Australia and England",
+    "option2": "India and Pakistan",
+    "option3": "South Africa and Zimbabwe",
+    "option4": "None of these",
+    "answer": "Australia and England"
+  },
+  {
+    "id": 24,
+    "question": "Who is known as \"Sultan of Swing\"?",
+    "option1": "Chaminda Vaas",
+    "option2": "Irfan Pathan",
+    "option3": "Mustafizur Rahman",
+    "option4": "Wasim Akram",
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": 25,
+    "question": "Which Pakistani bowler called \"The Rawalpindi Express\" bowled the fastest recorded delivery ever at 161.3 km/hr?",
+    "option1": "Imran Khan",
+    "option2": "Shoaib Akhtar",
+    "option3": "Umar Gul",
+    "option4": "Waqar Younis",
+    "answer": "Shoaib Akhtar"
+  },
+  {
+    "id": 26,
+    "question": "Cricketer with most First Class runs",
+    "option1": "Jack Hobbs",
+    "option2": "Herbert Sutcliffe",
+    "option3": "Wally Hammond",
+    "option4": "William Gilbert Grace",
+    "answer": "Jack Hobbs"
+  },
+  {
+    "id": 27,
+    "question": "Most matches as captain in all cricket formats",
+    "option1": "Graeme Smith",
+    "option2": "Mahendra Singh Dhoni",
+    "option3": "Ricky Ponting",
+    "option4": "Stephen Fleming",
+    "answer": "Mahendra Singh Dhoni"
+  },
+  {
+    "id": 28,
+    "question": "Player with most ODI double hundreds (3)",
+    "option1": "Chris Gayle",
+    "option2": "Fakhar Zaman",
+    "option3": "Martin Guptill",
+    "option4": "Rohit Sharma",
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 29,
+    "question": "Which two players created biggest partnership in an inning (372) in ODI history?",
+    "option1": "Chris Gayle and Marlon Samuels",
+    "option2": "Imam-ul-Haq and Fakhar Zaman",
+    "option3": "Sachin Tendulkar and Rahul Dravid",
+    "option4": "Upul Tharanga and Sanath Jayasuriya",
+    "answer": "Chris Gayle and Marlon Samuels"
+  },
+  {
+    "id": 30,
+    "question": "Which two players created biggest partnership in an inning (624) in Test history?",
+    "option1": "Andrew Jones and Martin Crowe",
+    "option2": "Bill Ponsford and Donald Bradman",
+    "option3": "Kumar Sangakkara and Mahela Jayawardene",
+    "option4": "Mudassar Nazar and Javed Miandad",
+    "answer": "Kumar Sangakkara and Mahela Jayawardene"
+  },
+  {
+    "id": 31,
+    "question": "For which franchise does Nepal only player in IPL Sandeep Lamichhane play?",
+    "option1": "Delhi Capitals",
+    "option2": "Kings XI Punjab",
+    "option3": "Kolkata Knight Riders",
+    "option4": "Rajasthan Royals",
+    "answer": "Delhi Capitals"
+  },
+  {
+    "id": 32,
+    "question": "Which of these places' franchises did not win Champions League T20?",
+    "option1": "Chennai",
+    "option2": "Mumbai",
+    "option3": "Sydney",
+    "option4": "Trinidad and Tobago",
+    "answer": "Trinidad and Tobago"
+  },
+  {
+    "id": 33,
+    "question": "Who was nicknamed the Siberian Siren for grunting when they hit the ball?",
+    "option1": "Anna Kournikova",
+    "option2": "Maria Sharapova",
+    "option3": "Svetlana Kuznetsova",
+    "option4": "Vera Zvonareva",
+    "answer": "Maria Sharapova"
+  },
+  {
+    "id": 34,
+    "question": "Which player among Big Four in tennis has achieved the least in career?",
+    "option1": "Andy Murray",
+    "option2": "Novak Djokovic",
+    "option3": "Rafael Nadal",
+    "option4": "Roger Federer",
+    "answer": "Andy Murray"
+  },
+  {
+    "id": 35,
+    "question": "Which is the only female tennis player to beat male opponent in \"Battle of the Sexes\"?",
+    "option1": "Margaret Court",
+    "option2": "Billie Jean King",
+    "option3": "Martina Navratilova",
+    "option4": "Serena Williams",
+    "answer": "Billie Jean King"
+  },
+  {
+    "id": 36,
+    "question": "Who is the only player to win 3 FIFA world cups as a player?",
+    "option1": "Giovanni Ferrari",
+    "option2": "Giuseppe Meazza",
+    "option3": "Pele",
+    "option4": "Ronaldo",
+    "answer": "Pele"
+  },
+  {
+    "id": 37,
+    "question": "Which was the last country to win FIFA world cup in home soil?",
+    "option1": "England",
+    "option2": "France",
+    "option3": "Germany",
+    "option4": "Italy",
+    "answer": "France"
+  },
+  {
+    "id": 38,
+    "question": "Which among these teams never won UEFA European cup or Champions League 3 times in a row?",
+    "option1": "AC Milan",
+    "option2": "Ajax",
+    "option3": "Bayern Munich",
+    "option4": "Real Madrid",
+    "answer": "AC Milan"
+  },
+  {
+    "id": 39,
+    "question": "Derby della Madonnina is played between",
+    "option1": "Atletico Madrid and Real Madrid",
+    "option2": "AC Milan and Inter Milan",
+    "option3": "Bayern Munich and 1860 Munich",
+    "option4": "None of these",
+    "answer": "AC Milan and Inter Milan"
+  },
+  {
+    "id": 40,
+    "question": "Which player has scored most goals (13) in a single FIFA world cup tournament?",
+    "option1": "Gerd Muller (Germany)",
+    "option2": "Just Fontaine (France)",
+    "option3": "Ronaldo (Brazil)",
+    "option4": "Sandor Kocsis (Hungary)",
+    "answer": "Just Fontaine (France)"
+  },
+  {
+    "id": 41,
+    "question": "How many times has Germany won the FIFA world cup after reunification?",
+    "option1": 3,
+    "option2": 2,
+    "option3": 1,
+    "option4": "None of these",
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Which club other than Barcelona has won more Copa Del Reys than Real Madrid?",
+    "option1": "Atletico Madrid",
+    "option2": "Athletic Bilbao",
+    "option3": "Sevilla",
+    "option4": "Valencia",
+    "answer": "Athletic Bilbao"
+  },
+  {
+    "id": 43,
+    "question": "Which spanish club only plays with local players?",
+    "option1": "Atletico Madrid",
+    "option2": "Athletic Bilbao",
+    "option3": "Sevilla",
+    "option4": "Valencia",
+    "answer": "Athletic Bilbao"
+  },
+  {
+    "id": 44,
+    "question": "Only African player to win Ballon d'or",
+    "option1": "Abedi Pele (Ghana)",
+    "option2": "George Weah (Liberia)",
+    "option3": "Nwankwo Kanu (Nigeria)",
+    "option4": "Roger Milla (Cameroon)",
+    "answer": "George Weah (Liberia)"
+  },
+  {
+    "id": 45,
+    "question": "Nation to lose most FIFA world cup finals (4)",
+    "option1": "Argentina",
+    "option2": "Brazil",
+    "option3": "Germany",
+    "option4": "Netherlands",
+    "answer": "Germany"
+  },
+  {
+    "id": 46,
+    "question": "Only goalkeeper to win Ballon d'or",
+    "option1": "Gordon Banks",
+    "option2": "Lev Yashin",
+    "option3": "Oliver Kahn",
+    "option4": "Sepp Maier",
+    "answer": "Lev Yashin"
+  },
+  {
+    "id": 47,
+    "question": "Michael Jordon played for which of the following teams?",
+    "option1": "Boston Celtics",
+    "option2": "Chicago Bulls",
+    "option3": "Golden State Warriors",
+    "option4": "LA Lakers",
+    "answer": "Chicago Bulls"
+  },
+  {
+    "id": 48,
+    "question": "Which team has won the most NBA titles (17)?",
+    "option1": "Boston Celtics",
+    "option2": "Chicago Bulls",
+    "option3": "Golden State Warriors",
+    "option4": "LA Lakers",
+    "answer": "Boston Celtics"
+  },
+  {
+    "id": 49,
+    "question": "Babe Ruth left which baseball team to play for NY Yankees?",
+    "option1": "Boston Red Sox",
+    "option2": "Chicago Cubs",
+    "option3": "Detroit Tigers",
+    "option4": "St. Louis Cardinals",
+    "answer": "Boston Red Sox"
+  },
+  {
+    "id": 50,
+    "question": "Wayne Gretzky is associated with which sport?",
+    "option1": "American Football",
+    "option2": "Field Hockey",
+    "option3": "Golf",
+    "option4": "Ice Hockey",
+    "answer": "Ice Hockey"
+  }
+]

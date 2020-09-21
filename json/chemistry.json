@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Which one of the following non metals is not a poor conductor of electricity",
+    "option1": "Sulphur",
+    "option2": "Selenium",
+    "option3": "Bromine",
+    "option4": "Phosphorus",
+    "answer": "Selenium"
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is not a chemical change?",
+    "option1": "Burning of coal in air",
+    "option2": "Fermentation of sugarcane juice",
+    "option3": "Cracking of petroleum",
+    "option4": "Crystallization of table salt from sea water",
+    "answer": "Crystallization of table salt from sea water"
+  },
+  {
+    "id": 3,
+    "question": "Which metal remains in the liquid form under normal conditions?",
+    "option1": "Zinc",
+    "option2": "Radium",
+    "option3": "Uranium",
+    "option4": "Mercury",
+    "answer": "Mercury"
+  },
+  {
+    "id": 4,
+    "question": "Commercially, sodium bicarbonate is known as",
+    "option1": "Washing Soda",
+    "option2": "Baking Soda",
+    "option3": "Bleaching Powder",
+    "option4": "Soda Ash",
+    "answer": "Baking Soda"
+  },
+  {
+    "id": 5,
+    "question": "Acetyl salicylic acid is commonly used as",
+    "option1": "Pain killer",
+    "option2": "Sedative",
+    "option3": "Tear gas",
+    "option4": "Fertilizer",
+    "answer": "Pain killer"
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following elements is not present in stainless steel?",
+    "option1": "Iron",
+    "option2": "Tungsten",
+    "option3": "Chromium",
+    "option4": "Nickel",
+    "answer": "Tungsten"
+  },
+  {
+    "id": 7,
+    "question": "Bronze is an alloy of",
+    "option1": "Tin and Zinc",
+    "option2": "Iron and Zinc",
+    "option3": "Copper and Zinc",
+    "option4": "Copper and Tin",
+    "answer": "Copper and Tin"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a super cooled liquid?",
+    "option1": "Teflon",
+    "option2": "Glass",
+    "option3": "Mercury",
+    "option4": "Ice-cream",
+    "answer": "Glass"
+  },
+  {
+    "id": 9,
+    "question": "Curd is sour due to presence of",
+    "option1": "Acidic acid",
+    "option2": "Tartaric acid",
+    "option3": "Lactic acid",
+    "option4": "Oxalic acid",
+    "answer": "Lactic acid"
+  },
+  {
+    "id": 10,
+    "question": "First person to articulate atomic theory",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Dalton"
+  },
+  {
+    "id": 11,
+    "question": "Father of modern chemistry",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Lavoiser"
+  },
+  {
+    "id": 12,
+    "question": "Who discovered benzene?",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Faraday"
+  },
+  {
+    "id": 13,
+    "question": "Who created periodic table?",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Mendeleev"
+  },
+  {
+    "id": 14,
+    "question": "Acid rain contains high levels of",
+    "option1": "Oxalic acid",
+    "option2": "Acetic acid",
+    "option3": "Sulphuric acid",
+    "option4": "Carbolic acid",
+    "answer": "Carbolic acid"
+  },
+  {
+    "id": 15,
+    "question": "Which metal is commonly used for making an electromagnet?",
+    "option1": "Copper",
+    "option2": "Cobalt",
+    "option3": "Iron",
+    "option4": "Nickel",
+    "answer": "Iron"
+  },
+  {
+    "id": 16,
+    "question": "The gas that is responsible for global warming is",
+    "option1": "Carbon dioxide",
+    "option2": "Oxygen",
+    "option3": "Methane",
+    "option4": "Sulphur dioxide",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is the source of common salt?",
+    "option1": "Bauxite",
+    "option2": "Pyrite",
+    "option3": "Calcite",
+    "option4": "Halite",
+    "answer": "Halite"
+  },
+  {
+    "id": 18,
+    "question": "What is the main constituent of coal gas?",
+    "option1": "Oxygen",
+    "option2": "Water",
+    "option3": "Nitrogen",
+    "option4": "Methane",
+    "answer": "Methane"
+  },
+  {
+    "id": 19,
+    "question": "Who gave law of conservation of mass?",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Lavoiser"
+  },
+  {
+    "id": 20,
+    "question": "Who gave the law- under the same temperature and pressure conditions, the same volumes of different gases will have the same number of molecules?",
+    "option1": "Avogadro",
+    "option2": "Berzelius",
+    "option3": "Bohr",
+    "option4": "Boyle",
+    "answer": "Avogadro"
+  },
+  {
+    "id": 21,
+    "question": "The first person to measure accurately the weight of atoms",
+    "option1": "Avogadro",
+    "option2": "Berzelius",
+    "option3": "Bohr",
+    "option4": "Boyle",
+    "answer": "Berzelius"
+  },
+  {
+    "id": 22,
+    "question": "Who codiscovered the chemical elements radium and polonium?",
+    "option1": "Bohr",
+    "option2": "Boyle",
+    "option3": "Curie",
+    "option4": "Mendeleev",
+    "answer": "Curie"
+  },
+  {
+    "id": 23,
+    "question": "Who discovered electron?",
+    "option1": "Rutherford",
+    "option2": "Thomson",
+    "option3": "Urey",
+    "option4": "Volta",
+    "answer": "Thomson"
+  },
+  {
+    "id": 24,
+    "question": "Father of nuclear chemistry",
+    "option1": "Rutherford",
+    "option2": "Thomson",
+    "option3": "Urey",
+    "option4": "Volta",
+    "answer": "Rutherford"
+  },
+  {
+    "id": 25,
+    "question": "The father of modern microbiology who transformed chemistry and biology with his discovery of mirror-image molecules",
+    "option1": "Pasteur",
+    "option2": "Pauling",
+    "option3": "Perkin",
+    "option4": "Raman",
+    "answer": "Pasteur"
+  },
+  {
+    "id": 26,
+    "question": "Who proved that every element’s identity is uniquely determined by its number of protons?",
+    "option1": "Mendeleev",
+    "option2": "Moseley",
+    "option3": "Natta",
+    "option4": "Nobel",
+    "answer": "Moseley"
+  },
+  {
+    "id": 27,
+    "question": "For which one of the following is the density maximum ?",
+    "option1": "Chloroform",
+    "option2": "Water",
+    "option3": "Benzene",
+    "option4": "Ice",
+    "answer": "Water"
+  },
+  {
+    "id": 28,
+    "question": "The chemicals used as a fixer in phosphorous is",
+    "option1": "Borax",
+    "option2": "Sodium Thiosulphate",
+    "option3": "Sodium Sulphate",
+    "option4": "Ammonium Persulphate",
+    "answer": "Sodium Thiosulphate"
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following does not contain silver?",
+    "option1": "Horn silver",
+    "option2": "German silver",
+    "option3": "Ruby silver",
+    "option4": "Lunar caustic",
+    "answer": "German silver"
+  },
+  {
+    "id": 30,
+    "question": "White Phosphorous is represented by which among the following symbols?",
+    "option1": "P1",
+    "option2": "P2",
+    "option3": "P3",
+    "option4": "P4",
+    "answer": "P4"
+  },
+  {
+    "id": 31,
+    "question": "Which among the following is known as White Vitriol?",
+    "option1": "Zinc Sulphate",
+    "option2": "Zinc Chloride",
+    "option3": "Zinc Phosphate",
+    "option4": "Zinc oxide",
+    "answer": "Zinc Sulphate"
+  },
+  {
+    "id": 32,
+    "question": "What is the bond formed due to the electrostatic attraction known as?",
+    "option1": "Covalent bond",
+    "option2": "Electrovalent bond",
+    "option3": "Electromagnetic bond",
+    "option4": "Polar bond",
+    "answer": "Electrovalent bond"
+  },
+  {
+    "id": 33,
+    "question": "Which among these are not the main constituents of LPG?",
+    "option1": "Methane",
+    "option2": "Butane",
+    "option3": "Propane",
+    "option4": "None of these",
+    "answer": "None of these"
+  },
+  {
+    "id": 34,
+    "question": "What is the relationship between bond energy and bond length?",
+    "option1": "Independent",
+    "option2": "Proportional",
+    "option3": "Inversely proportional",
+    "option4": "None of these",
+    "answer": "Inversely proportional"
+  },
+  {
+    "id": 35,
+    "question": "Which among the following acids is abundant in Grapes, Bananas and Tamarind?",
+    "option1": "Lactic acid",
+    "option2": "Oxalic acid",
+    "option3": "Salicylic acid",
+    "option4": "Tartaric acid",
+    "answer": "Tartaric acid"
+  },
+  {
+    "id": 36,
+    "question": "Which one among the following is called philosophers wool?",
+    "option1": "Zinc bromide",
+    "option2": "Zinc oxide",
+    "option3": "Zinc nitrate",
+    "option4": "Zinc chloride",
+    "answer": "Zinc oxide"
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following when dissolved in HO gives hissing sound?",
+    "option1": "Limestone",
+    "option2": "Slacked lime",
+    "option3": "Sode lime",
+    "option4": "Quick lime",
+    "answer": "Limestone"
+  },
+  {
+    "id": 38,
+    "question": "Glass is made of the mixture of",
+    "option1": "Quartz and mica",
+    "option2": "Sand and salt",
+    "option3": "Sand and silicates",
+    "option4": "None of these",
+    "answer": "Sand and silicates"
+  },
+  {
+    "id": 39,
+    "question": "Which one of the following is used as a filter in rubber tyres?",
+    "option1": "Graphite",
+    "option2": "Coal",
+    "option3": "Coke",
+    "option4": "Carbon black",
+    "answer": "Carbon black"
+  },
+  {
+    "id": 40,
+    "question": "Which one of the following polymeric matreials is used for making bullet proof jacket?",
+    "option1": "Nylon 6.6",
+    "option2": "Rayon",
+    "option3": "Kevlor",
+    "option4": "Dacron",
+    "answer": "Kevlor"
+  },
+  {
+    "id": 41,
+    "question": "Which alloy contains nickel?",
+    "option1": "Brass",
+    "option2": "Bronze",
+    "option3": "Invar",
+    "option4": "Solder",
+    "answer": "Invar"
+  },
+  {
+    "id": 42,
+    "question": "Which one of the following is also called Stranger Gas?",
+    "option1": "Argon",
+    "option2": "Neon",
+    "option3": "Xenon",
+    "option4": "Nitrous Oxide",
+    "answer": "Xenon"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a natural dye?",
+    "option1": "Crystal violet",
+    "option2": "Aniline blue",
+    "option3": "Alizarin",
+    "option4": "Phenolphthalein",
+    "answer": "Alizarin"
+  },
+  {
+    "id": 44,
+    "question": "What do we call the covalent bond where the electrons of the shared pair are contributed by only one species?",
+    "option1": "Polar Covalent bonds",
+    "option2": "Coordination Covalent bonds",
+    "option3": "Unilateral Covalent bonds",
+    "option4": "None of these",
+    "answer": "Coordination Covalent bonds"
+  },
+  {
+    "id": 45,
+    "question": "What is the bond angle in case of Ammonia molecule?",
+    "option1": "120°",
+    "option2": "150°",
+    "option3": "66°",
+    "option4": "107°",
+    "answer": "107°"
+  },
+  {
+    "id": 46,
+    "question": "Bagasse, a by-product of sugar manufacturing industry is used for the production of",
+    "option1": "Nylon",
+    "option2": "Glass",
+    "option3": "Paper",
+    "option4": "Alcohol",
+    "answer": "Paper"
+  },
+  {
+    "id": 47,
+    "question": "Which synthetic fibre is known as artificial silk?",
+    "option1": "Cotton",
+    "option2": "Rayon",
+    "option3": "Terylene",
+    "option4": "Nylon",
+    "answer": "Rayon"
+  },
+  {
+    "id": 48,
+    "question": "Mixture of which one of the following pairs of gases is the causes of occurance of most of the explosion in mines?",
+    "option1": "Hydrogen and oxygen",
+    "option2": "Oxygen and acetylene",
+    "option3": "Methane and air",
+    "option4": "Carbon dioxide and methane",
+    "answer": "Methane and air"
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following is used as a mordant in dying and tanning industry?",
+    "option1": "Magnesium oxide",
+    "option2": "Magnesium carbonate",
+    "option3": "Magnesium chloride",
+    "option4": "Magnesium sulphate",
+    "answer": "Magnesium sulphate"
+  },
+  {
+    "id": 50,
+    "question": "What are Rubies and Sapphires chemically known as",
+    "option1": "Silicon dioxide",
+    "option2": "Aluminium oxide",
+    "option3": "Lead tetra oxide",
+    "option4": "Boron nitride",
+    "answer": "Aluminium oxide"
+  }
+]

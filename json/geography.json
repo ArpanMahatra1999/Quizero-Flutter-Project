@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "World's longest river Nile has most part in",
+    "option1": "Egypt",
+    "option2": "Ethiopia",
+    "option3": "Sudan",
+    "option4": "Uganda",
+    "answer": "Egypt"
+  },
+  {
+    "id": 2,
+    "question": "Gibralter Strait separates which two continents?",
+    "option1": "Asia and Africa",
+    "option2": "Africa and Europe",
+    "option3": "North America and South America",
+    "option4": "None",
+    "answer": "Africa and Europe"
+  },
+  {
+    "id": 3,
+    "question": "Which city is at boundary of two continents?",
+    "option1": "Cairo",
+    "option2": "Istanbul",
+    "option3": "Jakarta",
+    "option4": "Algiers",
+    "answer": "Istanbul"
+  },
+  {
+    "id": 4,
+    "question": "What is the oldest active volcano on Earth?",
+    "option1": "Etna",
+    "option2": "Fuji Yama",
+    "option3": "Mauna Loa",
+    "option4": "Taal",
+    "answer": "Etna"
+  },
+  {
+    "id": 5,
+    "question": "Largest volcano on Earth?",
+    "option1": "Etna",
+    "option2": "Fuji Yama",
+    "option3": "Mauna Loa",
+    "option4": "Taal",
+    "answer": "Mauna Loa"
+  },
+  {
+    "id": 6,
+    "question": "Where is Nihoa, bird island?",
+    "option1": "Hawaai",
+    "option2": "Canada",
+    "option3": "Japan",
+    "option4": "Indonesia",
+    "answer": "Hawaai"
+  },
+  {
+    "id": 7,
+    "question": "What is the fastest flowing river in the world?",
+    "option1": "Amazon",
+    "option2": "Mississippi",
+    "option3": "Nile",
+    "option4": "Yangtze",
+    "answer": "Amazon"
+  },
+  {
+    "id": 8,
+    "question": "What is the largest country in South America?",
+    "option1": "Argentina",
+    "option2": "Brazil",
+    "option3": "Chile",
+    "option4": "Peru",
+    "answer": "Brazil"
+  },
+  {
+    "id": 9,
+    "question": "What river flows through Paris?",
+    "option1": "Elbe",
+    "option2": "Thames",
+    "option3": "Loire",
+    "option4": "Seine",
+    "answer": "Seine"
+  },
+  {
+    "id": 10,
+    "question": "Which ocean is Bermuda triangle in?",
+    "option1": "Atlatic",
+    "option2": "Arctic",
+    "option3": "Antarctic",
+    "option4": "Pacific",
+    "answer": "Atlatic"
+  },
+  {
+    "id": 11,
+    "question": "In which country is the ancient city of Petra?",
+    "option1": "Jordon",
+    "option2": "Israel",
+    "option3": "Peru",
+    "option4": "Syria",
+    "answer": "Jordon"
+  },
+  {
+    "id": 12,
+    "question": "Where is Mount Macchu Picchu?",
+    "option1": "Jordon",
+    "option2": "Israel",
+    "option3": "Peru",
+    "option4": "Syria",
+    "answer": "Peru"
+  },
+  {
+    "id": 13,
+    "question": "Where is ancient city of Damascus?",
+    "option1": "Jordon",
+    "option2": "Israel",
+    "option3": "Peru",
+    "option4": "Syria",
+    "answer": "Syria"
+  },
+  {
+    "id": 14,
+    "question": "The deepest trench in the world, the Mariana Trench, is located in which ocean?",
+    "option1": "Atlatic",
+    "option2": "Arctic",
+    "option3": "Antarctic",
+    "option4": "Pacific",
+    "answer": "Pacific"
+  },
+  {
+    "id": 15,
+    "question": "On 16 December 1971, East Pakistan was liberated from Pakistan becoming what newly independent state?",
+    "option1": "Bangladesh",
+    "option2": "India",
+    "option3": "Myanmar",
+    "option4": "Tibet",
+    "answer": "Bangladesh"
+  },
+  {
+    "id": 16,
+    "question": "Largest delta in the world",
+    "option1": "Amazon Delta",
+    "option2": "Ebro Delta",
+    "option3": "Fly Delta",
+    "option4": "Ganges–Brahmaputra Delta",
+    "answer": "Ganges–Brahmaputra Delta"
+  },
+  {
+    "id": 17,
+    "question": "Due to the extreme difficulty of ascent, what mountain is nicknamed the “Savage Mountain”?",
+    "option1": "Everest",
+    "option2": "K2",
+    "option3": "Kanchanjunga",
+    "option4": "Blanc",
+    "answer": "K2"
+  },
+  {
+    "id": 18,
+    "question": "What is the smallest country in the world?",
+    "option1": "Nauru",
+    "option2": "Palau",
+    "option3": "Monaco",
+    "option4": "Vatican",
+    "answer": "Vatican"
+  },
+  {
+    "id": 19,
+    "question": "Which Spanish Island is known as “The Island of Eternal Spring”?",
+    "option1": "Majorca",
+    "option2": "Tenerife",
+    "option3": "Ibiza",
+    "option4": "La Palma",
+    "answer": "Tenerife"
+  },
+  {
+    "id": 20,
+    "question": "Only sea on earth without coastline",
+    "option1": "Bering Sea",
+    "option2": "Laptev Sea",
+    "option3": "North Sea",
+    "option4": "Sargasso Sea",
+    "answer": "Sargasso Sea"
+  },
+  {
+    "id": 21,
+    "question": "Deepest lake",
+    "option1": "Baikal",
+    "option2": "Caspian",
+    "option3": "Nicaragua",
+    "option4": "Superior",
+    "answer": "Baikal"
+  },
+  {
+    "id": 22,
+    "question": "Largest lake",
+    "option1": "Baikal",
+    "option2": "Caspian",
+    "option3": "Nicaragua",
+    "option4": "Superior",
+    "answer": "Caspian"
+  },
+  {
+    "id": 23,
+    "question": "Which country has the most volcanoes?",
+    "option1": "Canada",
+    "option2": "Indonesia",
+    "option3": "Japan",
+    "option4": "Papua New Guinea",
+    "answer": "Indonesia"
+  },
+  {
+    "id": 24,
+    "question": "What nation produces two thirds of the world’s vanilla?",
+    "option1": "Congo",
+    "option2": "Angola",
+    "option3": "Madagascar",
+    "option4": "Micronesia",
+    "answer": "Madagascar"
+  },
+  {
+    "id": 25,
+    "question": "The duck billed platypus is native to what country?",
+    "option1": "Australia",
+    "option2": "New Zealand",
+    "option3": "Chile",
+    "option4": "Argentina",
+    "answer": "Australia"
+  },
+  {
+    "id": 26,
+    "question": "What country is called \"Land of Ice and Fire\"?",
+    "option1": "Finland",
+    "option2": "Greenland",
+    "option3": "Iceland",
+    "option4": "Scotland",
+    "answer": "Iceland"
+  },
+  {
+    "id": 27,
+    "question": "Land of thousands lakes",
+    "option1": "Brazil",
+    "option2": "Finland",
+    "option3": "Nepal",
+    "option4": "Russia",
+    "answer": "Finland"
+  },
+  {
+    "id": 28,
+    "question": "Lands of Rising and Midnight Sun",
+    "option1": "Japan and Norway",
+    "option2": "Norway and Iceland",
+    "option3": "Iceland and Canada",
+    "option4": "Canada and Japan",
+    "answer": "Japan and Norway"
+  },
+  {
+    "id": 29,
+    "question": "Country with most natural world heritage sites",
+    "option1": "Australia",
+    "option2": "China",
+    "option3": "Russia",
+    "option4": "USA",
+    "answer": "China"
+  },
+  {
+    "id": 30,
+    "question": "Country with most cultural world heritage sites",
+    "option1": "France",
+    "option2": "Germany",
+    "option3": "Italy",
+    "option4": "Spain",
+    "answer": "Italy"
+  },
+  {
+    "id": 31,
+    "question": "Country with most world heritage sites (55)",
+    "option1": "China and Italy",
+    "option2": "Italy and Germany",
+    "option3": "Germany and Spain",
+    "option4": "Spain and China",
+    "answer": "China and Italy"
+  },
+  {
+    "id": 32,
+    "question": "Largest rock in the world",
+    "option1": "Sigiriya",
+    "option2": "Sugarloaf",
+    "option3": "Uluru",
+    "option4": "Zuma",
+    "answer": "Uluru"
+  },
+  {
+    "id": 33,
+    "question": "What is the largest desert in the world?",
+    "option1": "Antarctica",
+    "option2": "Arctic",
+    "option3": "Australian",
+    "option4": "Sahara",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 34,
+    "question": "What African country has the largest population?",
+    "option1": "Congo",
+    "option2": "Egypt",
+    "option3": "Ethiopia",
+    "option4": "Nigeria",
+    "answer": "Nigeria"
+  },
+  {
+    "id": 35,
+    "question": "City with largest population",
+    "option1": "Delhi",
+    "option2": "Sao Paulo",
+    "option3": "Shanghai",
+    "option4": "Tokyo",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 36,
+    "question": "Oldest national park in the world",
+    "option1": "Banff",
+    "option2": "Bogd Khan Uul",
+    "option3": "Royal",
+    "option4": "Yellowstone",
+    "answer": "Bogd Khan Uul"
+  },
+  {
+    "id": 37,
+    "question": "What river runs through Baghdad?",
+    "option1": "Euphrates",
+    "option2": "Karun",
+    "option3": "Jordon",
+    "option4": "Tigris",
+    "answer": "Tigris"
+  },
+  {
+    "id": 38,
+    "question": "What country has the most natural lakes?",
+    "option1": "Australia",
+    "option2": "Canada",
+    "option3": "Finland",
+    "option4": "India",
+    "answer": "Canada"
+  },
+  {
+    "id": 39,
+    "question": "What is the driest place on Earth?",
+    "option1": "Atacama, Chile",
+    "option2": "Kufra, Libya",
+    "option3": "McMurdo, Antarctica",
+    "option4": "Sahara, Africa",
+    "answer": "McMurdo, Antarctica"
+  },
+  {
+    "id": 40,
+    "question": "Which African nation has the most pyramids?",
+    "option1": "Algeria",
+    "option2": "Egypt",
+    "option3": "Libya",
+    "option4": "Sudan",
+    "answer": "Sudan"
+  },
+  {
+    "id": 41,
+    "question": "What is the oldest city in the world?",
+    "option1": "Athens",
+    "option2": "Damascus",
+    "option3": "Jericho",
+    "option4": "Jerusalem",
+    "answer": "Damascus"
+  },
+  {
+    "id": 42,
+    "question": "What is the largest country on the Arabian Peninsula?",
+    "option1": "Jordon",
+    "option2": "Saudi Arabia",
+    "option3": "UAE",
+    "option4": "Yemen",
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 43,
+    "question": "What continent is located at Latitude 90° S Longitude 0.00° E?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Australia",
+    "option4": "Antarctica",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 44,
+    "question": "What is the deepest point in Earth's oceans?",
+    "option1": "Eurasian Basin",
+    "option2": "Java Trench",
+    "option3": "Mariana Trench",
+    "option4": "Tonga Trench",
+    "answer": "Mariana Trench"
+  },
+  {
+    "id": 45,
+    "question": "Which country isn't entirely surrounded by one country?",
+    "option1": "Lesotho",
+    "option2": "Mongolia",
+    "option3": "San Marino",
+    "option4": "Vatican",
+    "answer": "Mongolia"
+  },
+  {
+    "id": 46,
+    "question": "Largest landlocked country",
+    "option1": "Chad",
+    "option2": "Kazakhstan",
+    "option3": "Mongolia",
+    "option4": "Niger",
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 47,
+    "question": "What is the only continent with land in all four hemispheres?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Australia",
+    "option4": "Antarctica",
+    "answer": "Africa"
+  },
+  {
+    "id": 48,
+    "question": "Transylvania, the home of Dracula is in which country?",
+    "option1": "Austria",
+    "option2": "Bulgaria",
+    "option3": "Romania",
+    "option4": "Slovenia",
+    "answer": "Romania"
+  },
+  {
+    "id": 49,
+    "question": "Highest navigable lakes in the world",
+    "option1": "Acamarachi",
+    "option2": "Licancbur",
+    "option3": "Titicaca",
+    "option4": "Ojos del Salado",
+    "answer": "Titicaca"
+  },
+  {
+    "id": 50,
+    "question": "Which non-polar desert is the biggest desert in the world?",
+    "option1": "Arabian",
+    "option2": "Gobi",
+    "option3": "Kalahari",
+    "option4": "Sahara",
+    "answer": "Sahara"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "What is the distance between sun and earth?",
+    "option1": "149,600,000 km",
+    "option2": "14,600,000 km",
+    "option3": "19,600,000 km",
+    "option4": "109,400,000 km",
+    "answer": "149,600,000 km"
+  },
+  {
+    "id": 2,
+    "question": "A hypothetical reservoir for comets is called",
+    "option1": "Solar flare",
+    "option2": "Milky way",
+    "option3": "Oort cloud",
+    "option4": "Andromeda",
+    "answer": "Oort cloud"
+  },
+  {
+    "id": 3,
+    "question": "How many satellites does Mars have?",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Who discovered four main moons of Jupiter in 1610?",
+    "option1": "Carl Sagan",
+    "option2": "Galileo Galilei",
+    "option3": "Johannes Kepler",
+    "option4": "Nicolaus Copernicus",
+    "answer": "Galileo Galilei"
+  },
+  {
+    "id": 5,
+    "question": "A unit of measurement used to describe the expansion of the Universe is called",
+    "option1": "km/s",
+    "option2": "Lemaitre value",
+    "option3": "Hubble constant",
+    "option4": "Pi",
+    "answer": "Hubble constant"
+  },
+  {
+    "id": 6,
+    "question": "Which two gases make most of the sun?",
+    "option1": "Hydrogen and Helium",
+    "option2": "Hydrogen and Oxygen",
+    "option3": "Oxygen and Helium",
+    "option4": "Helium and Carbon",
+    "answer": "Hydrogen and Helium"
+  },
+  {
+    "id": 7,
+    "question": "Which star is closest to sun",
+    "option1": "Alpha Centauri A",
+    "option2": "Alpha Centauri B",
+    "option3": "Barnard's Star",
+    "option4": "Proxima Centauri",
+    "answer": "Proxima Centauri"
+  },
+  {
+    "id": 8,
+    "question": "Vesta is which type of heavenly body?",
+    "option1": "Asteroid",
+    "option2": "Comet",
+    "option3": "Planet",
+    "option4": "Satellite",
+    "answer": "Asteroid"
+  },
+  {
+    "id": 9,
+    "question": "Largest satellite in solar system is",
+    "option1": "Callisto",
+    "option2": "Ganymede",
+    "option3": "Moon",
+    "option4": "Titan",
+    "answer": "Ganymede"
+  },
+  {
+    "id": 10,
+    "question": "How many terrestrial planets are there in the Solar system?",
+    "option1": "4",
+    "option2": "3",
+    "option3": "2",
+    "option4": "1",
+    "answer": "4"
+  },
+  {
+    "id": 11,
+    "question": "Where is the largest volcano in the Solar system?",
+    "option1": "Earth",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "answer": "Mars"
+  },
+  {
+    "id": 12,
+    "question": "Which of these stars do not make Summer Triangle?",
+    "option1": "Altair",
+    "option2": "Deneb",
+    "option3": "Sun",
+    "option4": "Vega",
+    "answer": "Sun"
+  },
+  {
+    "id": 13,
+    "question": "A powerful Star explosion is called",
+    "option1": "Big Bang",
+    "option2": "Heat Blast",
+    "option3": "Solar Flare",
+    "option4": "Supernova",
+    "answer": "Supernova"
+  },
+  {
+    "id": 14,
+    "question": "Which are the two ice giants of the solar system?",
+    "option1": "Jupiter and Saturn",
+    "option2": "Earth and Mars",
+    "option3": "Uranus and Neptune",
+    "option4": "Venus and Neptune",
+    "answer": "Uranus and Neptune"
+  },
+  {
+    "id": 15,
+    "question": "What is the orbital period of Halley’s comet?",
+    "option1": "12 years",
+    "option2": "32 years",
+    "option3": "51 years",
+    "option4": "76 years",
+    "answer": "76 years"
+  },
+  {
+    "id": 16,
+    "question": "Who speculated that our universe is expanding?",
+    "option1": "Newton",
+    "option2": "Hubble",
+    "option3": "Galileo",
+    "option4": "Copernicus",
+    "answer": "Hubble"
+  },
+  {
+    "id": 17,
+    "question": "Who had propounded the planetary laws?",
+    "option1": "Newton",
+    "option2": "Hubble",
+    "option3": "Galileo",
+    "option4": "Kepler",
+    "answer": "Kepler"
+  },
+  {
+    "id": 18,
+    "question": "Who had proved first that our earth and another planet are revolving?",
+    "option1": "Aristotle",
+    "option2": "Galileo",
+    "option3": "Copernicus",
+    "option4": "Hubble",
+    "answer": "Copernicus"
+  },
+  {
+    "id": 19,
+    "question": "Which one of the following elements occurs most abundantly in our universe?",
+    "option1": "Hydrogen",
+    "option2": "Helium",
+    "option3": "Oxygen",
+    "option4": "Nitrogen",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 20,
+    "question": "The stellar and solar source of energy is:",
+    "option1": "Nuclear fusion",
+    "option2": "Nuclear fission",
+    "option3": "Electromagnetic induction",
+    "option4": "Electromotive force",
+    "answer": "Nuclear fusion"
+  },
+  {
+    "id": 21,
+    "question": "The device employed to measure the diameters of stars and our galaxy (Milky Way) is called:",
+    "option1": "Photometer",
+    "option2": "Barometer",
+    "option3": "Viscometer",
+    "option4": "Interferometer",
+    "answer": "Interferometer"
+  },
+  {
+    "id": 22,
+    "question": "Which planet has most satellites?",
+    "option1": "Jupiter",
+    "option2": "Saturn",
+    "option3": "Uranus",
+    "option4": "Neptune",
+    "answer": "Saturn"
+  },
+  {
+    "id": 23,
+    "question": "Which one of the following planet is also called morning star or evening star?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Earth",
+    "option4": "Mars",
+    "answer": "Venus"
+  },
+  {
+    "id": 24,
+    "question": "The planet which completes one revolution in 88 days around the Sun is:",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Earth",
+    "option4": "Mars",
+    "answer": "Mercury"
+  },
+  {
+    "id": 25,
+    "question": "The planet whose density is less than water and on keeping in the water it will start to float:",
+    "option1": "Mercury",
+    "option2": "Earth",
+    "option3": "Mars",
+    "option4": "Saturn",
+    "answer": "Saturn"
+  },
+  {
+    "id": 26,
+    "question": "The planet Neptune was discovered by:",
+    "option1": "Galley",
+    "option2": "Galileo",
+    "option3": "Kepler",
+    "option4": "Newton",
+    "answer": "Galley"
+  },
+  {
+    "id": 27,
+    "question": "The small groups of planetary pieces which are confined and revolving between Mars and Jupiter are called:",
+    "option1": "Asteroids",
+    "option2": "Celestial bodies",
+    "option3": "Comet",
+    "option4": "Meteors",
+    "answer": "Asteroids"
+  },
+  {
+    "id": 28,
+    "question": "The day on which the Sun’s direct rays cross the celestial equator is called:",
+    "option1": "ecliptic",
+    "option2": "equinox",
+    "option3": "solstice",
+    "option4": "aphelion",
+    "answer": "equinox"
+  },
+  {
+    "id": 29,
+    "question": "Who invented the telescope?",
+    "option1": "Lippershey",
+    "option2": "Galileo",
+    "option3": "Hypatia",
+    "option4": "Kepler",
+    "answer": "Lippershey"
+  },
+  {
+    "id": 30,
+    "question": "What is the visible part of the Sun called?",
+    "option1": "stratosphere",
+    "option2": "photosphere",
+    "option3": "lithosphere",
+    "option4": "atmosphere",
+    "answer": "photosphere"
+  },
+  {
+    "id": 31,
+    "question": "What makes a planet a dwarf planet?",
+    "option1": "size and shape",
+    "option2": "distance from sun",
+    "option3": "color",
+    "option4": "smell",
+    "answer": "size and shape"
+  },
+  {
+    "id": 32,
+    "question": "How many times larger is the radius of the Sun than that of the Earth?",
+    "option1": 109,
+    "option2": 10,
+    "option3": 4.8,
+    "option4": 1025,
+    "answer": 109
+  },
+  {
+    "id": 33,
+    "question": "Approximately how many miles are there in a light-year?",
+    "option1": "0.59 million",
+    "option2": "5.9 billion",
+    "option3": "5.9 trillion",
+    "option4": "5.9 million",
+    "answer": "5.9 trillion"
+  },
+  {
+    "id": 34,
+    "question": "Who first discovered Saturn’s rings?",
+    "option1": "Galley",
+    "option2": "Galileo",
+    "option3": "Kepler",
+    "option4": "Newton",
+    "answer": "Galileo"
+  },
+  {
+    "id": 35,
+    "question": "What was the first animal launched into orbit?",
+    "option1": "Chimpanzee",
+    "option2": "Guinea Pig",
+    "option3": "Cat",
+    "option4": "Dog",
+    "answer": "Dog"
+  },
+  {
+    "id": 36,
+    "question": "Who was the first man in space?",
+    "option1": "Alexey Leonov",
+    "option2": "Neil Armstrong",
+    "option3": "Scott Carpenter",
+    "option4": "Yuri Gagarin",
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": 37,
+    "question": "Who was the first woman in space?",
+    "option1": "Sally Ride",
+    "option2": "Mae Jemison",
+    "option3": "Valentina Tereshkova",
+    "option4": "Svetlana Savitskaya",
+    "answer": "Valentina Tereshkova"
+  },
+  {
+    "id": 38,
+    "question": "What was Buzz Aldrin’s first name at birth?",
+    "option1": "Stephen",
+    "option2": "Scott",
+    "option3": "Earl",
+    "option4": "Edwin",
+    "answer": "Edwin"
+  },
+  {
+    "id": 39,
+    "question": "Who was the second U.S. astronaut to travel into space?",
+    "option1": "John Young",
+    "option2": "Edward White",
+    "option3": "Roger Chaffee",
+    "option4": "Virgil Grissom",
+    "answer": "Virgil Grissom"
+  },
+  {
+    "id": 40,
+    "question": "The first American astronaut to float in space",
+    "option1": "John Young",
+    "option2": "Edward White",
+    "option3": "Roger Chaffee",
+    "option4": "Virgil Grissom",
+    "answer": "Edward White"
+  },
+  {
+    "id": 41,
+    "question": "India's first scientific satellite",
+    "option1": "Aryabhatta",
+    "option2": "Bikramaditya",
+    "option3": "Chandrakanta",
+    "option4": "Devashree",
+    "answer": "Aryabhatta"
+  },
+  {
+    "id": 42,
+    "question": "The first space tourist in the world",
+    "option1": "Anousheh Ansari",
+    "option2": "Charles Simonyi",
+    "option3": "Dennis Tito",
+    "option4": "Mark Shuttleworth",
+    "answer": "Dennis Tito"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following phenomena cannot be observed on the surface of the Moon?",
+    "option1": "Rising and setting of the Sun",
+    "option2": "Solar eclipse",
+    "option3": "Motion of comets",
+    "option4": "Twinkling of stars",
+    "answer": "Twinkling of stars"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following planets has a revolution time which is shorter than its rotation time?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Venus"
+  },
+  {
+    "id": 45,
+    "question": "Which planet looks reddish in the night sky?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Mars"
+  },
+  {
+    "id": 46,
+    "question": "Which female astronaut spent the maximum time in space?",
+    "option1": "Lisa Norwak",
+    "option2": "Kalpana Chawla",
+    "option3": "Sunita Williams",
+    "option4": "Valentina Tereshkova",
+    "answer": "Sunita Williams"
+  },
+  {
+    "id": 47,
+    "question": "Which planet has the fastest revolution time?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Mercury"
+  },
+  {
+    "id": 48,
+    "question": "An astronaut in outer space will observe sky as",
+    "option1": "Red",
+    "option2": "Blue",
+    "option3": "Black",
+    "option4": "White",
+    "answer": "Black"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following planets rotates in a direction opposite to the direction of earth's rotation?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Venus"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following planets has a lesser rotation time than the Earth?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Jupiter"
+  }
+]

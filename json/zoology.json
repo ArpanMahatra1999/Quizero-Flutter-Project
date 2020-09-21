@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Yellow fever is spread by",
+    "option1": "Air",
+    "option2": "Water",
+    "option3": "House fly",
+    "option4": "Mosquito",
+    "answer": "House fly"
+  },
+  {
+    "id": 2,
+    "question": "Rh factor is present in",
+    "option1": "Blood",
+    "option2": "Urine",
+    "option3": "Lymph",
+    "option4": "Sputum",
+    "answer": "Blood"
+  },
+  {
+    "id": 3,
+    "question": "BCG Vaccination is injected to get immunity from",
+    "option1": "Polio",
+    "option2": "Cholera",
+    "option3": "Small Pox",
+    "option4": "Tuberculosis",
+    "answer": "Tuberculosis"
+  },
+  {
+    "id": 4,
+    "question": "The structure of double helix of DNA was described by",
+    "option1": "Soha",
+    "option2": "Watson and Crick",
+    "option3": "Fleming",
+    "option4": "Hawking",
+    "answer": "Watson and Crick"
+  },
+  {
+    "id": 5,
+    "question": "Which among the following helps in circulation of blood?",
+    "option1": "Lymphocytes",
+    "option2": "Monocytes",
+    "option3": "Erythrocytes",
+    "option4": "Blood Platelets",
+    "answer": "Lymphocytes"
+  },
+  {
+    "id": 6,
+    "question": "The fungal derivative used in the treatment of tuberculosis is",
+    "option1": "Anacin",
+    "option2": "Aspirin",
+    "option3": "Streptomycin",
+    "option4": "Tetracycline",
+    "answer": "Streptomycin"
+  },
+  {
+    "id": 7,
+    "question": "How many pairs of spinal nerves are present in the human body?",
+    "option1": 28,
+    "option2": 31,
+    "option3": 35,
+    "option4": 42,
+    "answer": 31
+  },
+  {
+    "id": 8,
+    "question": "What cause malaria and sleeping sickness?",
+    "option1": "Bacteria",
+    "option2": "Viruses",
+    "option3": "Protozoans",
+    "option4": "None of these",
+    "answer": "Protozoans"
+  },
+  {
+    "id": 9,
+    "question": "Number of bones in human body is",
+    "option1": 220,
+    "option2": 292,
+    "option3": 302,
+    "option4": 206,
+    "answer": 206
+  },
+  {
+    "id": 10,
+    "question": "Which of the following organism is iteroparous?",
+    "option1": "Pacific Salmon Fish",
+    "option2": "Virus",
+    "option3": "Bacteria",
+    "option4": "Human",
+    "answer": "Human"
+  },
+  {
+    "id": 11,
+    "question": "The science related to the study of the composition of tissues is called",
+    "option1": "Cytology",
+    "option2": "Mycology",
+    "option3": "Histology",
+    "option4": "Anatomy",
+    "answer": "Histology"
+  },
+  {
+    "id": 12,
+    "question": "A hereditary disease which progressively damages muscle fibres and eventually destroys them is",
+    "option1": "Muscular Dystrophy",
+    "option2": "Hepatitis",
+    "option3": "Meningitis",
+    "option4": "None of these",
+    "answer": "Muscular Dystrophy"
+  },
+  {
+    "id": 13,
+    "question": "A branch of science dealing with the study of teeth is",
+    "option1": "Gerontology",
+    "option2": "Odontology",
+    "option3": "Entomology",
+    "option4": "Ornithology",
+    "answer": "Odontology"
+  },
+  {
+    "id": 14,
+    "question": "The phenomenon of summer sleep by animals is called",
+    "option1": "Hibernation",
+    "option2": "Aestivation",
+    "option3": "Laziness",
+    "option4": "Lethargy",
+    "answer": "Aestivation"
+  },
+  {
+    "id": 15,
+    "question": "The phenomenon of winter sleep by animals is called",
+    "option1": "Hibernation",
+    "option2": "Aestivation",
+    "option3": "Laziness",
+    "option4": "Lethargy",
+    "answer": "Hibernation"
+  },
+  {
+    "id": 16,
+    "question": "Night blindness is caused due to deficiency of Vitamin",
+    "option1": "A",
+    "option2": "B",
+    "option3": "E",
+    "option4": "K",
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Skeleton of sponges is produced by",
+    "option1": "Sclerocytes",
+    "option2": "Thescocytes",
+    "option3": "Pinacocytes",
+    "option4": "Choanocytes",
+    "answer": "Sclerocytes"
+  },
+  {
+    "id": 18,
+    "question": "Sweating on palm and sole due to psychic stimuli is called",
+    "option1": "Bradykinin",
+    "option2": "Blushing",
+    "option3": "Cold Sweat",
+    "option4": "None of these",
+    "answer": "Cold Sweat"
+  },
+  {
+    "id": 19,
+    "question": "In scorpion, poison is present in the",
+    "option1": "Leg",
+    "option2": "Hand",
+    "option3": "Sting",
+    "option4": "Mouth",
+    "answer": "Sting"
+  },
+  {
+    "id": 20,
+    "question": "What is the study of the basic principals, procedures, and rules of classification?",
+    "option1": "Nomenclature",
+    "option2": "Systematics",
+    "option3": "Taxonomy",
+    "option4": "Classification",
+    "answer": "Taxonomy"
+  },
+  {
+    "id": 21,
+    "question": "Since the 1700's, the naming system is a",
+    "option1": "Monomial",
+    "option2": "Binomial",
+    "option3": "Trinomial",
+    "option4": "Decanomial",
+    "answer": "Binomial"
+  },
+  {
+    "id": 22,
+    "question": "Birds excrete nitrogenous waste in the form of",
+    "option1": "Urea",
+    "option2": "Ammonia",
+    "option3": "Fatty Acid",
+    "option4": "Uric Acid",
+    "answer": "Uric Acid"
+  },
+  {
+    "id": 23,
+    "question": "Medulla oblongata is called",
+    "option1": "Piameter",
+    "option2": "Durameter",
+    "option3": "Vital Knot",
+    "option4": "Pons Varolii",
+    "answer": "Vital Knot"
+  },
+  {
+    "id": 24,
+    "question": "Bleeding of gums is one of the symptoms of",
+    "option1": "Beri Beri",
+    "option2": "Scurvy",
+    "option3": "Sterility",
+    "option4": "Pellagra",
+    "answer": "Scurvy"
+  },
+  {
+    "id": 25,
+    "question": "Rabies is transmitted by",
+    "option1": "Bugs",
+    "option2": "Flies",
+    "option3": "Dogs",
+    "option4": "Cats",
+    "answer": "Dogs"
+  },
+  {
+    "id": 26,
+    "question": "The outer convex region of kidney is called",
+    "option1": "Cortex",
+    "option2": "Calyces",
+    "option3": "Nephron",
+    "option4": "Pelvis",
+    "answer": "Cortex"
+  },
+  {
+    "id": 27,
+    "question": "The escape of haemoglobin from RBC is known as",
+    "option1": "Clotting",
+    "option2": "Thermolysis",
+    "option3": "Anaemia",
+    "option4": "Haemorrhage",
+    "answer": "Thermolysis"
+  },
+  {
+    "id": 28,
+    "question": "The color of inner part of brain",
+    "option1": "Red",
+    "option2": "Blue",
+    "option3": "Green",
+    "option4": "White",
+    "answer": "White"
+  },
+  {
+    "id": 29,
+    "question": "The largest living animals belong to the group of",
+    "option1": "Fishes",
+    "option2": "Birds",
+    "option3": "Invertebrates",
+    "option4": "Mammals",
+    "answer": "Mammals"
+  },
+  {
+    "id": 30,
+    "question": "Dialysis is given to a man having problems in",
+    "option1": "Phosphorus",
+    "option2": "Magnesium",
+    "option3": "Calcium",
+    "option4": "Iron",
+    "answer": "Iron"
+  },
+  {
+    "id": 31,
+    "question": "Which among the following helps in circulation of blood?",
+    "option1": "Lymphocytes",
+    "option2": "Monocytes",
+    "option3": "Arythrocytes",
+    "option4": "Blood Platelets",
+    "answer": "Lymphocytes"
+  },
+  {
+    "id": 32,
+    "question": "Which among the following is a large spectrum Antibiotic?",
+    "option1": "Penicillin",
+    "option2": "Paracetamol",
+    "option3": "Ampicillin",
+    "option4": "Chloramphenicol",
+    "answer": "Ampicillin"
+  },
+  {
+    "id": 33,
+    "question": "Our bones and teeth are generally made of",
+    "option1": "Hydrolith",
+    "option2": "Chloropetite",
+    "option3": "Fluoropetite",
+    "option4": "Tricalcium phosphate",
+    "answer": "Tricalcium phosphate"
+  },
+  {
+    "id": 34,
+    "question": "The fungal derivative used in the treatment of tuberculosis is",
+    "option1": "Anacin",
+    "option2": "Streptomycin",
+    "option3": "Aspirin",
+    "option4": "Tetracycline",
+    "answer": "Streptomycin"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is also called Jelly Fish?",
+    "option1": "Hydra",
+    "option2": "Aurelia",
+    "option3": "Physelia",
+    "option4": "Matrideam",
+    "answer": "Aurelia"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following disease is related to Vitamin B3?",
+    "option1": "Pellagra",
+    "option2": "Night blindness",
+    "option3": "Rickets",
+    "option4": "Beri Beri",
+    "answer": "Pellagra"
+  },
+  {
+    "id": 37,
+    "question": "Which one among the following is not a living fossil?",
+    "option1": "Diplodocus",
+    "option2": "Elephant Shrew",
+    "option3": "Stromatolite",
+    "option4": "Ginkgo",
+    "answer": "Diplodocus"
+  },
+  {
+    "id": 38,
+    "question": "Which one of the following genetic diseases is sex linked?",
+    "option1": "Cystic fibrosis",
+    "option2": "Haemophilia",
+    "option3": "Tay-Sachs Disease",
+    "option4": "None of these",
+    "answer": "Haemophilia"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following does not have blood but undergoes respiration?",
+    "option1": "Kangaroo",
+    "option2": "Cockroach",
+    "option3": "Hydra",
+    "option4": "Snail",
+    "answer": "Hydra"
+  },
+  {
+    "id": 40,
+    "question": "The scientist who firstly explained about the blood circulation",
+    "option1": "Ronald Ross",
+    "option2": "J.G. Mendel",
+    "option3": "William Harvey",
+    "option4": "Leeuwenhoek",
+    "answer": "William Harvey"
+  },
+  {
+    "id": 41,
+    "question": "The study of bones is done under the branch of science called",
+    "option1": "Geology",
+    "option2": "Seromology",
+    "option3": "Orology",
+    "option4": "Osteology",
+    "answer": "Osteology"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following does not have any enzymes in its cells?",
+    "option1": "Lichen",
+    "option2": "Virus",
+    "option3": "Bacteria",
+    "option4": "Algae",
+    "answer": "Virus"
+  },
+  {
+    "id": 43,
+    "question": "In which organ of the human body are the lymphocytes formed?",
+    "option1": "Liver",
+    "option2": "Bone Marrow",
+    "option3": "Spleen",
+    "option4": "Pancreas",
+    "answer": "Bone Marrow"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following hormones contains Iodine?",
+    "option1": "Testosterone",
+    "option2": "Adrenaline",
+    "option3": "Thyroxine",
+    "option4": "Insulin",
+    "answer": "Insulin"
+  },
+  {
+    "id": 45,
+    "question": "AIDS is caused by",
+    "option1": "Helminth",
+    "option2": "Bacteria",
+    "option3": "Fungus",
+    "option4": "Virus",
+    "answer": "Virus"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a substance available in small quantity in the sea and administered in a certain deficiency disease?",
+    "option1": "Fluorine",
+    "option2": "Iodine",
+    "option3": "Iron",
+    "option4": "Vitamin A",
+    "answer": "Iodine"
+  },
+  {
+    "id": 47,
+    "question": "The mad cow disease is caused by",
+    "option1": "Virus",
+    "option2": "Fungus",
+    "option3": "Prion",
+    "option4": "Bacteria",
+    "answer": "Prion"
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following disease is not caused by virus?",
+    "option1": "Rabies",
+    "option2": "Polio",
+    "option3": "Diphtheria",
+    "option4": "Small Pox",
+    "answer": "Diphtheria"
+  },
+  {
+    "id": 49,
+    "question": "What is the second fastest land animal in the world?",
+    "option1": "Springbuk",
+    "option2": "Leopard",
+    "option3": "Pronghorn",
+    "option4": "Jackrabbit",
+    "answer": "Pronghorn"
+  },
+  {
+    "id": 50,
+    "question": "Which is the next animal in 'Big five' of Africa after lion, leopard, rhino and elephant?",
+    "option1": "Cape Buffalo",
+    "option2": "Hartebeest",
+    "option3": "Spotted Hyena",
+    "option4": "Warthog",
+    "answer": "Cape Buffalo"
+  }
+]

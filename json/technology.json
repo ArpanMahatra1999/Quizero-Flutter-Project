@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Jeff Bezos is CEO and President of which online retailer?",
+    "option1": "Amazon",
+    "option2": "Apple",
+    "option3": "Otto",
+    "option4": "Walmart",
+    "answer": "Amazon"
+  },
+  {
+    "id": 2,
+    "question": "Which social media app only lets you view pictures and messages for a limited time?",
+    "option1": "Messenger",
+    "option2": "Snapchat",
+    "option3": "Viber",
+    "option4": "Whatsapp",
+    "answer": "Snapchat"
+  },
+  {
+    "id": 3,
+    "question": "Which prestigious university did Microsoft founder Bill Gates drop out of?",
+    "option1": "Harvard University",
+    "option2": "Stanford University",
+    "option3": "MIT",
+    "option4": "University of California",
+    "answer": "Harvard University"
+  },
+  {
+    "id": 4,
+    "question": "Created in 1990, what was the name of the first internet search engine?",
+    "option1": "Archie",
+    "option2": "Baidu",
+    "option3": "Duckduckgo",
+    "option4": "Google",
+    "answer": "Archie"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of Elon Musk’s aerospace company?",
+    "option1": "Airbus",
+    "option2": "Boeing",
+    "option3": "Safran",
+    "option4": "SpaceX",
+    "answer": "SpaceX"
+  },
+  {
+    "id": 6,
+    "question": "Which duo invented the aeroplane?",
+    "option1": "Darwin and Wallace",
+    "option2": "Watson and Crick",
+    "option3": "Wright Brothers",
+    "option4": "None of these",
+    "answer": "Wright Brothers"
+  },
+  {
+    "id": 7,
+    "question": "Originally amazon only sold which product?",
+    "option1": "Books",
+    "option2": "Clothes",
+    "option3": "Laptops",
+    "option4": "Mobiles",
+    "answer": "Books"
+  },
+  {
+    "id": 8,
+    "question": "Who founded Apple Computer?",
+    "option1": "Bill Gates",
+    "option2": "Sheryl Sandberg",
+    "option3": "Steve Jobs",
+    "option4": "Sunder Pichai",
+    "answer": "Steve Jobs"
+  },
+  {
+    "id": 9,
+    "question": "Which of these is not a peripheral, in computer terms?",
+    "option1": "Keyboard",
+    "option2": "Monitor",
+    "option3": "Motherboard",
+    "option4": "Mouse",
+    "answer": "Motherboard"
+  },
+  {
+    "id": 10,
+    "question": "What does the Internet prefix WWW stand for?",
+    "option1": "Western Washington World",
+    "option2": "Wide Width Wickets",
+    "option3": "World Wide Weather",
+    "option4": "World Wide Web",
+    "answer": "World Wide Web"
+  },
+  {
+    "id": 11,
+    "question": "A network designed to allow communication within an organization is called:",
+    "option1": "Browser",
+    "option2": "Internet",
+    "option3": "Intranet",
+    "option4": "WWW",
+    "answer": "Intranet"
+  },
+  {
+    "id": 12,
+    "question": "Which of these is not a kind of computer?",
+    "option1": "Apple",
+    "option2": "Dell",
+    "option3": "Lada",
+    "option4": "Lenovo",
+    "answer": "Lada"
+  },
+  {
+    "id": 13,
+    "question": "What device, released in 1993, gave rise to the term personal digital assistant?",
+    "option1": "Iphone",
+    "option2": "Microsoft Surface",
+    "option3": "Newton Messagepad",
+    "option4": "Palm Pilot",
+    "answer": "Newton Messagepad"
+  },
+  {
+    "id": 14,
+    "question": "What is the name for a computer pointing device?",
+    "option1": "Modem",
+    "option2": "Monitor",
+    "option3": "Mouse",
+    "option4": "Sound card",
+    "answer": "Mouse"
+  },
+  {
+    "id": 15,
+    "question": "What operating system did Google develop?",
+    "option1": "Android",
+    "option2": "Blackberry OS",
+    "option3": "IOS",
+    "option4": "Windows",
+    "answer": "Android"
+  },
+  {
+    "id": 16,
+    "question": "What does the acronym FTP stand for?",
+    "option1": "Free Transfer Power",
+    "option2": "File Transfer Protocol",
+    "option3": "File Tripling Power",
+    "option4": "First Tripler Point",
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "id": 17,
+    "question": "Which of these is not one of the early “protocols,” or ways to use the Internet?",
+    "option1": "Blogging",
+    "option2": "FTP",
+    "option3": "Gopher",
+    "option4": "Telnet",
+    "answer": "Blogging"
+  },
+  {
+    "id": 18,
+    "question": "What is part of a database that holds only one type of information?",
+    "option1": "Report",
+    "option2": "Field",
+    "option3": "Record",
+    "option4": "File",
+    "answer": "Field"
+  },
+  {
+    "id": 19,
+    "question": "OS computer abbreviation usually means ?",
+    "option1": "Order of Significance",
+    "option2": "Open Software",
+    "option3": "Operating System",
+    "option4": "Optical Sensor",
+    "answer": "Operating System"
+  },
+  {
+    "id": 20,
+    "question": "'.MOV' extension refers usually to what kind of file?",
+    "option1": "Image",
+    "option2": "Animation/Movie",
+    "option3": "Audio",
+    "option4": "MS Office Document",
+    "answer": "Animation/Movie"
+  },
+  {
+    "id": 21,
+    "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+    "option1": "Sound",
+    "option2": "Remote Control",
+    "option3": "Color Balance",
+    "option4": "High Voltage",
+    "answer": "Remote Control"
+  },
+  {
+    "id": 22,
+    "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+    "option1": "Flash",
+    "option2": "Frange",
+    "option3": "Fury",
+    "option4": "FRAM",
+    "answer": "Flash"
+  },
+  {
+    "id": 23,
+    "question": "The purpose of choke in tube light is to",
+    "option1": "decrease current",
+    "option2": "increase current",
+    "option3": "decrease voltage",
+    "option4": "increase voltage",
+    "answer": "increase voltage"
+  },
+  {
+    "id": 24,
+    "question": "'.MPG' extension refers usually to what kind of file?",
+    "option1": "Image",
+    "option2": "Animation/Movie",
+    "option3": "Audio",
+    "option4": "MS Office Document",
+    "answer": "Animation/Movie"
+  },
+  {
+    "id": 25,
+    "question": "Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+    "option1": "Alan Turing",
+    "option2": "Jeff Bezos",
+    "option3": "George Boole",
+    "option4": "Charles Babbage",
+    "answer": "Alan Turing"
+  },
+  {
+    "id": 26,
+    "question": "Who developed Yahoo?",
+    "option1": "Dennis Ritchie & Ken Thompson",
+    "option2": "David Filo & Jerry Yang",
+    "option3": "Vint Cerf & Robert Kahn",
+    "option4": "Steve Case & Jeff Bezos",
+    "answer": "David Filo & Jerry Yang"
+  },
+  {
+    "id": 27,
+    "question": "Made from a variety of materials, such as carbon, which inhibits the flow of current?",
+    "option1": "Choke",
+    "option2": "Inductor",
+    "option3": "Resistor",
+    "option4": "Capacitor",
+    "answer": "Resistor"
+  },
+  {
+    "id": 28,
+    "question": "The most common format for a home video recorder is VHS. VHS stands for",
+    "option1": "Video Home System",
+    "option2": "Very High Speed",
+    "option3": "Video Horizontal Standard",
+    "option4": "Voltage House Standard",
+    "answer": "Video Home System"
+  },
+  {
+    "id": 29,
+    "question": "What does VVVF stand for?",
+    "option1": "Variant Voltage Vile Frequency",
+    "option2": "Variable Velocity Variable Fun",
+    "option3": "Very Very Vicious Frequency",
+    "option4": "Variable Voltage Variable Frequency",
+    "answer": "Variable Voltage Variable Frequency"
+  },
+  {
+    "id": 30,
+    "question": "What frequency range is the High Frequency band?",
+    "option1": "100 kHz",
+    "option2": "1 GHz",
+    "option3": "30 to 300 MHz",
+    "option4": "3 to 30 MHz",
+    "answer": "3 to 30 MHz"
+  },
+  {
+    "id": 31,
+    "question": "What is the relationship between resistivity r and conductivity s?",
+    "option1": "R = 2s",
+    "option2": "R = s",
+    "option3": "R = 1/s",
+    "option4": "Independent",
+    "answer": "R = 1/s"
+  },
+  {
+    "id": 32,
+    "question": "What does the term PLC stand for?",
+    "option1": "Programmable Lift Computer",
+    "option2": "Program List Control",
+    "option3": "Programmable Logic Controller",
+    "option4": "Piezo Lamp Connector",
+    "answer": "Programmable Logic Controller"
+  },
+  {
+    "id": 33,
+    "question": "'DB' computer abbreviation usually means",
+    "option1": "Database",
+    "option2": "Double Byte",
+    "option3": "Data Block",
+    "option4": "Driver Boot",
+    "answer": "Database"
+  },
+  {
+    "id": 34,
+    "question": "'.INI' extension refers usually to what kind of file?",
+    "option1": "Image file",
+    "option2": "System file",
+    "option3": "Hypertext related file",
+    "option4": "None of these",
+    "answer": "System file"
+  },
+  {
+    "id": 35,
+    "question": "After the first photons of light are produced, which process is responsible for amplification of the light?",
+    "option1": "Blackbody radiation",
+    "option2": "Stimulated emission",
+    "option3": "Planck's radiation",
+    "option4": "Einstein oscillation",
+    "answer": "Stimulated emission"
+  },
+  {
+    "id": 36,
+    "question": "Who co-founded Hotmail in 1996 and then sold the company to Microsoft?",
+    "option1": "Shawn Fanning",
+    "option2": "Ada Byron Lovelace",
+    "option3": "Sabeer Bhatia",
+    "option4": "Ray Tomlinson",
+    "answer": "Sabeer Bhatia"
+  },
+  {
+    "id": 37,
+    "question": "'.TMP' extension refers usually to what kind of file?",
+    "option1": "Compressed Archive file",
+    "option2": "Image file",
+    "option3": "Temporary file",
+    "option4": "Audio file",
+    "answer": "Temporary file"
+  },
+  {
+    "id": 38,
+    "question": "In the UK, what type of installation requires a fireman's switch?",
+    "option1": "Neon Lighting",
+    "option2": "High Pressure Sodium Lighting",
+    "option3": "Water Features",
+    "option4": "Hotel Rooms",
+    "answer": "Neon Lighting"
+  },
+  {
+    "id": 39,
+    "question": "The electromagnetic coils on the neck of the picture tube or tubes which pull the electron beam from side to side and up and down are called",
+    "option1": "Transformer",
+    "option2": "Yoke",
+    "option3": "Capacitor",
+    "option4": "Diode",
+    "answer": "Yoke"
+  },
+  {
+    "id": 40,
+    "question": "Which consists of two plates separated by a dielectric and can store a charge?",
+    "option1": "Inductor",
+    "option2": "Capacitor",
+    "option3": "Transistor",
+    "option4": "Relay",
+    "answer": "Capacitor"
+  },
+  {
+    "id": 41,
+    "question": "What do we call a collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly?",
+    "option1": "Internet",
+    "option2": "Intranet",
+    "option3": "LAN",
+    "option4": "WAN",
+    "answer": "LAN"
+  },
+  {
+    "id": 42,
+    "question": "'.JPG' extension refers usually to what kind of file?",
+    "option1": "System file",
+    "option2": "Animation/Movie file",
+    "option3": "MS Encarta document",
+    "option4": "Image file",
+    "answer": "Image file"
+  },
+  {
+    "id": 43,
+    "question": "What does AM mean?",
+    "option1": "Angelo marconi",
+    "option2": "Anno median",
+    "option3": "Amplitude modulation",
+    "option4": "Amperes",
+    "answer": "Amplitude modulation"
+  },
+  {
+    "id": 44,
+    "question": "'.TXT' extension refers usually to what kind of file?",
+    "option1": "Text file",
+    "option2": "Image file",
+    "option3": "Audio file",
+    "option4": "Adobe Acrobat file",
+    "answer": "Text file"
+  },
+  {
+    "id": 45,
+    "question": "Who built the world's first binary digit computer: Z1?",
+    "option1": "Konrad Zuse",
+    "option2": "Ken Thompson",
+    "option3": "Alan Turing",
+    "option4": "George Boole",
+    "answer": "Konrad Zuse"
+  },
+  {
+    "id": 46,
+    "question": "Who is considered father of Modern Computer?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Alan Turing"
+  },
+  {
+    "id": 47,
+    "question": "Who is considered father of Computer?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 48,
+    "question": "Who is considered father of Internet?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Vint Cerf"
+  },
+  {
+    "id": 49,
+    "question": "Who is considered father of Email?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Ray Tomlinson"
+  },
+  {
+    "id": 50,
+    "question": "First computer programmer ever is",
+    "option1": "Ada Lovelace",
+    "option2": "Annie Easley",
+    "option3": "Grace Hopper",
+    "option4": "Hedy Lamarr",
+    "answer": "Ada Lovelace"
+  }
+]

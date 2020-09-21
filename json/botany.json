@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "Who is called Father of Genetics?",
+    "option1": "Salk",
+    "option2": "Mendel",
+    "option3": "Linnaes",
+    "option4": "De Vries",
+    "answer": "Mendel"
+  },
+  {
+    "id": 2,
+    "question": "Mycology is the study of",
+    "option1": "Virus",
+    "option2": "Hydrilla",
+    "option3": "Rhizobium",
+    "option4": "Fungi",
+    "answer": "Fungi"
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following is a skin disease?",
+    "option1": "Anaemia",
+    "option2": "Rickets",
+    "option3": "Pellagra",
+    "option4": "Osteomalacia",
+    "answer": "Pellagra"
+  },
+  {
+    "id": 4,
+    "question": "Which acid is produced when milk gets sour?",
+    "option1": "Acetic acid",
+    "option2": "Lactic acid",
+    "option3": "Tartaric acid",
+    "option4": "Butyric acid",
+    "answer": "Lactic acid"
+  },
+  {
+    "id": 5,
+    "question": "Which one among the following produces seeds but not flowers?",
+    "option1": "Pine",
+    "option2": "Coffee",
+    "option3": "Ground nut",
+    "option4": "Cashew nut",
+    "answer": "Ground nut"
+  },
+  {
+    "id": 6,
+    "question": "The tallest living tree is",
+    "option1": "Palm tree",
+    "option2": "Sequoia",
+    "option3": "Tree fern",
+    "option4": "Eucalyptus",
+    "answer": "Sequoia"
+  },
+  {
+    "id": 7,
+    "question": "Pollination of birds is known as",
+    "option1": "Embryophily",
+    "option2": "Entomophily",
+    "option3": "Hydrophily",
+    "option4": "Ornithophily",
+    "answer": "Ornithophily"
+  },
+  {
+    "id": 8,
+    "question": "Polio is caused by",
+    "option1": "Virus",
+    "option2": "Bacteria",
+    "option3": "Insect",
+    "option4": "Fungus",
+    "answer": "Virus"
+  },
+  {
+    "id": 9,
+    "question": "A dye is prepared from",
+    "option1": "Sida",
+    "option2": "Tridax",
+    "option3": "Tephrosia",
+    "option4": "Indigofera",
+    "answer": "Indigofera"
+  },
+  {
+    "id": 10,
+    "question": "Which disease is caused by the fungi?",
+    "option1": "Polio",
+    "option2": "Malaria",
+    "option3": "Dermatitis",
+    "option4": "Cholera",
+    "answer": "Dermatitis"
+  },
+  {
+    "id": 11,
+    "question": "Production of which one of the following is a function of the liver?",
+    "option1": "Urea",
+    "option2": "Mucus",
+    "option3": "Lipase",
+    "option4": "Hydrochloric Acid",
+    "answer": "Urea"
+  },
+  {
+    "id": 12,
+    "question": "Which one of the following is a vitamin?",
+    "option1": "Citric acid",
+    "option2": "Folic acid",
+    "option3": "Glutamic acid",
+    "option4": "Lonoleic acid",
+    "answer": "Folic acid"
+  },
+  {
+    "id": 13,
+    "question": "Food wrapped in newspaper is likely to get contaminated with",
+    "option1": "Iron",
+    "option2": "Lead",
+    "option3": "Aluminium",
+    "option4": "Magnesium",
+    "answer": "Lead"
+  },
+  {
+    "id": 14,
+    "question": "The blue green algae are",
+    "option1": "Photoautotrophs",
+    "option2": "Chemoautotrophs",
+    "option3": "Photoheterotrophs",
+    "option4": "Chemoheterotrophs",
+    "answer": "Photoheterotrophs"
+  },
+  {
+    "id": 15,
+    "question": "Clove is obtained from",
+    "option1": "Root",
+    "option2": "Stem",
+    "option3": "Leaves",
+    "option4": "Flower buds",
+    "answer": "Flower buds"
+  },
+  {
+    "id": 16,
+    "question": "Where is sessile leaves present?",
+    "option1": "Nerium",
+    "option2": "Mangifera",
+    "option3": "Calotropis",
+    "option4": "Hibiscus",
+    "answer": "Calotropis"
+  },
+  {
+    "id": 17,
+    "question": "Which one of the following is responsible for converting milk into curd?",
+    "option1": "Virus",
+    "option2": "Fungi",
+    "option3": "Bacteria",
+    "option4": "Protozoa",
+    "answer": "Bacteria"
+  },
+  {
+    "id": 18,
+    "question": "Peristomes are present in",
+    "option1": "Chara",
+    "option2": "Adiantum",
+    "option3": "Pencillius",
+    "option4": "Polytrichum",
+    "answer": "Polytrichum"
+  },
+  {
+    "id": 19,
+    "question": "Pulses contain large amount of",
+    "option1": "Fats",
+    "option2": "Water",
+    "option3": "Proteins",
+    "option4": "Carbohydrate",
+    "answer": "Proteins"
+  },
+  {
+    "id": 20,
+    "question": "Another name of the reduction division is",
+    "option1": "Mitosis",
+    "option2": "Meiosis",
+    "option3": "Amitosis",
+    "option4": "None of these",
+    "answer": "Meiosis"
+  },
+  {
+    "id": 21,
+    "question": "Azadiracta indica is the botanical name of",
+    "option1": "Rice",
+    "option2": "Neem",
+    "option3": "Sandal",
+    "option4": "Turmeric",
+    "answer": "Neem"
+  },
+  {
+    "id": 22,
+    "question": "What is the main function of RNA?",
+    "option1": "Lipid synthesis",
+    "option2": "Carbohydrate synthesis",
+    "option3": "Protein synthesis",
+    "option4": "None of these",
+    "answer": "Protein synthesis"
+  },
+  {
+    "id": 23,
+    "question": "Paddy straw is stiff because of",
+    "option1": "Silica",
+    "option2": "Stone cells",
+    "option3": "Hard fibres",
+    "option4": "Collenchyma",
+    "answer": "Silica"
+  },
+  {
+    "id": 24,
+    "question": "Which forest is not affected by biological factors?",
+    "option1": "Tropical",
+    "option2": "Deciduous",
+    "option3": "Evergreen",
+    "option4": "Coniferous",
+    "answer": "Tropical"
+  },
+  {
+    "id": 25,
+    "question": "Largest number of Eucalyptus species is found in",
+    "option1": "Australia",
+    "option2": "Pakistan",
+    "option3": "Burma",
+    "option4": "New Zealand",
+    "answer": "Australia"
+  },
+  {
+    "id": 26,
+    "question": "Fixation of nitrogen in the soil is done by",
+    "option1": "Virus",
+    "option2": "Fungi",
+    "option3": "Bacteria",
+    "option4": "Protozoa",
+    "answer": "Bacteria"
+  },
+  {
+    "id": 27,
+    "question": "What is used as biofertilizer?",
+    "option1": "Ammonia",
+    "option2": "Urea",
+    "option3": "Azolla",
+    "option4": "Bagasse",
+    "answer": "Ammonia"
+  },
+  {
+    "id": 28,
+    "question": "Who discovered nucleus?",
+    "option1": "Albert",
+    "option2": "Newton",
+    "option3": "Brown",
+    "option4": "Hooke",
+    "answer": "Brown"
+  },
+  {
+    "id": 29,
+    "question": "Carrot is orange in colour because",
+    "option1": "It grows in soil",
+    "option2": "It contains carotene",
+    "option3": "It is not exposed to sunlight",
+    "option4": "The entire plant is orange in color",
+    "answer": "It contains carotene"
+  },
+  {
+    "id": 30,
+    "question": "A chemical used for destroying fungi in water tanks is",
+    "option1": "Nitric acid",
+    "option2": "Zinc Sulphate",
+    "option3": "Magnesium Sulphate",
+    "option4": "Copper Sulphate",
+    "answer": "Copper Sulphate"
+  },
+  {
+    "id": 31,
+    "question": "Water in plants is transported by",
+    "option1": "Xylem",
+    "option2": "Epidermis",
+    "option3": "Phloem",
+    "option4": "Cambium",
+    "answer": "Xylem"
+  },
+  {
+    "id": 32,
+    "question": "What is the name of the botanical name of paddy?",
+    "option1": "Solanum Nigrum",
+    "option2": "Eleusine Coracana",
+    "option3": "Oryza Sativa",
+    "option4": "None of these",
+    "answer": "Oryza Sativa"
+  },
+  {
+    "id": 33,
+    "question": "Which plant was used by Mendel in his early experiment?",
+    "option1": "Orange",
+    "option2": "Pea",
+    "option3": "Banana",
+    "option4": "Brinjal",
+    "answer": "Pea"
+  },
+  {
+    "id": 34,
+    "question": "Ammonification take place in",
+    "option1": "Forest",
+    "option2": "Sea",
+    "option3": "Leaves",
+    "option4": "Ditch",
+    "answer": "Ditch"
+  },
+  {
+    "id": 35,
+    "question": "Who found Binomial nomenclature?",
+    "option1": "Linnaeus",
+    "option2": "Hooker",
+    "option3": "Tippop",
+    "option4": "Prodi",
+    "answer": "Linnaeus"
+  },
+  {
+    "id": 36,
+    "question": "The richest source of vitamin D is",
+    "option1": "Milk",
+    "option2": "Cheese",
+    "option3": "Cod Liver Oil",
+    "option4": "Spinach",
+    "answer": "Cod Liver Oil"
+  },
+  {
+    "id": 37,
+    "question": "Oncogene is responsible for",
+    "option1": "Cancer",
+    "option2": "Aids",
+    "option3": "Malaria",
+    "option4": "Typhoid",
+    "answer": "Cancer"
+  },
+  {
+    "id": 38,
+    "question": "Which one of the following is not a mosquito borne disease?",
+    "option1": "Malaria",
+    "option2": "Filariasis",
+    "option3": "Dengue fever",
+    "option4": "Sleeping Sickness",
+    "answer": "Sleeping Sickness"
+  },
+  {
+    "id": 39,
+    "question": "More rate of photosynthesis occurs in which light?",
+    "option1": "Red",
+    "option2": "White",
+    "option3": "Blue",
+    "option4": "Yellow",
+    "answer": "White"
+  },
+  {
+    "id": 40,
+    "question": "Plants produces energy during",
+    "option1": "Respiration",
+    "option2": "Photosynthesis",
+    "option3": "Transpiration",
+    "option4": "Absorption",
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 41,
+    "question": "Which soil is rich in organic debris?",
+    "option1": "Loam soil",
+    "option2": "Humus soil",
+    "option3": "Saprophyte",
+    "option4": "None of these",
+    "answer": "Humus soil"
+  },
+  {
+    "id": 42,
+    "question": "The compound used in anti malarial drug is",
+    "option1": "Aspirin",
+    "option2": "Chloroquin",
+    "option3": "Neoprene",
+    "option4": "Isoprene",
+    "answer": "Chloroquin"
+  },
+  {
+    "id": 43,
+    "question": "The deficiency of which one of the following leads to dental caries?",
+    "option1": "Zinc",
+    "option2": "Copper",
+    "option3": "Iron",
+    "option4": "Fluorine",
+    "answer": "Fluorine"
+  },
+  {
+    "id": 44,
+    "question": "Healing of wounds is hastened by vitamin",
+    "option1": "A",
+    "option2": "B12",
+    "option3": "C",
+    "option4": "D",
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "question": "Which one of the following diseases is inheritable?",
+    "option1": "Hepatitis",
+    "option2": "Colour blindness",
+    "option3": "Leukaemia",
+    "option4": "Malignancy",
+    "answer": "Colour blindness"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is least infectious?",
+    "option1": "Leprosy",
+    "option2": "Hepatitis",
+    "option3": "Tuberculosis",
+    "option4": "Conjunctivitis",
+    "answer": "Leprosy"
+  },
+  {
+    "id": 47,
+    "question": "For which one among the following diseases no vaccine is yet available?",
+    "option1": "Measles",
+    "option2": "Mumps",
+    "option3": "Tetanus",
+    "option4": "Malaria",
+    "answer": "Malaria"
+  },
+  {
+    "id": 48,
+    "question": "Which among the following is not a true fruit?",
+    "option1": "Date",
+    "option2": "Plum",
+    "option3": "Apple",
+    "option4": "Grape",
+    "answer": "Plum"
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following plants is used for green manuring in India?",
+    "option1": "Rice",
+    "option2": "Wheat",
+    "option3": "Cotton",
+    "option4": "Sunhemp",
+    "answer": "Sunhemp"
+  },
+  {
+    "id": 50,
+    "question": "What is the type of Tomato fruit?",
+    "option1": "Pome",
+    "option2": "Berry",
+    "option3": "Drupe",
+    "option4": "None of these",
+    "answer": "Berry"
+  }
+]

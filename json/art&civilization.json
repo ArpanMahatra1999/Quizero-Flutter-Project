@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "question": "The Mona Lisa by Leonardo da Vinci is on display in which Paris museum?",
+    "option1": "Louvre",
+    "option2": "Musee",
+    "option3": "Rodin",
+    "option4": "Quai Branly",
+    "answer": "Louvre"
+  },
+  {
+    "id": 2,
+    "question": "Which artist painted the Poppy Field in 1873?",
+    "option1": "Vincent Van Gogh",
+    "option2": "Rembrandt",
+    "option3": "Michelangelo",
+    "option4": "Claude Monet",
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 3,
+    "question": "The famous painter Vincent van Gogh belonged to which country?",
+    "option1": "Spain",
+    "option2": "Netherlands",
+    "option3": "Italy",
+    "option4": "France",
+    "answer": "Netherlands"
+  },
+  {
+    "id": 4,
+    "question": "Raja Harishchandra, an early Indian film was produced by",
+    "option1": "Dada Saheb Phalke",
+    "option2": "Ashok Kumar",
+    "option3": "Ardeshir Irani",
+    "option4": "Gurudatt",
+    "answer": "Dada Saheb Phalke"
+  },
+  {
+    "id": 5,
+    "question": "The song Ekla Chalo Re (Walk alone) was written by",
+    "option1": "Subhash Chandra Bose",
+    "option2": "Ishwar Chandra Vidyasagar",
+    "option3": "Rabindra Nath Tagore",
+    "option4": "Aurobindo Ghosh",
+    "answer": "Rabindra Nath Tagore"
+  },
+  {
+    "id": 6,
+    "question": "Japanese art of paper folding is known as",
+    "option1": "Haiku",
+    "option2": "Ikebana",
+    "option3": "Origami",
+    "option4": "Karaoke",
+    "answer": "Origami"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the living goddess of Nepal?",
+    "option1": "Kumari",
+    "option2": "Rani",
+    "option3": "Rajkumari",
+    "option4": "Mahadevi",
+    "answer": "Kumari"
+  },
+  {
+    "id": 8,
+    "question": "Which is the only film to win the Academy Awards for both Best International Feature Film and Best Picture?",
+    "option1": "A Separation",
+    "option2": "The Lives of Others",
+    "option3": "Life is Beautiful",
+    "option4": "Parasite",
+    "answer": "Parasite"
+  },
+  {
+    "id": 9,
+    "question": "Who is known as Swor Samrat?",
+    "option1": "Udit Narayan Jha",
+    "option2": "Narayan Gopal",
+    "option3": "Arun Thapa",
+    "option4": "Kumar Basnet",
+    "answer": "Narayan Gopal"
+  },
+  {
+    "id": 10,
+    "question": "Which Nepali artist brought the trans-Himalayan artistic tradition to China?",
+    "option1": "Araniko",
+    "option2": "Shashi Shah",
+    "option3": "Thakur Prasad Mainali",
+    "option4": "Sushma Shimkhada",
+    "answer": "Araniko"
+  },
+  {
+    "id": 11,
+    "question": "Which of these artworks have horror film named after it?",
+    "option1": "The Last Supper",
+    "option2": "Girl with a Pearl Earring",
+    "option3": "Water Lilies",
+    "option4": "The Scream",
+    "answer": "The Scream"
+  },
+  {
+    "id": 12,
+    "question": "This is the principle of art that indicates movement by the repetition of elements.",
+    "option1": "Variety",
+    "option2": "Rhythm",
+    "option3": "Unity",
+    "option4": "Balance",
+    "answer": "Rhythm"
+  },
+  {
+    "id": 13,
+    "question": "Principle of art that uses contrast to draw attention to an area.",
+    "option1": "Emphasis",
+    "option2": "Proportion",
+    "option3": "Unity",
+    "option4": "Balance",
+    "answer": "Emphasis"
+  },
+  {
+    "id": 14,
+    "question": "Principle of art in which lots of different shapes, colors, forms, textures, etc. might be used to make the work more interesting.",
+    "option1": "Unity",
+    "option2": "Balance",
+    "option3": "Variety",
+    "option4": "Rhythm",
+    "answer": "Variety"
+  },
+  {
+    "id": 15,
+    "question": "This term refers to the quality of wholeness or oneness that is achieved through the effective use of the elements and principles of art.",
+    "option1": "Unity",
+    "option2": "Rhythm",
+    "option3": "Balance",
+    "option4": "Variety",
+    "answer": "Unity"
+  },
+  {
+    "id": 16,
+    "question": "This principle of art is concerned with equalizing visual forces, elements, or weight equalizing visual forces, elements, or weight in a work of art.",
+    "option1": "Unity",
+    "option2": "Balance",
+    "option3": "Variety",
+    "option4": "Emphasis",
+    "answer": "Balance"
+  },
+  {
+    "id": 17,
+    "question": "The principle of Art concerned with the size relationships of one part to another.",
+    "option1": "Variety",
+    "option2": "Unity",
+    "option3": "Proportion",
+    "option4": "Balance",
+    "answer": "Proportion"
+  },
+  {
+    "id": 18,
+    "question": "What is the appropriate art term for color?",
+    "option1": "Colour",
+    "option2": "Paint",
+    "option3": "Hue",
+    "option4": "Saturation",
+    "answer": "Hue"
+  },
+  {
+    "id": 19,
+    "question": "What do you call a point with no ending?",
+    "option1": "Infinity",
+    "option2": "Line",
+    "option3": "Triangle",
+    "option4": "Shape",
+    "answer": "Line"
+  },
+  {
+    "id": 20,
+    "question": "Which is a primary color?",
+    "option1": "White",
+    "option2": "Grey",
+    "option3": "Purple",
+    "option4": "Red",
+    "answer": "Red"
+  },
+  {
+    "id": 21,
+    "question": "Abstract art is",
+    "option1": "Art history",
+    "option2": "3D art",
+    "option3": "Unreal art",
+    "option4": "None",
+    "answer": "Unreal art"
+  },
+  {
+    "id": 22,
+    "question": "What are the flowers of funeral in Italy?",
+    "option1": "Mums and Roses",
+    "option2": "Sunflowers",
+    "option3": "Marigold",
+    "option4": "Jasmine and Marigold",
+    "answer": "Mums and Roses"
+  },
+  {
+    "id": 23,
+    "question": "What didn't originate in India?",
+    "option1": "Pajamas",
+    "option2": "Bandana",
+    "option3": "Cricket",
+    "option4": "Tie-dying",
+    "answer": "Cricket"
+  },
+  {
+    "id": 24,
+    "question": "What holiday ends Ramadan?",
+    "option1": "New year",
+    "option2": "Ashura",
+    "option3": "Eid-Al Fitr",
+    "option4": "Ram Navami",
+    "answer": "Eid-Al Fitr"
+  },
+  {
+    "id": 25,
+    "question": "Cambodian temple Angkor Wat is devoted to",
+    "option1": "Vishnu",
+    "option2": "Buddha",
+    "option3": "Moses",
+    "option4": "Shiva",
+    "answer": "Vishnu"
+  },
+  {
+    "id": 26,
+    "question": "Largest religious Structure in the world",
+    "option1": "Angkor Wat",
+    "option2": "The Kremlin",
+    "option3": "Notre Dame Cathedral",
+    "option4": "Temple of Heaven",
+    "answer": "Angkor Wat"
+  },
+  {
+    "id": 27,
+    "question": "Which religion practices non-violence?",
+    "option1": "Mayan",
+    "option2": "Shamanism",
+    "option3": "Judaism",
+    "option4": "Jainism",
+    "answer": "Jainism"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following adopted Christianity as major religion first?",
+    "option1": "Armenia",
+    "option2": "Ireland",
+    "option3": "Italy",
+    "option4": "Russia",
+    "answer": "Armenia"
+  },
+  {
+    "id": 29,
+    "question": "The bust of bearded man figure was found in which of the following archaeological site?",
+    "option1": "Mohenjo-Daro",
+    "option2": "Lothal",
+    "option3": "Harappa",
+    "option4": "Dholavira",
+    "answer": "Mohenjo-Daro"
+  },
+  {
+    "id": 30,
+    "question": "Indus valley and Hinduism both worship",
+    "option1": "Pashupati, Indra and Mother Goddess",
+    "option2": "Stones, trees and Animals",
+    "option3": "Vishnu and Lakshmi",
+    "option4": "Shiva and Shakti",
+    "answer": "Pashupati, Indra and Mother Goddess"
+  },
+  {
+    "id": 31,
+    "question": "Which Bengali film does not come under Satyajit Ray Apu Trilogy?",
+    "option1": "Pather Panchali",
+    "option2": "Charulata",
+    "option3": "Apur Sansar",
+    "option4": "Aparajito",
+    "answer": "Charulata"
+  },
+  {
+    "id": 32,
+    "question": "First foreign-language film to win the Academy Award for Best Picture",
+    "option1": "A Separation",
+    "option2": "City of Gods",
+    "option3": "Das Boot",
+    "option4": "Parasite",
+    "answer": "Parasite"
+  },
+  {
+    "id": 33,
+    "question": "Which actor broke two toes whilst filming The Lord of the Rings: The Two Towers?",
+    "option1": "Elijah Wood",
+    "option2": "Ian McKellen",
+    "option3": "Cate Blanchett",
+    "option4": "Viggo Mortensen",
+    "answer": "Viggo Mortensen"
+  },
+  {
+    "id": 34,
+    "question": "Which of these is not a James Bond film?",
+    "option1": "Goldfinger",
+    "option2": "Casino Royale",
+    "option3": "Skyfall",
+    "option4": "Last Crusade",
+    "answer": "Last Crusade"
+  },
+  {
+    "id": 35,
+    "question": "What does Tom Hanks compare life to in Forest Gump?",
+    "option1": "Box of Chocolates",
+    "option2": "Garden of Dreams",
+    "option3": "Poetry",
+    "option4": "None",
+    "answer": "Box of Chocolates"
+  },
+  {
+    "id": 36,
+    "question": "Which movie features an iconic dance scene between Uma Thurman and John Travolta?",
+    "option1": "Kill Bill",
+    "option2": "Grease",
+    "option3": "Pulp Fiction",
+    "option4": "Saturday Night Fever",
+    "answer": "Pulp Fiction"
+  },
+  {
+    "id": 37,
+    "question": "Which of these films did not win any Academy Award?",
+    "option1": "Forrest Gump",
+    "option2": "The Shawshank Redemption",
+    "option3": "Titanic",
+    "option4": "Suicide Squad",
+    "answer": "The Shawshank Redemption"
+  },
+  {
+    "id": 38,
+    "question": "Which Indian film was premiered in 2012 Cannes Film Festival?",
+    "option1": "Barfi!",
+    "option2": "Gangs of Wasseypur",
+    "option3": "Kahaani",
+    "option4": "Talaash",
+    "answer": "Gangs of Wasseypur"
+  },
+  {
+    "id": 39,
+    "question": "Which films was not nominated for Academy Awards for Best Foreign film?",
+    "option1": "Mother India",
+    "option2": "Salaam Bombay",
+    "option3": "Dilwale Dulhaniya Le Jayenge",
+    "option4": "Lagaan",
+    "answer": "Dilwale Dulhaniya Le Jayenge"
+  },
+  {
+    "id": 40,
+    "question": "Which is only film from Nepal to be nominated for best International Feature film?",
+    "option1": "Dakshina",
+    "option2": "Himalaya",
+    "option3": "Kalo Pothi",
+    "option4": "Highway to Dhampus",
+    "answer": "Himalaya"
+  },
+  {
+    "id": 41,
+    "question": "The Magnificent Seven is a remake of which iconic film?",
+    "option1": "se7en",
+    "option2": "The Seventh Seal",
+    "option3": "Seven Samurai",
+    "option4": "Seven Years in Tibet",
+    "answer": "Seven Samurai"
+  },
+  {
+    "id": 42,
+    "question": "Which is not a Charlie Chaplin movie?",
+    "option1": "The General",
+    "option2": "The Kid",
+    "option3": "Gold Rush",
+    "option4": "The Great Dictator",
+    "answer": "The General"
+  },
+  {
+    "id": 43,
+    "question": "Martin Scorcese film not in Time's All-Time 100 Movies is",
+    "option1": "Taxi Driver",
+    "option2": "Raging Bull",
+    "option3": "Goodfellas",
+    "option4": "The Departed",
+    "answer": "The Departed"
+  },
+  {
+    "id": 44,
+    "question": "Which of these females is not among 6 lead characters in famous American sitcom Friends?",
+    "option1": "Janice Hosenstein",
+    "option2": "Monica Geller",
+    "option3": "Phoebe Buffay",
+    "option4": "Rachel Green",
+    "answer": "Janice Hosenstein"
+  },
+  {
+    "id": 45,
+    "question": "Greek King of Gods is",
+    "option1": "Ares or Mars",
+    "option2": "Hermes or Mercury",
+    "option3": "Poseidon or Neptune",
+    "option4": "Zeus or Jupiter",
+    "answer": "Zeus or Jupiter"
+  },
+  {
+    "id": 46,
+    "question": "Hindu King of Gods is",
+    "option1": "Brahma",
+    "option2": "Surya",
+    "option3": "Indra",
+    "option4": "Chandra",
+    "answer": "Indra"
+  },
+  {
+    "id": 47,
+    "question": "Greek God of the seas, water, storms, hurricanes, earthquakes and horses.",
+    "option1": "Ares or Mars",
+    "option2": "Hermes or Mercury",
+    "option3": "Poseidon or Neptune",
+    "option4": "Zeus or Jupiter",
+    "answer": "Poseidon or Neptune"
+  },
+  {
+    "id": 48,
+    "question": "Greek Goddess of love, pleasure, passion, procreation, fertility, beauty and desire.",
+    "option1": "Aphrodite or Venus",
+    "option2": "Athena or Minerva",
+    "option3": "Artemis or Diana",
+    "option4": "Hera or Juno",
+    "answer": "Aphrodite or Venus"
+  },
+  {
+    "id": 49,
+    "question": "Greek Queen of Gods is",
+    "option1": "Aphrodite or Venus",
+    "option2": "Athena or Minerva",
+    "option3": "Artemis or Diana",
+    "option4": "Hera or Juno",
+    "answer": "Hera or Juno"
+  },
+  {
+    "id": 50,
+    "question": "Messenger of Gods in Hindu Civilization",
+    "option1": "Bibhisan",
+    "option2": "Daksha",
+    "option3": "Manu",
+    "option4": "Narada",
+    "answer": "Narada"
+  }
+]

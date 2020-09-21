@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 1,
+    "question": "The Mona Lisa by Leonardo da Vinci is on display in which Paris museum?",
+    "option1": "Louvre",
+    "option2": "Musee",
+    "option3": "Rodin",
+    "option4": "Quai Branly",
+    "answer": "Louvre"
+  },
+  {
+    "id": 2,
+    "question": "Which artist painted the Poppy Field in 1873?",
+    "option1": "Vincent Van Gogh",
+    "option2": "Rembrandt",
+    "option3": "Michelangelo",
+    "option4": "Claude Monet",
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 3,
+    "question": "The famous painter Vincent van Gogh belonged to which country?",
+    "option1": "Spain",
+    "option2": "Netherlands",
+    "option3": "Italy",
+    "option4": "France",
+    "answer": "Netherlands"
+  },
+  {
+    "id": 4,
+    "question": "Raja Harishchandra, an early Indian film was produced by",
+    "option1": "Dada Saheb Phalke",
+    "option2": "Ashok Kumar",
+    "option3": "Ardeshir Irani",
+    "option4": "Gurudatt",
+    "answer": "Dada Saheb Phalke"
+  },
+  {
+    "id": 5,
+    "question": "The song Ekla Chalo Re (Walk alone) was written by",
+    "option1": "Subhash Chandra Bose",
+    "option2": "Ishwar Chandra Vidyasagar",
+    "option3": "Rabindra Nath Tagore",
+    "option4": "Aurobindo Ghosh",
+    "answer": "Rabindra Nath Tagore"
+  },
+  {
+    "id": 6,
+    "question": "Japanese art of paper folding is known as",
+    "option1": "Haiku",
+    "option2": "Ikebana",
+    "option3": "Origami",
+    "option4": "Karaoke",
+    "answer": "Origami"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the living goddess of Nepal?",
+    "option1": "Kumari",
+    "option2": "Rani",
+    "option3": "Rajkumari",
+    "option4": "Mahadevi",
+    "answer": "Kumari"
+  },
+  {
+    "id": 8,
+    "question": "Which is the only film to win the Academy Awards for both Best International Feature Film and Best Picture?",
+    "option1": "A Separation",
+    "option2": "The Lives of Others",
+    "option3": "Life is Beautiful",
+    "option4": "Parasite",
+    "answer": "Parasite"
+  },
+  {
+    "id": 9,
+    "question": "Who is known as Swor Samrat?",
+    "option1": "Udit Narayan Jha",
+    "option2": "Narayan Gopal",
+    "option3": "Arun Thapa",
+    "option4": "Kumar Basnet",
+    "answer": "Narayan Gopal"
+  },
+  {
+    "id": 10,
+    "question": "Which Nepali artist brought the trans-Himalayan artistic tradition to China?",
+    "option1": "Araniko",
+    "option2": "Shashi Shah",
+    "option3": "Thakur Prasad Mainali",
+    "option4": "Sushma Shimkhada",
+    "answer": "Araniko"
+  },
+  {
+    "id": 11,
+    "question": "Which of these artworks have horror film named after it?",
+    "option1": "The Last Supper",
+    "option2": "Girl with a Pearl Earring",
+    "option3": "Water Lilies",
+    "option4": "The Scream",
+    "answer": "The Scream"
+  },
+  {
+    "id": 12,
+    "question": "This is the principle of art that indicates movement by the repetition of elements.",
+    "option1": "Variety",
+    "option2": "Rhythm",
+    "option3": "Unity",
+    "option4": "Balance",
+    "answer": "Rhythm"
+  },
+  {
+    "id": 13,
+    "question": "Principle of art that uses contrast to draw attention to an area.",
+    "option1": "Emphasis",
+    "option2": "Proportion",
+    "option3": "Unity",
+    "option4": "Balance",
+    "answer": "Emphasis"
+  },
+  {
+    "id": 14,
+    "question": "Principle of art in which lots of different shapes, colors, forms, textures, etc. might be used to make the work more interesting.",
+    "option1": "Unity",
+    "option2": "Balance",
+    "option3": "Variety",
+    "option4": "Rhythm",
+    "answer": "Variety"
+  },
+  {
+    "id": 15,
+    "question": "This term refers to the quality of wholeness or oneness that is achieved through the effective use of the elements and principles of art.",
+    "option1": "Unity",
+    "option2": "Rhythm",
+    "option3": "Balance",
+    "option4": "Variety",
+    "answer": "Unity"
+  },
+  {
+    "id": 16,
+    "question": "This principle of art is concerned with equalizing visual forces, elements, or weight equalizing visual forces, elements, or weight in a work of art.",
+    "option1": "Unity",
+    "option2": "Balance",
+    "option3": "Variety",
+    "option4": "Emphasis",
+    "answer": "Balance"
+  },
+  {
+    "id": 17,
+    "question": "The principle of Art concerned with the size relationships of one part to another.",
+    "option1": "Variety",
+    "option2": "Unity",
+    "option3": "Proportion",
+    "option4": "Balance",
+    "answer": "Proportion"
+  },
+  {
+    "id": 18,
+    "question": "What is the appropriate art term for color?",
+    "option1": "Colour",
+    "option2": "Paint",
+    "option3": "Hue",
+    "option4": "Saturation",
+    "answer": "Hue"
+  },
+  {
+    "id": 19,
+    "question": "What do you call a point with no ending?",
+    "option1": "Infinity",
+    "option2": "Line",
+    "option3": "Triangle",
+    "option4": "Shape",
+    "answer": "Line"
+  },
+  {
+    "id": 20,
+    "question": "Which is a primary color?",
+    "option1": "White",
+    "option2": "Grey",
+    "option3": "Purple",
+    "option4": "Red",
+    "answer": "Red"
+  },
+  {
+    "id": 21,
+    "question": "Abstract art is",
+    "option1": "Art history",
+    "option2": "3D art",
+    "option3": "Unreal art",
+    "option4": "None",
+    "answer": "Unreal art"
+  },
+  {
+    "id": 22,
+    "question": "What are the flowers of funeral in Italy?",
+    "option1": "Mums and Roses",
+    "option2": "Sunflowers",
+    "option3": "Marigold",
+    "option4": "Jasmine and Marigold",
+    "answer": "Mums and Roses"
+  },
+  {
+    "id": 23,
+    "question": "What didn't originate in India?",
+    "option1": "Pajamas",
+    "option2": "Bandana",
+    "option3": "Cricket",
+    "option4": "Tie-dying",
+    "answer": "Cricket"
+  },
+  {
+    "id": 24,
+    "question": "What holiday ends Ramadan?",
+    "option1": "New year",
+    "option2": "Ashura",
+    "option3": "Eid-Al Fitr",
+    "option4": "Ram Navami",
+    "answer": "Eid-Al Fitr"
+  },
+  {
+    "id": 25,
+    "question": "Cambodian temple Angkor Wat is devoted to",
+    "option1": "Vishnu",
+    "option2": "Buddha",
+    "option3": "Moses",
+    "option4": "Shiva",
+    "answer": "Vishnu"
+  },
+  {
+    "id": 26,
+    "question": "Largest religious Structure in the world",
+    "option1": "Angkor Wat",
+    "option2": "The Kremlin",
+    "option3": "Notre Dame Cathedral",
+    "option4": "Temple of Heaven",
+    "answer": "Angkor Wat"
+  },
+  {
+    "id": 27,
+    "question": "Which religion practices non-violence?",
+    "option1": "Mayan",
+    "option2": "Shamanism",
+    "option3": "Judaism",
+    "option4": "Jainism",
+    "answer": "Jainism"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following adopted Christianity as major religion first?",
+    "option1": "Armenia",
+    "option2": "Ireland",
+    "option3": "Italy",
+    "option4": "Russia",
+    "answer": "Armenia"
+  },
+  {
+    "id": 29,
+    "question": "The bust of bearded man figure was found in which of the following archaeological site?",
+    "option1": "Mohenjo-Daro",
+    "option2": "Lothal",
+    "option3": "Harappa",
+    "option4": "Dholavira",
+    "answer": "Mohenjo-Daro"
+  },
+  {
+    "id": 30,
+    "question": "Indus valley and Hinduism both worship",
+    "option1": "Pashupati, Indra and Mother Goddess",
+    "option2": "Stones, trees and Animals",
+    "option3": "Vishnu and Lakshmi",
+    "option4": "Shiva and Shakti",
+    "answer": "Pashupati, Indra and Mother Goddess"
+  },
+  {
+    "id": 31,
+    "question": "Which Bengali film does not come under Satyajit Ray Apu Trilogy?",
+    "option1": "Pather Panchali",
+    "option2": "Charulata",
+    "option3": "Apur Sansar",
+    "option4": "Aparajito",
+    "answer": "Charulata"
+  },
+  {
+    "id": 32,
+    "question": "First foreign-language film to win the Academy Award for Best Picture",
+    "option1": "A Separation",
+    "option2": "City of Gods",
+    "option3": "Das Boot",
+    "option4": "Parasite",
+    "answer": "Parasite"
+  },
+  {
+    "id": 33,
+    "question": "Which actor broke two toes whilst filming The Lord of the Rings: The Two Towers?",
+    "option1": "Elijah Wood",
+    "option2": "Ian McKellen",
+    "option3": "Cate Blanchett",
+    "option4": "Viggo Mortensen",
+    "answer": "Viggo Mortensen"
+  },
+  {
+    "id": 34,
+    "question": "Which of these is not a James Bond film?",
+    "option1": "Goldfinger",
+    "option2": "Casino Royale",
+    "option3": "Skyfall",
+    "option4": "Last Crusade",
+    "answer": "Last Crusade"
+  },
+  {
+    "id": 35,
+    "question": "What does Tom Hanks compare life to in Forest Gump?",
+    "option1": "Box of Chocolates",
+    "option2": "Garden of Dreams",
+    "option3": "Poetry",
+    "option4": "None",
+    "answer": "Box of Chocolates"
+  },
+  {
+    "id": 36,
+    "question": "Which movie features an iconic dance scene between Uma Thurman and John Travolta?",
+    "option1": "Kill Bill",
+    "option2": "Grease",
+    "option3": "Pulp Fiction",
+    "option4": "Saturday Night Fever",
+    "answer": "Pulp Fiction"
+  },
+  {
+    "id": 37,
+    "question": "Which of these films did not win any Academy Award?",
+    "option1": "Forrest Gump",
+    "option2": "The Shawshank Redemption",
+    "option3": "Titanic",
+    "option4": "Suicide Squad",
+    "answer": "The Shawshank Redemption"
+  },
+  {
+    "id": 38,
+    "question": "Which Indian film was premiered in 2012 Cannes Film Festival?",
+    "option1": "Barfi!",
+    "option2": "Gangs of Wasseypur",
+    "option3": "Kahaani",
+    "option4": "Talaash",
+    "answer": "Gangs of Wasseypur"
+  },
+  {
+    "id": 39,
+    "question": "Which films was not nominated for Academy Awards for Best Foreign film?",
+    "option1": "Mother India",
+    "option2": "Salaam Bombay",
+    "option3": "Dilwale Dulhaniya Le Jayenge",
+    "option4": "Lagaan",
+    "answer": "Dilwale Dulhaniya Le Jayenge"
+  },
+  {
+    "id": 40,
+    "question": "Which is only film from Nepal to be nominated for best International Feature film?",
+    "option1": "Dakshina",
+    "option2": "Himalaya",
+    "option3": "Kalo Pothi",
+    "option4": "Highway to Dhampus",
+    "answer": "Himalaya"
+  },
+  {
+    "id": 41,
+    "question": "The Magnificent Seven is a remake of which iconic film?",
+    "option1": "se7en",
+    "option2": "The Seventh Seal",
+    "option3": "Seven Samurai",
+    "option4": "Seven Years in Tibet",
+    "answer": "Seven Samurai"
+  },
+  {
+    "id": 42,
+    "question": "Which is not a Charlie Chaplin movie?",
+    "option1": "The General",
+    "option2": "The Kid",
+    "option3": "Gold Rush",
+    "option4": "The Great Dictator",
+    "answer": "The General"
+  },
+  {
+    "id": 43,
+    "question": "Martin Scorcese film not in Time's All-Time 100 Movies is",
+    "option1": "Taxi Driver",
+    "option2": "Raging Bull",
+    "option3": "Goodfellas",
+    "option4": "The Departed",
+    "answer": "The Departed"
+  },
+  {
+    "id": 44,
+    "question": "Which of these females is not among 6 lead characters in famous American sitcom Friends?",
+    "option1": "Janice Hosenstein",
+    "option2": "Monica Geller",
+    "option3": "Phoebe Buffay",
+    "option4": "Rachel Green",
+    "answer": "Janice Hosenstein"
+  },
+  {
+    "id": 45,
+    "question": "Greek King of Gods is",
+    "option1": "Ares or Mars",
+    "option2": "Hermes or Mercury",
+    "option3": "Poseidon or Neptune",
+    "option4": "Zeus or Jupiter",
+    "answer": "Zeus or Jupiter"
+  },
+  {
+    "id": 46,
+    "question": "Hindu King of Gods is",
+    "option1": "Brahma",
+    "option2": "Surya",
+    "option3": "Indra",
+    "option4": "Chandra",
+    "answer": "Indra"
+  },
+  {
+    "id": 47,
+    "question": "Greek God of the seas, water, storms, hurricanes, earthquakes and horses.",
+    "option1": "Ares or Mars",
+    "option2": "Hermes or Mercury",
+    "option3": "Poseidon or Neptune",
+    "option4": "Zeus or Jupiter",
+    "answer": "Poseidon or Neptune"
+  },
+  {
+    "id": 48,
+    "question": "Greek Goddess of love, pleasure, passion, procreation, fertility, beauty and desire.",
+    "option1": "Aphrodite or Venus",
+    "option2": "Athena or Minerva",
+    "option3": "Artemis or Diana",
+    "option4": "Hera or Juno",
+    "answer": "Aphrodite or Venus"
+  },
+  {
+    "id": 49,
+    "question": "Greek Queen of Gods is",
+    "option1": "Aphrodite or Venus",
+    "option2": "Athena or Minerva",
+    "option3": "Artemis or Diana",
+    "option4": "Hera or Juno",
+    "answer": "Hera or Juno"
+  },
+  {
+    "id": 50,
+    "question": "Messenger of Gods in Hindu Civilization",
+    "option1": "Bibhisan",
+    "option2": "Daksha",
+    "option3": "Manu",
+    "option4": "Narada",
+    "answer": "Narada"
+  },
+  {
+    "id": 1,
+    "question": "What is the distance between sun and earth?",
+    "option1": "149,600,000 km",
+    "option2": "14,600,000 km",
+    "option3": "19,600,000 km",
+    "option4": "109,400,000 km",
+    "answer": "149,600,000 km"
+  },
+  {
+    "id": 2,
+    "question": "A hypothetical reservoir for comets is called",
+    "option1": "Solar flare",
+    "option2": "Milky way",
+    "option3": "Oort cloud",
+    "option4": "Andromeda",
+    "answer": "Oort cloud"
+  },
+  {
+    "id": 3,
+    "question": "How many satellites does Mars have?",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Who discovered four main moons of Jupiter in 1610?",
+    "option1": "Carl Sagan",
+    "option2": "Galileo Galilei",
+    "option3": "Johannes Kepler",
+    "option4": "Nicolaus Copernicus",
+    "answer": "Galileo Galilei"
+  },
+  {
+    "id": 5,
+    "question": "A unit of measurement used to describe the expansion of the Universe is called",
+    "option1": "km/s",
+    "option2": "Lemaitre value",
+    "option3": "Hubble constant",
+    "option4": "Pi",
+    "answer": "Hubble constant"
+  },
+  {
+    "id": 6,
+    "question": "Which two gases make most of the sun?",
+    "option1": "Hydrogen and Helium",
+    "option2": "Hydrogen and Oxygen",
+    "option3": "Oxygen and Helium",
+    "option4": "Helium and Carbon",
+    "answer": "Hydrogen and Helium"
+  },
+  {
+    "id": 7,
+    "question": "Which star is closest to sun",
+    "option1": "Alpha Centauri A",
+    "option2": "Alpha Centauri B",
+    "option3": "Barnard's Star",
+    "option4": "Proxima Centauri",
+    "answer": "Proxima Centauri"
+  },
+  {
+    "id": 8,
+    "question": "Vesta is which type of heavenly body?",
+    "option1": "Asteroid",
+    "option2": "Comet",
+    "option3": "Planet",
+    "option4": "Satellite",
+    "answer": "Asteroid"
+  },
+  {
+    "id": 9,
+    "question": "Largest satellite in solar system is",
+    "option1": "Callisto",
+    "option2": "Ganymede",
+    "option3": "Moon",
+    "option4": "Titan",
+    "answer": "Ganymede"
+  },
+  {
+    "id": 10,
+    "question": "How many terrestrial planets are there in the Solar system?",
+    "option1": 4,
+    "option2": 3,
+    "option3": 2,
+    "option4": 1,
+    "answer": 4
+  },
+  {
+    "id": 11,
+    "question": "Where is the largest volcano in the Solar system?",
+    "option1": "Earth",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "answer": "Mars"
+  },
+  {
+    "id": 12,
+    "question": "Which of these stars do not make Summer Triangle?",
+    "option1": "Altair",
+    "option2": "Deneb",
+    "option3": "Sun",
+    "option4": "Vega",
+    "answer": "Sun"
+  },
+  {
+    "id": 13,
+    "question": "A powerful Star explosion is called",
+    "option1": "Big Bang",
+    "option2": "Heat Blast",
+    "option3": "Solar Flare",
+    "option4": "Supernova",
+    "answer": "Supernova"
+  },
+  {
+    "id": 14,
+    "question": "Which are the two ice giants of the solar system?",
+    "option1": "Jupiter and Saturn",
+    "option2": "Earth and Mars",
+    "option3": "Uranus and Neptune",
+    "option4": "Venus and Neptune",
+    "answer": "Uranus and Neptune"
+  },
+  {
+    "id": 15,
+    "question": "What is the orbital period of Halley’s comet?",
+    "option1": "12 years",
+    "option2": "32 years",
+    "option3": "51 years",
+    "option4": "76 years",
+    "answer": "76 years"
+  },
+  {
+    "id": 16,
+    "question": "Who speculated that our universe is expanding?",
+    "option1": "Newton",
+    "option2": "Hubble",
+    "option3": "Galileo",
+    "option4": "Copernicus",
+    "answer": "Hubble"
+  },
+  {
+    "id": 17,
+    "question": "Who had propounded the planetary laws?",
+    "option1": "Newton",
+    "option2": "Hubble",
+    "option3": "Galileo",
+    "option4": "Kepler",
+    "answer": "Kepler"
+  },
+  {
+    "id": 18,
+    "question": "Who had proved first that our earth and another planet are revolving?",
+    "option1": "Aristotle",
+    "option2": "Galileo",
+    "option3": "Copernicus",
+    "option4": "Hubble",
+    "answer": "Copernicus"
+  },
+  {
+    "id": 19,
+    "question": "Which one of the following elements occurs most abundantly in our universe?",
+    "option1": "Hydrogen",
+    "option2": "Helium",
+    "option3": "Oxygen",
+    "option4": "Nitrogen",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 20,
+    "question": "The stellar and solar source of energy is:",
+    "option1": "Nuclear fusion",
+    "option2": "Nuclear fission",
+    "option3": "Electromagnetic induction",
+    "option4": "Electromotive force",
+    "answer": "Nuclear fusion"
+  },
+  {
+    "id": 21,
+    "question": "The device employed to measure the diameters of stars and our galaxy (Milky Way) is called:",
+    "option1": "Photometer",
+    "option2": "Barometer",
+    "option3": "Viscometer",
+    "option4": "Interferometer",
+    "answer": "Interferometer"
+  },
+  {
+    "id": 22,
+    "question": "Which planet has most satellites?",
+    "option1": "Jupiter",
+    "option2": "Saturn",
+    "option3": "Uranus",
+    "option4": "Neptune",
+    "answer": "Saturn"
+  },
+  {
+    "id": 23,
+    "question": "Which one of the following planet is also called morning star or evening star?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Earth",
+    "option4": "Mars",
+    "answer": "Venus"
+  },
+  {
+    "id": 24,
+    "question": "The planet which completes one revolution in 88 days around the Sun is:",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Earth",
+    "option4": "Mars",
+    "answer": "Mercury"
+  },
+  {
+    "id": 25,
+    "question": "The planet whose density is less than water and on keeping in the water it will start to float:",
+    "option1": "Mercury",
+    "option2": "Earth",
+    "option3": "Mars",
+    "option4": "Saturn",
+    "answer": "Saturn"
+  },
+  {
+    "id": 26,
+    "question": "The planet Neptune was discovered by:",
+    "option1": "Galley",
+    "option2": "Galileo",
+    "option3": "Kepler",
+    "option4": "Newton",
+    "answer": "Galley"
+  },
+  {
+    "id": 27,
+    "question": "The small groups of planetary pieces which are confined and revolving between Mars and Jupiter are called:",
+    "option1": "Asteroids",
+    "option2": "Celestial bodies",
+    "option3": "Comet",
+    "option4": "Meteors",
+    "answer": "Asteroids"
+  },
+  {
+    "id": 28,
+    "question": "The day on which the Sun’s direct rays cross the celestial equator is called:",
+    "option1": "ecliptic",
+    "option2": "equinox",
+    "option3": "solstice",
+    "option4": "aphelion",
+    "answer": "equinox"
+  },
+  {
+    "id": 29,
+    "question": "Who invented the telescope?",
+    "option1": "Lippershey",
+    "option2": "Galileo",
+    "option3": "Hypatia",
+    "option4": "Kepler",
+    "answer": "Lippershey"
+  },
+  {
+    "id": 30,
+    "question": "What is the visible part of the Sun called?",
+    "option1": "stratosphere",
+    "option2": "photosphere",
+    "option3": "lithosphere",
+    "option4": "atmosphere",
+    "answer": "photosphere"
+  },
+  {
+    "id": 31,
+    "question": "What makes a planet a dwarf planet?",
+    "option1": "size and shape",
+    "option2": "distance from sun",
+    "option3": "color",
+    "option4": "smell",
+    "answer": "size and shape"
+  },
+  {
+    "id": 32,
+    "question": "How many times larger is the radius of the Sun than that of the Earth?",
+    "option1": 109,
+    "option2": 10,
+    "option3": 4.8,
+    "option4": 1025,
+    "answer": 109
+  },
+  {
+    "id": 33,
+    "question": "Approximately how many miles are there in a light-year?",
+    "option1": "0.59 million",
+    "option2": "5.9 billion",
+    "option3": "5.9 trillion",
+    "option4": "5.9 million",
+    "answer": "5.9 trillion"
+  },
+  {
+    "id": 34,
+    "question": "Who first discovered Saturn’s rings?",
+    "option1": "Galley",
+    "option2": "Galileo",
+    "option3": "Kepler",
+    "option4": "Newton",
+    "answer": "Galileo"
+  },
+  {
+    "id": 35,
+    "question": "What was the first animal launched into orbit?",
+    "option1": "Chimpanzee",
+    "option2": "Guinea Pig",
+    "option3": "Cat",
+    "option4": "Dog",
+    "answer": "Dog"
+  },
+  {
+    "id": 36,
+    "question": "Who was the first man in space?",
+    "option1": "Alexey Leonov",
+    "option2": "Neil Armstrong",
+    "option3": "Scott Carpenter",
+    "option4": "Yuri Gagarin",
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": 37,
+    "question": "Who was the first woman in space?",
+    "option1": "Sally Ride",
+    "option2": "Mae Jemison",
+    "option3": "Valentina Tereshkova",
+    "option4": "Svetlana Savitskaya",
+    "answer": "Valentina Tereshkova"
+  },
+  {
+    "id": 38,
+    "question": "What was Buzz Aldrin’s first name at birth?",
+    "option1": "Stephen",
+    "option2": "Scott",
+    "option3": "Earl",
+    "option4": "Edwin",
+    "answer": "Edwin"
+  },
+  {
+    "id": 39,
+    "question": "Who was the second U.S. astronaut to travel into space?",
+    "option1": "John Young",
+    "option2": "Edward White",
+    "option3": "Roger Chaffee",
+    "option4": "Virgil Grissom",
+    "answer": "Virgil Grissom"
+  },
+  {
+    "id": 40,
+    "question": "The first American astronaut to float in space",
+    "option1": "John Young",
+    "option2": "Edward White",
+    "option3": "Roger Chaffee",
+    "option4": "Virgil Grissom",
+    "answer": "Edward White"
+  },
+  {
+    "id": 41,
+    "question": "India's first scientific satellite",
+    "option1": "Aryabhatta",
+    "option2": "Bikramaditya",
+    "option3": "Chandrakanta",
+    "option4": "Devashree",
+    "answer": "Aryabhatta"
+  },
+  {
+    "id": 42,
+    "question": "The first space tourist in the world",
+    "option1": "Anousheh Ansari",
+    "option2": "Charles Simonyi",
+    "option3": "Dennis Tito",
+    "option4": "Mark Shuttleworth",
+    "answer": "Dennis Tito"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following phenomena cannot be observed on the surface of the Moon?",
+    "option1": "Rising and setting of the Sun",
+    "option2": "Solar eclipse",
+    "option3": "Motion of comets",
+    "option4": "Twinkling of stars",
+    "answer": "Twinkling of stars"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following planets has a revolution time which is shorter than its rotation time?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Venus"
+  },
+  {
+    "id": 45,
+    "question": "Which planet looks reddish in the night sky?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Mars"
+  },
+  {
+    "id": 46,
+    "question": "Which female astronaut spent the maximum time in space?",
+    "option1": "Lisa Norwak",
+    "option2": "Kalpana Chawla",
+    "option3": "Sunita Williams",
+    "option4": "Valentina Tereshkova",
+    "answer": "Sunita Williams"
+  },
+  {
+    "id": 47,
+    "question": "Which planet has the fastest revolution time?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Mercury"
+  },
+  {
+    "id": 48,
+    "question": "An astronaut in outer space will observe sky as",
+    "option1": "Red",
+    "option2": "Blue",
+    "option3": "Black",
+    "option4": "White",
+    "answer": "Black"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following planets rotates in a direction opposite to the direction of earth's rotation?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Venus"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following planets has a lesser rotation time than the Earth?",
+    "option1": "Mercury",
+    "option2": "Venus",
+    "option3": "Mars",
+    "option4": "Jupiter",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 1,
+    "question": "Who is called Father of Genetics?",
+    "option1": "Salk",
+    "option2": "Mendel",
+    "option3": "Linnaes",
+    "option4": "De Vries",
+    "answer": "Mendel"
+  },
+  {
+    "id": 2,
+    "question": "Mycology is the study of",
+    "option1": "Virus",
+    "option2": "Hydrilla",
+    "option3": "Rhizobium",
+    "option4": "Fungi",
+    "answer": "Fungi"
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following is a skin disease?",
+    "option1": "Anaemia",
+    "option2": "Rickets",
+    "option3": "Pellagra",
+    "option4": "Osteomalacia",
+    "answer": "Pellagra"
+  },
+  {
+    "id": 4,
+    "question": "Which acid is produced when milk gets sour?",
+    "option1": "Acetic acid",
+    "option2": "Lactic acid",
+    "option3": "Tartaric acid",
+    "option4": "Butyric acid",
+    "answer": "Lactic acid"
+  },
+  {
+    "id": 5,
+    "question": "Which one among the following produces seeds but not flowers?",
+    "option1": "Pine",
+    "option2": "Coffee",
+    "option3": "Ground nut",
+    "option4": "Cashew nut",
+    "answer": "Ground nut"
+  },
+  {
+    "id": 6,
+    "question": "The tallest living tree is",
+    "option1": "Palm tree",
+    "option2": "Sequoia",
+    "option3": "Tree fern",
+    "option4": "Eucalyptus",
+    "answer": "Sequoia"
+  },
+  {
+    "id": 7,
+    "question": "Pollination of birds is known as",
+    "option1": "Embryophily",
+    "option2": "Entomophily",
+    "option3": "Hydrophily",
+    "option4": "Ornithophily",
+    "answer": "Ornithophily"
+  },
+  {
+    "id": 8,
+    "question": "Polio is caused by",
+    "option1": "Virus",
+    "option2": "Bacteria",
+    "option3": "Insect",
+    "option4": "Fungus",
+    "answer": "Virus"
+  },
+  {
+    "id": 9,
+    "question": "A dye is prepared from",
+    "option1": "Sida",
+    "option2": "Tridax",
+    "option3": "Tephrosia",
+    "option4": "Indigofera",
+    "answer": "Indigofera"
+  },
+  {
+    "id": 10,
+    "question": "Which disease is caused by the fungi?",
+    "option1": "Polio",
+    "option2": "Malaria",
+    "option3": "Dermatitis",
+    "option4": "Cholera",
+    "answer": "Dermatitis"
+  },
+  {
+    "id": 11,
+    "question": "Production of which one of the following is a function of the liver?",
+    "option1": "Urea",
+    "option2": "Mucus",
+    "option3": "Lipase",
+    "option4": "Hydrochloric Acid",
+    "answer": "Urea"
+  },
+  {
+    "id": 12,
+    "question": "Which one of the following is a vitamin?",
+    "option1": "Citric acid",
+    "option2": "Folic acid",
+    "option3": "Glutamic acid",
+    "option4": "Lonoleic acid",
+    "answer": "Folic acid"
+  },
+  {
+    "id": 13,
+    "question": "Food wrapped in newspaper is likely to get contaminated with",
+    "option1": "Iron",
+    "option2": "Lead",
+    "option3": "Aluminium",
+    "option4": "Magnesium",
+    "answer": "Lead"
+  },
+  {
+    "id": 14,
+    "question": "The blue green algae are",
+    "option1": "Photoautotrophs",
+    "option2": "Chemoautotrophs",
+    "option3": "Photoheterotrophs",
+    "option4": "Chemoheterotrophs",
+    "answer": "Photoheterotrophs"
+  },
+  {
+    "id": 15,
+    "question": "Clove is obtained from",
+    "option1": "Root",
+    "option2": "Stem",
+    "option3": "Leaves",
+    "option4": "Flower buds",
+    "answer": "Flower buds"
+  },
+  {
+    "id": 16,
+    "question": "Where is sessile leaves present?",
+    "option1": "Nerium",
+    "option2": "Mangifera",
+    "option3": "Calotropis",
+    "option4": "Hibiscus",
+    "answer": "Calotropis"
+  },
+  {
+    "id": 17,
+    "question": "Which one of the following is responsible for converting milk into curd?",
+    "option1": "Virus",
+    "option2": "Fungi",
+    "option3": "Bacteria",
+    "option4": "Protozoa",
+    "answer": "Bacteria"
+  },
+  {
+    "id": 18,
+    "question": "Peristomes are present in",
+    "option1": "Chara",
+    "option2": "Adiantum",
+    "option3": "Pencillius",
+    "option4": "Polytrichum",
+    "answer": "Polytrichum"
+  },
+  {
+    "id": 19,
+    "question": "Pulses contain large amount of",
+    "option1": "Fats",
+    "option2": "Water",
+    "option3": "Proteins",
+    "option4": "Carbohydrate",
+    "answer": "Proteins"
+  },
+  {
+    "id": 20,
+    "question": "Another name of the reduction division is",
+    "option1": "Mitosis",
+    "option2": "Meiosis",
+    "option3": "Amitosis",
+    "option4": "None of these",
+    "answer": "Meiosis"
+  },
+  {
+    "id": 21,
+    "question": "Azadiracta indica is the botanical name of",
+    "option1": "Rice",
+    "option2": "Neem",
+    "option3": "Sandal",
+    "option4": "Turmeric",
+    "answer": "Neem"
+  },
+  {
+    "id": 22,
+    "question": "What is the main function of RNA?",
+    "option1": "Lipid synthesis",
+    "option2": "Carbohydrate synthesis",
+    "option3": "Protein synthesis",
+    "option4": "None of these",
+    "answer": "Protein synthesis"
+  },
+  {
+    "id": 23,
+    "question": "Paddy straw is stiff because of",
+    "option1": "Silica",
+    "option2": "Stone cells",
+    "option3": "Hard fibres",
+    "option4": "Collenchyma",
+    "answer": "Silica"
+  },
+  {
+    "id": 24,
+    "question": "Which forest is not affected by biological factors?",
+    "option1": "Tropical",
+    "option2": "Deciduous",
+    "option3": "Evergreen",
+    "option4": "Coniferous",
+    "answer": "Tropical"
+  },
+  {
+    "id": 25,
+    "question": "Largest number of Eucalyptus species is found in",
+    "option1": "Australia",
+    "option2": "Pakistan",
+    "option3": "Burma",
+    "option4": "New Zealand",
+    "answer": "Australia"
+  },
+  {
+    "id": 26,
+    "question": "Fixation of nitrogen in the soil is done by",
+    "option1": "Virus",
+    "option2": "Fungi",
+    "option3": "Bacteria",
+    "option4": "Protozoa",
+    "answer": "Bacteria"
+  },
+  {
+    "id": 27,
+    "question": "What is used as biofertilizer?",
+    "option1": "Ammonia",
+    "option2": "Urea",
+    "option3": "Azolla",
+    "option4": "Bagasse",
+    "answer": "Ammonia"
+  },
+  {
+    "id": 28,
+    "question": "Who discovered nucleus?",
+    "option1": "Albert",
+    "option2": "Newton",
+    "option3": "Brown",
+    "option4": "Hooke",
+    "answer": "Brown"
+  },
+  {
+    "id": 29,
+    "question": "Carrot is orange in colour because",
+    "option1": "It grows in soil",
+    "option2": "It contains carotene",
+    "option3": "It is not exposed to sunlight",
+    "option4": "The entire plant is orange in color",
+    "answer": "It contains carotene"
+  },
+  {
+    "id": 30,
+    "question": "A chemical used for destroying fungi in water tanks is",
+    "option1": "Nitric acid",
+    "option2": "Zinc Sulphate",
+    "option3": "Magnesium Sulphate",
+    "option4": "Copper Sulphate",
+    "answer": "Copper Sulphate"
+  },
+  {
+    "id": 31,
+    "question": "Water in plants is transported by",
+    "option1": "Xylem",
+    "option2": "Epidermis",
+    "option3": "Phloem",
+    "option4": "Cambium",
+    "answer": "Xylem"
+  },
+  {
+    "id": 32,
+    "question": "What is the name of the botanical name of paddy?",
+    "option1": "Solanum Nigrum",
+    "option2": "Eleusine Coracana",
+    "option3": "Oryza Sativa",
+    "option4": "None of these",
+    "answer": "Oryza Sativa"
+  },
+  {
+    "id": 33,
+    "question": "Which plant was used by Mendel in his early experiment?",
+    "option1": "Orange",
+    "option2": "Pea",
+    "option3": "Banana",
+    "option4": "Brinjal",
+    "answer": "Pea"
+  },
+  {
+    "id": 34,
+    "question": "Ammonification take place in",
+    "option1": "Forest",
+    "option2": "Sea",
+    "option3": "Leaves",
+    "option4": "Ditch",
+    "answer": "Ditch"
+  },
+  {
+    "id": 35,
+    "question": "Who found Binomial nomenclature?",
+    "option1": "Linnaeus",
+    "option2": "Hooker",
+    "option3": "Tippop",
+    "option4": "Prodi",
+    "answer": "Linnaeus"
+  },
+  {
+    "id": 36,
+    "question": "The richest source of vitamin D is",
+    "option1": "Milk",
+    "option2": "Cheese",
+    "option3": "Cod Liver Oil",
+    "option4": "Spinach",
+    "answer": "Cod Liver Oil"
+  },
+  {
+    "id": 37,
+    "question": "Oncogene is responsible for",
+    "option1": "Cancer",
+    "option2": "Aids",
+    "option3": "Malaria",
+    "option4": "Typhoid",
+    "answer": "Cancer"
+  },
+  {
+    "id": 38,
+    "question": "Which one of the following is not a mosquito borne disease?",
+    "option1": "Malaria",
+    "option2": "Filariasis",
+    "option3": "Dengue fever",
+    "option4": "Sleeping Sickness",
+    "answer": "Sleeping Sickness"
+  },
+  {
+    "id": 39,
+    "question": "More rate of photosynthesis occurs in which light?",
+    "option1": "Red",
+    "option2": "White",
+    "option3": "Blue",
+    "option4": "Yellow",
+    "answer": "White"
+  },
+  {
+    "id": 40,
+    "question": "Plants produces energy during",
+    "option1": "Respiration",
+    "option2": "Photosynthesis",
+    "option3": "Transpiration",
+    "option4": "Absorption",
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 41,
+    "question": "Which soil is rich in organic debris?",
+    "option1": "Loam soil",
+    "option2": "Humus soil",
+    "option3": "Saprophyte",
+    "option4": "None of these",
+    "answer": "Humus soil"
+  },
+  {
+    "id": 42,
+    "question": "The compound used in anti malarial drug is",
+    "option1": "Aspirin",
+    "option2": "Chloroquin",
+    "option3": "Neoprene",
+    "option4": "Isoprene",
+    "answer": "Chloroquin"
+  },
+  {
+    "id": 43,
+    "question": "The deficiency of which one of the following leads to dental caries?",
+    "option1": "Zinc",
+    "option2": "Copper",
+    "option3": "Iron",
+    "option4": "Fluorine",
+    "answer": "Fluorine"
+  },
+  {
+    "id": 44,
+    "question": "Healing of wounds is hastened by vitamin",
+    "option1": "A",
+    "option2": "B12",
+    "option3": "C",
+    "option4": "D",
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "question": "Which one of the following diseases is inheritable?",
+    "option1": "Hepatitis",
+    "option2": "Colour blindness",
+    "option3": "Leukaemia",
+    "option4": "Malignancy",
+    "answer": "Colour blindness"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is least infectious?",
+    "option1": "Leprosy",
+    "option2": "Hepatitis",
+    "option3": "Tuberculosis",
+    "option4": "Conjunctivitis",
+    "answer": "Leprosy"
+  },
+  {
+    "id": 47,
+    "question": "For which one among the following diseases no vaccine is yet available?",
+    "option1": "Measles",
+    "option2": "Mumps",
+    "option3": "Tetanus",
+    "option4": "Malaria",
+    "answer": "Malaria"
+  },
+  {
+    "id": 48,
+    "question": "Which among the following is not a true fruit?",
+    "option1": "Date",
+    "option2": "Plum",
+    "option3": "Apple",
+    "option4": "Grape",
+    "answer": "Plum"
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following plants is used for green manuring in India?",
+    "option1": "Rice",
+    "option2": "Wheat",
+    "option3": "Cotton",
+    "option4": "Sunhemp",
+    "answer": "Sunhemp"
+  },
+  {
+    "id": 50,
+    "question": "What is the type of Tomato fruit?",
+    "option1": "Pome",
+    "option2": "Berry",
+    "option3": "Drupe",
+    "option4": "None of these",
+    "answer": "Berry"
+  },
+  {
+    "id": 1,
+    "question": "Which one of the following non metals is not a poor conductor of electricity",
+    "option1": "Sulphur",
+    "option2": "Selenium",
+    "option3": "Bromine",
+    "option4": "Phosphorus",
+    "answer": "Selenium"
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is not a chemical change?",
+    "option1": "Burning of coal in air",
+    "option2": "Fermentation of sugarcane juice",
+    "option3": "Cracking of petroleum",
+    "option4": "Crystallization of table salt from sea water",
+    "answer": "Crystallization of table salt from sea water"
+  },
+  {
+    "id": 3,
+    "question": "Which metal remains in the liquid form under normal conditions?",
+    "option1": "Zinc",
+    "option2": "Radium",
+    "option3": "Uranium",
+    "option4": "Mercury",
+    "answer": "Mercury"
+  },
+  {
+    "id": 4,
+    "question": "Commercially, sodium bicarbonate is known as",
+    "option1": "Washing Soda",
+    "option2": "Baking Soda",
+    "option3": "Bleaching Powder",
+    "option4": "Soda Ash",
+    "answer": "Baking Soda"
+  },
+  {
+    "id": 5,
+    "question": "Acetyl salicylic acid is commonly used as",
+    "option1": "Pain killer",
+    "option2": "Sedative",
+    "option3": "Tear gas",
+    "option4": "Fertilizer",
+    "answer": "Pain killer"
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following elements is not present in stainless steel?",
+    "option1": "Iron",
+    "option2": "Tungsten",
+    "option3": "Chromium",
+    "option4": "Nickel",
+    "answer": "Tungsten"
+  },
+  {
+    "id": 7,
+    "question": "Bronze is an alloy of",
+    "option1": "Tin and Zinc",
+    "option2": "Iron and Zinc",
+    "option3": "Copper and Zinc",
+    "option4": "Copper and Tin",
+    "answer": "Copper and Tin"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a super cooled liquid?",
+    "option1": "Teflon",
+    "option2": "Glass",
+    "option3": "Mercury",
+    "option4": "Ice-cream",
+    "answer": "Glass"
+  },
+  {
+    "id": 9,
+    "question": "Curd is sour due to presence of",
+    "option1": "Acidic acid",
+    "option2": "Tartaric acid",
+    "option3": "Lactic acid",
+    "option4": "Oxalic acid",
+    "answer": "Lactic acid"
+  },
+  {
+    "id": 10,
+    "question": "First person to articulate atomic theory",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Dalton"
+  },
+  {
+    "id": 11,
+    "question": "Father of modern chemistry",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Lavoiser"
+  },
+  {
+    "id": 12,
+    "question": "Who discovered benzene?",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Faraday"
+  },
+  {
+    "id": 13,
+    "question": "Who created periodic table?",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Mendeleev"
+  },
+  {
+    "id": 14,
+    "question": "Acid rain contains high levels of",
+    "option1": "Oxalic acid",
+    "option2": "Acetic acid",
+    "option3": "Sulphuric acid",
+    "option4": "Carbolic acid",
+    "answer": "Carbolic acid"
+  },
+  {
+    "id": 15,
+    "question": "Which metal is commonly used for making an electromagnet?",
+    "option1": "Copper",
+    "option2": "Cobalt",
+    "option3": "Iron",
+    "option4": "Nickel",
+    "answer": "Iron"
+  },
+  {
+    "id": 16,
+    "question": "The gas that is responsible for global warming is",
+    "option1": "Carbon dioxide",
+    "option2": "Oxygen",
+    "option3": "Methane",
+    "option4": "Sulphur dioxide",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is the source of common salt?",
+    "option1": "Bauxite",
+    "option2": "Pyrite",
+    "option3": "Calcite",
+    "option4": "Halite",
+    "answer": "Halite"
+  },
+  {
+    "id": 18,
+    "question": "What is the main constituent of coal gas?",
+    "option1": "Oxygen",
+    "option2": "Water",
+    "option3": "Nitrogen",
+    "option4": "Methane",
+    "answer": "Methane"
+  },
+  {
+    "id": 19,
+    "question": "Who gave law of conservation of mass?",
+    "option1": "Dalton",
+    "option2": "Lavoiser",
+    "option3": "Faraday",
+    "option4": "Mendeleev",
+    "answer": "Lavoiser"
+  },
+  {
+    "id": 20,
+    "question": "Who gave the law- under the same temperature and pressure conditions, the same volumes of different gases will have the same number of molecules?",
+    "option1": "Avogadro",
+    "option2": "Berzelius",
+    "option3": "Bohr",
+    "option4": "Boyle",
+    "answer": "Avogadro"
+  },
+  {
+    "id": 21,
+    "question": "The first person to measure accurately the weight of atoms",
+    "option1": "Avogadro",
+    "option2": "Berzelius",
+    "option3": "Bohr",
+    "option4": "Boyle",
+    "answer": "Berzelius"
+  },
+  {
+    "id": 22,
+    "question": "Who codiscovered the chemical elements radium and polonium?",
+    "option1": "Bohr",
+    "option2": "Boyle",
+    "option3": "Curie",
+    "option4": "Mendeleev",
+    "answer": "Curie"
+  },
+  {
+    "id": 23,
+    "question": "Who discovered electron?",
+    "option1": "Rutherford",
+    "option2": "Thomson",
+    "option3": "Urey",
+    "option4": "Volta",
+    "answer": "Thomson"
+  },
+  {
+    "id": 24,
+    "question": "Father of nuclear chemistry",
+    "option1": "Rutherford",
+    "option2": "Thomson",
+    "option3": "Urey",
+    "option4": "Volta",
+    "answer": "Rutherford"
+  },
+  {
+    "id": 25,
+    "question": "The father of modern microbiology who transformed chemistry and biology with his discovery of mirror-image molecules",
+    "option1": "Pasteur",
+    "option2": "Pauling",
+    "option3": "Perkin",
+    "option4": "Raman",
+    "answer": "Pasteur"
+  },
+  {
+    "id": 26,
+    "question": "Who proved that every element’s identity is uniquely determined by its number of protons?",
+    "option1": "Mendeleev",
+    "option2": "Moseley",
+    "option3": "Natta",
+    "option4": "Nobel",
+    "answer": "Moseley"
+  },
+  {
+    "id": 27,
+    "question": "For which one of the following is the density maximum ?",
+    "option1": "Chloroform",
+    "option2": "Water",
+    "option3": "Benzene",
+    "option4": "Ice",
+    "answer": "Water"
+  },
+  {
+    "id": 28,
+    "question": "The chemicals used as a fixer in phosphorous is",
+    "option1": "Borax",
+    "option2": "Sodium Thiosulphate",
+    "option3": "Sodium Sulphate",
+    "option4": "Ammonium Persulphate",
+    "answer": "Sodium Thiosulphate"
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following does not contain silver?",
+    "option1": "Horn silver",
+    "option2": "German silver",
+    "option3": "Ruby silver",
+    "option4": "Lunar caustic",
+    "answer": "German silver"
+  },
+  {
+    "id": 30,
+    "question": "White Phosphorous is represented by which among the following symbols?",
+    "option1": "P1",
+    "option2": "P2",
+    "option3": "P3",
+    "option4": "P4",
+    "answer": "P4"
+  },
+  {
+    "id": 31,
+    "question": "Which among the following is known as White Vitriol?",
+    "option1": "Zinc Sulphate",
+    "option2": "Zinc Chloride",
+    "option3": "Zinc Phosphate",
+    "option4": "Zinc oxide",
+    "answer": "Zinc Sulphate"
+  },
+  {
+    "id": 32,
+    "question": "What is the bond formed due to the electrostatic attraction known as?",
+    "option1": "Covalent bond",
+    "option2": "Electrovalent bond",
+    "option3": "Electromagnetic bond",
+    "option4": "Polar bond",
+    "answer": "Electrovalent bond"
+  },
+  {
+    "id": 33,
+    "question": "Which among these are not the main constituents of LPG?",
+    "option1": "Methane",
+    "option2": "Butane",
+    "option3": "Propane",
+    "option4": "None of these",
+    "answer": "None of these"
+  },
+  {
+    "id": 34,
+    "question": "What is the relationship between bond energy and bond length?",
+    "option1": "Independent",
+    "option2": "Proportional",
+    "option3": "Inversely proportional",
+    "option4": "None of these",
+    "answer": "Inversely proportional"
+  },
+  {
+    "id": 35,
+    "question": "Which among the following acids is abundant in Grapes, Bananas and Tamarind?",
+    "option1": "Lactic acid",
+    "option2": "Oxalic acid",
+    "option3": "Salicylic acid",
+    "option4": "Tartaric acid",
+    "answer": "Tartaric acid"
+  },
+  {
+    "id": 36,
+    "question": "Which one among the following is called philosophers wool?",
+    "option1": "Zinc bromide",
+    "option2": "Zinc oxide",
+    "option3": "Zinc nitrate",
+    "option4": "Zinc chloride",
+    "answer": "Zinc oxide"
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following when dissolved in HO gives hissing sound?",
+    "option1": "Limestone",
+    "option2": "Slacked lime",
+    "option3": "Sode lime",
+    "option4": "Quick lime",
+    "answer": "Limestone"
+  },
+  {
+    "id": 38,
+    "question": "Glass is made of the mixture of",
+    "option1": "Quartz and mica",
+    "option2": "Sand and salt",
+    "option3": "Sand and silicates",
+    "option4": "None of these",
+    "answer": "Sand and silicates"
+  },
+  {
+    "id": 39,
+    "question": "Which one of the following is used as a filter in rubber tyres?",
+    "option1": "Graphite",
+    "option2": "Coal",
+    "option3": "Coke",
+    "option4": "Carbon black",
+    "answer": "Carbon black"
+  },
+  {
+    "id": 40,
+    "question": "Which one of the following polymeric matreials is used for making bullet proof jacket?",
+    "option1": "Nylon 6.6",
+    "option2": "Rayon",
+    "option3": "Kevlor",
+    "option4": "Dacron",
+    "answer": "Kevlor"
+  },
+  {
+    "id": 41,
+    "question": "Which alloy contains nickel?",
+    "option1": "Brass",
+    "option2": "Bronze",
+    "option3": "Invar",
+    "option4": "Solder",
+    "answer": "Invar"
+  },
+  {
+    "id": 42,
+    "question": "Which one of the following is also called Stranger Gas?",
+    "option1": "Argon",
+    "option2": "Neon",
+    "option3": "Xenon",
+    "option4": "Nitrous Oxide",
+    "answer": "Xenon"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a natural dye?",
+    "option1": "Crystal violet",
+    "option2": "Aniline blue",
+    "option3": "Alizarin",
+    "option4": "Phenolphthalein",
+    "answer": "Alizarin"
+  },
+  {
+    "id": 44,
+    "question": "What do we call the covalent bond where the electrons of the shared pair are contributed by only one species?",
+    "option1": "Polar Covalent bonds",
+    "option2": "Coordination Covalent bonds",
+    "option3": "Unilateral Covalent bonds",
+    "option4": "None of these",
+    "answer": "Coordination Covalent bonds"
+  },
+  {
+    "id": 45,
+    "question": "What is the bond angle in case of Ammonia molecule?",
+    "option1": "120°",
+    "option2": "150°",
+    "option3": "66°",
+    "option4": "107°",
+    "answer": "107°"
+  },
+  {
+    "id": 46,
+    "question": "Bagasse, a by-product of sugar manufacturing industry is used for the production of",
+    "option1": "Nylon",
+    "option2": "Glass",
+    "option3": "Paper",
+    "option4": "Alcohol",
+    "answer": "Paper"
+  },
+  {
+    "id": 47,
+    "question": "Which synthetic fibre is known as artificial silk?",
+    "option1": "Cotton",
+    "option2": "Rayon",
+    "option3": "Terylene",
+    "option4": "Nylon",
+    "answer": "Rayon"
+  },
+  {
+    "id": 48,
+    "question": "Mixture of which one of the following pairs of gases is the causes of occurance of most of the explosion in mines?",
+    "option1": "Hydrogen and oxygen",
+    "option2": "Oxygen and acetylene",
+    "option3": "Methane and air",
+    "option4": "Carbon dioxide and methane",
+    "answer": "Methane and air"
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following is used as a mordant in dying and tanning industry?",
+    "option1": "Magnesium oxide",
+    "option2": "Magnesium carbonate",
+    "option3": "Magnesium chloride",
+    "option4": "Magnesium sulphate",
+    "answer": "Magnesium sulphate"
+  },
+  {
+    "id": 50,
+    "question": "What are Rubies and Sapphires chemically known as",
+    "option1": "Silicon dioxide",
+    "option2": "Aluminium oxide",
+    "option3": "Lead tetra oxide",
+    "option4": "Boron nitride",
+    "answer": "Aluminium oxide"
+  },
+  {
+    "id": 1,
+    "question": "World's longest river Nile has most part in",
+    "option1": "Egypt",
+    "option2": "Ethiopia",
+    "option3": "Sudan",
+    "option4": "Uganda",
+    "answer": "Egypt"
+  },
+  {
+    "id": 2,
+    "question": "Gibralter Strait separates which two continents?",
+    "option1": "Asia and Africa",
+    "option2": "Africa and Europe",
+    "option3": "North America and South America",
+    "option4": "None",
+    "answer": "Africa and Europe"
+  },
+  {
+    "id": 3,
+    "question": "Which city is at boundary of two continents?",
+    "option1": "Cairo",
+    "option2": "Istanbul",
+    "option3": "Jakarta",
+    "option4": "Algiers",
+    "answer": "Istanbul"
+  },
+  {
+    "id": 4,
+    "question": "What is the oldest active volcano on Earth?",
+    "option1": "Etna",
+    "option2": "Fuji Yama",
+    "option3": "Mauna Loa",
+    "option4": "Taal",
+    "answer": "Etna"
+  },
+  {
+    "id": 5,
+    "question": "Largest volcano on Earth?",
+    "option1": "Etna",
+    "option2": "Fuji Yama",
+    "option3": "Mauna Loa",
+    "option4": "Taal",
+    "answer": "Mauna Loa"
+  },
+  {
+    "id": 6,
+    "question": "Where is Nihoa, bird island?",
+    "option1": "Hawaai",
+    "option2": "Canada",
+    "option3": "Japan",
+    "option4": "Indonesia",
+    "answer": "Hawaai"
+  },
+  {
+    "id": 7,
+    "question": "What is the fastest flowing river in the world?",
+    "option1": "Amazon",
+    "option2": "Mississippi",
+    "option3": "Nile",
+    "option4": "Yangtze",
+    "answer": "Amazon"
+  },
+  {
+    "id": 8,
+    "question": "What is the largest country in South America?",
+    "option1": "Argentina",
+    "option2": "Brazil",
+    "option3": "Chile",
+    "option4": "Peru",
+    "answer": "Brazil"
+  },
+  {
+    "id": 9,
+    "question": "What river flows through Paris?",
+    "option1": "Elbe",
+    "option2": "Thames",
+    "option3": "Loire",
+    "option4": "Seine",
+    "answer": "Seine"
+  },
+  {
+    "id": 10,
+    "question": "Which ocean is Bermuda triangle in?",
+    "option1": "Atlatic",
+    "option2": "Arctic",
+    "option3": "Antarctic",
+    "option4": "Pacific",
+    "answer": "Atlatic"
+  },
+  {
+    "id": 11,
+    "question": "In which country is the ancient city of Petra?",
+    "option1": "Jordon",
+    "option2": "Israel",
+    "option3": "Peru",
+    "option4": "Syria",
+    "answer": "Jordon"
+  },
+  {
+    "id": 12,
+    "question": "Where is Mount Macchu Picchu?",
+    "option1": "Jordon",
+    "option2": "Israel",
+    "option3": "Peru",
+    "option4": "Syria",
+    "answer": "Peru"
+  },
+  {
+    "id": 13,
+    "question": "Where is ancient city of Damascus?",
+    "option1": "Jordon",
+    "option2": "Israel",
+    "option3": "Peru",
+    "option4": "Syria",
+    "answer": "Syria"
+  },
+  {
+    "id": 14,
+    "question": "The deepest trench in the world, the Mariana Trench, is located in which ocean?",
+    "option1": "Atlatic",
+    "option2": "Arctic",
+    "option3": "Antarctic",
+    "option4": "Pacific",
+    "answer": "Pacific"
+  },
+  {
+    "id": 15,
+    "question": "On 16 December 1971, East Pakistan was liberated from Pakistan becoming what newly independent state?",
+    "option1": "Bangladesh",
+    "option2": "India",
+    "option3": "Myanmar",
+    "option4": "Tibet",
+    "answer": "Bangladesh"
+  },
+  {
+    "id": 16,
+    "question": "Largest delta in the world",
+    "option1": "Amazon Delta",
+    "option2": "Ebro Delta",
+    "option3": "Fly Delta",
+    "option4": "Ganges–Brahmaputra Delta",
+    "answer": "Ganges–Brahmaputra Delta"
+  },
+  {
+    "id": 17,
+    "question": "Due to the extreme difficulty of ascent, what mountain is nicknamed the “Savage Mountain”?",
+    "option1": "Everest",
+    "option2": "K2",
+    "option3": "Kanchanjunga",
+    "option4": "Blanc",
+    "answer": "K2"
+  },
+  {
+    "id": 18,
+    "question": "What is the smallest country in the world?",
+    "option1": "Nauru",
+    "option2": "Palau",
+    "option3": "Monaco",
+    "option4": "Vatican",
+    "answer": "Vatican"
+  },
+  {
+    "id": 19,
+    "question": "Which Spanish Island is known as “The Island of Eternal Spring”?",
+    "option1": "Majorca",
+    "option2": "Tenerife",
+    "option3": "Ibiza",
+    "option4": "La Palma",
+    "answer": "Tenerife"
+  },
+  {
+    "id": 20,
+    "question": "Only sea on earth without coastline",
+    "option1": "Bering Sea",
+    "option2": "Laptev Sea",
+    "option3": "North Sea",
+    "option4": "Sargasso Sea",
+    "answer": "Sargasso Sea"
+  },
+  {
+    "id": 21,
+    "question": "Deepest lake",
+    "option1": "Baikal",
+    "option2": "Caspian",
+    "option3": "Nicaragua",
+    "option4": "Superior",
+    "answer": "Baikal"
+  },
+  {
+    "id": 22,
+    "question": "Largest lake",
+    "option1": "Baikal",
+    "option2": "Caspian",
+    "option3": "Nicaragua",
+    "option4": "Superior",
+    "answer": "Caspian"
+  },
+  {
+    "id": 23,
+    "question": "Which country has the most volcanoes?",
+    "option1": "Canada",
+    "option2": "Indonesia",
+    "option3": "Japan",
+    "option4": "Papua New Guinea",
+    "answer": "Indonesia"
+  },
+  {
+    "id": 24,
+    "question": "What nation produces two thirds of the world’s vanilla?",
+    "option1": "Congo",
+    "option2": "Angola",
+    "option3": "Madagascar",
+    "option4": "Micronesia",
+    "answer": "Madagascar"
+  },
+  {
+    "id": 25,
+    "question": "The duck billed platypus is native to what country?",
+    "option1": "Australia",
+    "option2": "New Zealand",
+    "option3": "Chile",
+    "option4": "Argentina",
+    "answer": "Australia"
+  },
+  {
+    "id": 26,
+    "question": "What country is called \"Land of Ice and Fire\"?",
+    "option1": "Finland",
+    "option2": "Greenland",
+    "option3": "Iceland",
+    "option4": "Scotland",
+    "answer": "Iceland"
+  },
+  {
+    "id": 27,
+    "question": "Land of thousands lakes",
+    "option1": "Brazil",
+    "option2": "Finland",
+    "option3": "Nepal",
+    "option4": "Russia",
+    "answer": "Finland"
+  },
+  {
+    "id": 28,
+    "question": "Lands of Rising and Midnight Sun",
+    "option1": "Japan and Norway",
+    "option2": "Norway and Iceland",
+    "option3": "Iceland and Canada",
+    "option4": "Canada and Japan",
+    "answer": "Japan and Norway"
+  },
+  {
+    "id": 29,
+    "question": "Country with most natural world heritage sites",
+    "option1": "Australia",
+    "option2": "China",
+    "option3": "Russia",
+    "option4": "USA",
+    "answer": "China"
+  },
+  {
+    "id": 30,
+    "question": "Country with most cultural world heritage sites",
+    "option1": "France",
+    "option2": "Germany",
+    "option3": "Italy",
+    "option4": "Spain",
+    "answer": "Italy"
+  },
+  {
+    "id": 31,
+    "question": "Country with most world heritage sites (55)",
+    "option1": "China and Italy",
+    "option2": "Italy and Germany",
+    "option3": "Germany and Spain",
+    "option4": "Spain and China",
+    "answer": "China and Italy"
+  },
+  {
+    "id": 32,
+    "question": "Largest rock in the world",
+    "option1": "Sigiriya",
+    "option2": "Sugarloaf",
+    "option3": "Uluru",
+    "option4": "Zuma",
+    "answer": "Uluru"
+  },
+  {
+    "id": 33,
+    "question": "What is the largest desert in the world?",
+    "option1": "Antarctica",
+    "option2": "Arctic",
+    "option3": "Australian",
+    "option4": "Sahara",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 34,
+    "question": "What African country has the largest population?",
+    "option1": "Congo",
+    "option2": "Egypt",
+    "option3": "Ethiopia",
+    "option4": "Nigeria",
+    "answer": "Nigeria"
+  },
+  {
+    "id": 35,
+    "question": "City with largest population",
+    "option1": "Delhi",
+    "option2": "Sao Paulo",
+    "option3": "Shanghai",
+    "option4": "Tokyo",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 36,
+    "question": "Oldest national park in the world",
+    "option1": "Banff",
+    "option2": "Bogd Khan Uul",
+    "option3": "Royal",
+    "option4": "Yellowstone",
+    "answer": "Bogd Khan Uul"
+  },
+  {
+    "id": 37,
+    "question": "What river runs through Baghdad?",
+    "option1": "Euphrates",
+    "option2": "Karun",
+    "option3": "Jordon",
+    "option4": "Tigris",
+    "answer": "Tigris"
+  },
+  {
+    "id": 38,
+    "question": "What country has the most natural lakes?",
+    "option1": "Australia",
+    "option2": "Canada",
+    "option3": "Finland",
+    "option4": "India",
+    "answer": "Canada"
+  },
+  {
+    "id": 39,
+    "question": "What is the driest place on Earth?",
+    "option1": "Atacama, Chile",
+    "option2": "Kufra, Libya",
+    "option3": "McMurdo, Antarctica",
+    "option4": "Sahara, Africa",
+    "answer": "McMurdo, Antarctica"
+  },
+  {
+    "id": 40,
+    "question": "Which African nation has the most pyramids?",
+    "option1": "Algeria",
+    "option2": "Egypt",
+    "option3": "Libya",
+    "option4": "Sudan",
+    "answer": "Sudan"
+  },
+  {
+    "id": 41,
+    "question": "What is the oldest city in the world?",
+    "option1": "Athens",
+    "option2": "Damascus",
+    "option3": "Jericho",
+    "option4": "Jerusalem",
+    "answer": "Damascus"
+  },
+  {
+    "id": 42,
+    "question": "What is the largest country on the Arabian Peninsula?",
+    "option1": "Jordon",
+    "option2": "Saudi Arabia",
+    "option3": "UAE",
+    "option4": "Yemen",
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 43,
+    "question": "What continent is located at Latitude 90° S Longitude 0.00° E?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Australia",
+    "option4": "Antarctica",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 44,
+    "question": "What is the deepest point in Earth's oceans?",
+    "option1": "Eurasian Basin",
+    "option2": "Java Trench",
+    "option3": "Mariana Trench",
+    "option4": "Tonga Trench",
+    "answer": "Mariana Trench"
+  },
+  {
+    "id": 45,
+    "question": "Which country isn't entirely surrounded by one country?",
+    "option1": "Lesotho",
+    "option2": "Mongolia",
+    "option3": "San Marino",
+    "option4": "Vatican",
+    "answer": "Mongolia"
+  },
+  {
+    "id": 46,
+    "question": "Largest landlocked country",
+    "option1": "Chad",
+    "option2": "Kazakhstan",
+    "option3": "Mongolia",
+    "option4": "Niger",
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 47,
+    "question": "What is the only continent with land in all four hemispheres?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "Australia",
+    "option4": "Antarctica",
+    "answer": "Africa"
+  },
+  {
+    "id": 48,
+    "question": "Transylvania, the home of Dracula is in which country?",
+    "option1": "Austria",
+    "option2": "Bulgaria",
+    "option3": "Romania",
+    "option4": "Slovenia",
+    "answer": "Romania"
+  },
+  {
+    "id": 49,
+    "question": "Highest navigable lakes in the world",
+    "option1": "Acamarachi",
+    "option2": "Licancbur",
+    "option3": "Titicaca",
+    "option4": "Ojos del Salado",
+    "answer": "Titicaca"
+  },
+  {
+    "id": 50,
+    "question": "Which non-polar desert is the biggest desert in the world?",
+    "option1": "Arabian",
+    "option2": "Gobi",
+    "option3": "Kalahari",
+    "option4": "Sahara",
+    "answer": "Sahara"
+  },
+  {
+    "id": 1,
+    "question": "Who was the author of the famous storybook 'Alice's Adventures in Wonderland'?",
+    "option1": "Rudyard Kipling",
+    "option2": "John Keats",
+    "option3": "Lewis Carroll",
+    "option4": "H G Wells",
+    "answer": "Lewis Carroll"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote 'Where ignorance is bliss, it is folly to be wise'?",
+    "option1": "Browning",
+    "option2": "Marx",
+    "option3": "Shakespeare",
+    "option4": "Kipling",
+    "answer": "Shakespeare"
+  },
+  {
+    "id": 3,
+    "question": "Which is the first Harry Potter book?",
+    "option1": "Goblet of Fire",
+    "option2": "Chamber of Secrets",
+    "option3": "Philosopher's Stone",
+    "option4": "Order of the Phoenix",
+    "answer": "Philosopher's Stone"
+  },
+  {
+    "id": 4,
+    "question": "Jane Eyre' was written by which Bronte sister?",
+    "option1": "Anne",
+    "option2": "Charlotte",
+    "option3": "Emily",
+    "option4": "None of these",
+    "answer": "Charlotte"
+  },
+  {
+    "id": 5,
+    "question": "In the book ‘the Lord of the Rings ‘, who or what is Bilbo?",
+    "option1": "Dwarf",
+    "option2": "Wizard",
+    "option3": "Hobbit",
+    "option4": "Troll",
+    "answer": "Hobbit"
+  },
+  {
+    "id": 6,
+    "question": "Mr. and Mrs. Dursley, of number four Privet Drive, were proud to say that they were perfectly normal, thank you very much.\" Which book is this the opening line of?",
+    "option1": "Goblet of Fire",
+    "option2": "Chamber of Secrets",
+    "option3": "Philosopher's Stone",
+    "option4": "Order of the Phoenix",
+    "answer": "Philosopher's Stone"
+  },
+  {
+    "id": 7,
+    "question": "What nationality is Gabriel Garcia Marquez?",
+    "option1": "Argentina",
+    "option2": "Brazil",
+    "option3": "Colombia",
+    "option4": "Djibouti",
+    "answer": "Colombia"
+  },
+  {
+    "id": 8,
+    "question": "What wasn't written by Shakespeare?",
+    "option1": "Romeo and Juliet",
+    "option2": "King Lear",
+    "option3": "Hamlet",
+    "option4": "Ulysses",
+    "answer": "Ulysses"
+  },
+  {
+    "id": 9,
+    "question": "Which poem was writtem in blind condition?",
+    "option1": "A Psalm of Life",
+    "option2": "Daffodils",
+    "option3": "Paradise Lost",
+    "option4": "Sonnet 18",
+    "answer": "Paradise Lost"
+  },
+  {
+    "id": 10,
+    "question": "Who was William Shakespeare's wife?",
+    "option1": "Anne Hathaway",
+    "option2": "Charlotte Bronte",
+    "option3": "Jane Austen",
+    "option4": "Virginia Woolf",
+    "answer": "Anne Hathaway"
+  },
+  {
+    "id": 11,
+    "question": "Pride and Prejudice was written by",
+    "option1": "Anne Hathaway",
+    "option2": "Charlotte Bronte",
+    "option3": "Jane Austen",
+    "option4": "Virginia Woolf",
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 12,
+    "question": "Which of these isn't George Orwell's books?",
+    "option1": 1984,
+    "option2": "Animal Farm",
+    "option3": "Homage to Catalonia",
+    "option4": "Treasure Island",
+    "answer": "Treasure Island"
+  },
+  {
+    "id": 13,
+    "question": "Gabriel Garcia Marquez wrote One Hundred Years of",
+    "option1": "Adventure",
+    "option2": "Revolution",
+    "option3": "Silence",
+    "option4": "Solitude",
+    "answer": "Solitude"
+  },
+  {
+    "id": 14,
+    "question": "Fyodor Dostoyevsky didn't write",
+    "option1": "Anna Karenina",
+    "option2": "Crime and Punishment",
+    "option3": "The Brothers Karamazov",
+    "option4": "The Idiot",
+    "answer": "Anna Karenina"
+  },
+  {
+    "id": 15,
+    "question": "Who is not the character of Arabian nights?",
+    "option1": "Aladdin",
+    "option2": "Ali Baba",
+    "option3": "Javed",
+    "option4": "Sinbad",
+    "answer": "Javed"
+  },
+  {
+    "id": 16,
+    "question": "Vladimir Nabokov wrote",
+    "option1": "Anita",
+    "option2": "Elizabeth",
+    "option3": "Lolita",
+    "option4": "Mona Lisa",
+    "answer": "Lolita"
+  },
+  {
+    "id": 17,
+    "question": "Which spanish writer wrote Don Quixote",
+    "option1": "Federico Garcia Lorca",
+    "option2": "Miguel De Cervantes",
+    "option3": "Camilo Jose Cela",
+    "option4": "Carlos Ruiz Zafon",
+    "answer": "Miguel De Cervantes"
+  },
+  {
+    "id": 18,
+    "question": "In Charles Dickens' A Tale of Two Cities, one city is London and another is",
+    "option1": "Glasgow",
+    "option2": "Cardiff",
+    "option3": "New York",
+    "option4": "Paris",
+    "answer": "Paris"
+  },
+  {
+    "id": 19,
+    "question": "The Old Man and the Sea was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": 20,
+    "question": "The Adventures of Huckleberry Finn adn Tom Sawyer was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 21,
+    "question": "Which of these books were not written by Leo Tolstoy?",
+    "option1": "Anna Karenina",
+    "option2": "Resurrection",
+    "option3": "The Master and Margarita",
+    "option4": "War and Peace",
+    "answer": "War and Peace"
+  },
+  {
+    "id": 22,
+    "question": "Gabriel Garcia Marquez wrote Love in the Time of",
+    "option1": "Cholera",
+    "option2": "Fever",
+    "option3": "Flu",
+    "option4": "Malaria",
+    "answer": "Cholera"
+  },
+  {
+    "id": 23,
+    "question": "The Sound and the Fury was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "William Faulkner"
+  },
+  {
+    "id": 24,
+    "question": "The Tell-Tale Heart was written by",
+    "option1": "Edgar Allan Poe",
+    "option2": "Ernest Hemingway",
+    "option3": "Mark Twain",
+    "option4": "William Faulkner",
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": 25,
+    "question": "George Eliot wrote",
+    "option1": "Autumn",
+    "option2": "Middlemarch",
+    "option3": "Mid-April",
+    "option4": "Mid-Summer",
+    "answer": "Middlemarch"
+  },
+  {
+    "id": 26,
+    "question": "Which indian writer wrote \"The God of Small Things\"?",
+    "option1": "Arundhati Roy",
+    "option2": "Salman Rushdie",
+    "option3": "RK Narayan",
+    "option4": "Rabindranath Tagore",
+    "answer": "Arundhati Roy"
+  },
+  {
+    "id": 27,
+    "question": "Which of these is not Khaled Hosseini books?",
+    "option1": "A Thousand Splendid Suns",
+    "option2": "And The Mountains Echoed",
+    "option3": "The Kite Runner",
+    "option4": "The White Tiger",
+    "answer": "The White Tiger"
+  },
+  {
+    "id": 28,
+    "question": "Who wrote Midnight Children?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Salman Rushdie"
+  },
+  {
+    "id": 29,
+    "question": "Who wrote Interpreter of Maladies?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Jhumpa Lahiri"
+  },
+  {
+    "id": 30,
+    "question": "Who wrote The Namesake?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Jhumpa Lahiri"
+  },
+  {
+    "id": 31,
+    "question": "Who wrote A Suitable Boy?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "Vikram Seth"
+  },
+  {
+    "id": 32,
+    "question": "Who wrote Malgudi Days?",
+    "option1": "Salman Rushdie",
+    "option2": "Jhumpa Lahiri",
+    "option3": "Vikram Seth",
+    "option4": "RK Narayan",
+    "answer": "RK Narayan"
+  },
+  {
+    "id": 33,
+    "question": "Who wrote Godaan?",
+    "option1": "Dhanpat Das",
+    "option2": "Gopal Sharma",
+    "option3": "Prem Das",
+    "option4": "Munshi Premchand",
+    "answer": "Munshi Premchand"
+  },
+  {
+    "id": 34,
+    "question": "Who wrote national anthem of Bangladesh 'Amar Shonar Bangla'?",
+    "option1": "Kazi Nazrul Islam",
+    "option2": "Michael Madhusudan Dutt",
+    "option3": "Faraaz Kazi",
+    "option4": "Rabindranath Tagore",
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 35,
+    "question": "My Experiments with Truth' was written by",
+    "option1": "APJ Abdul Kalam",
+    "option2": "Nirad Chaudhuri",
+    "option3": "Mahatma Gandhi",
+    "option4": "Jawaharlal Nehru",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 36,
+    "question": "Wings of Fire is an autobiography of",
+    "option1": "APJ Abdul Kalam",
+    "option2": "Nirad Chaudhuri",
+    "option3": "Mahatma Gandhi",
+    "option4": "Jawaharlal Nehru",
+    "answer": "APJ Abdul Kalam"
+  },
+  {
+    "id": 37,
+    "question": "Great poet of Sanskrit",
+    "option1": "Tulsidas",
+    "option2": "Valmiki",
+    "option3": "Kalidasa",
+    "option4": "None of these",
+    "answer": "Kalidasa"
+  },
+  {
+    "id": 38,
+    "question": "Nepali Mahakavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Laxmi Prasad Devkota"
+  },
+  {
+    "id": 39,
+    "question": "Nepali Adikavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Bhanu Bhakta Acharya"
+  },
+  {
+    "id": 40,
+    "question": "Nepali Rashtrakavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Madhav Prasad Ghimire"
+  },
+  {
+    "id": 41,
+    "question": "Nepali Yugakavi",
+    "option1": "Laxmi Prasad Devkota",
+    "option2": "Bhanu Bhakta Acharya",
+    "option3": "Madhav Prasad Ghimire",
+    "option4": "Siddhicharan Shrestha",
+    "answer": "Siddhicharan Shrestha"
+  },
+  {
+    "id": 42,
+    "question": "Nepali Yuwakavi",
+    "option1": "Lekhnath Paudel",
+    "option2": "Gopal Prasad Rimal",
+    "option3": "Motiram Bhatta",
+    "option4": "Bhim Nidhi Timari",
+    "answer": "Motiram Bhatta"
+  },
+  {
+    "id": 43,
+    "question": "Nepali Kabi Shiromani",
+    "option1": "Lekhnath Paudel",
+    "option2": "Gopal Prasad Rimal",
+    "option3": "Motiram Bhatta",
+    "option4": "Bhim Nidhi Timari",
+    "answer": "Lekhnath Paudel"
+  },
+  {
+    "id": 44,
+    "question": "Who wrote National anthem of Nepal \"Sayau Thunga Fulka",
+    "option1": "Bishnu Majhi",
+    "option2": "Byakul Maila",
+    "option3": "Muna Thapa Magar",
+    "option4": "None of these",
+    "answer": "Byakul Maila"
+  },
+  {
+    "id": 45,
+    "question": "Amar Neupane wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Seto Dharti"
+  },
+  {
+    "id": 46,
+    "question": "Buddhisagar wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Karnali Blues"
+  },
+  {
+    "id": 47,
+    "question": "Parijat wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Shirishko Phul"
+  },
+  {
+    "id": 48,
+    "question": "Diamond Shumsher Rana wrote",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Seto Bagh"
+  },
+  {
+    "id": 49,
+    "question": "Krishna Dharawasi did not write",
+    "option1": "Adha Bato",
+    "option2": "Jhola",
+    "option3": "Radha",
+    "option4": "Raktakunda",
+    "answer": "Raktakunda"
+  },
+  {
+    "id": 50,
+    "question": "Blue Mimosa is english translation of",
+    "option1": "Seto Dharti",
+    "option2": "Karnali Blues",
+    "option3": "Shirishko Phul",
+    "option4": "Seto Bagh",
+    "answer": "Shirishko Phul"
+  },
+  {
+    "id": 1,
+    "question": "Which of the following phenomena is involved in the absorption of ink by blotting paper?",
+    "option1": "Viscosity of ink",
+    "option2": "Capillary action",
+    "option3": "Diffusion of ink",
+    "option4": "Siphon action",
+    "answer": "Capillary action"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following name of scientist is expressed as a unit of nuclear size?",
+    "option1": "Fermi",
+    "option2": "Angstorm",
+    "option3": "Newton",
+    "option4": "Tesla",
+    "answer": "Fermi"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is measured by light year?",
+    "option1": "Time",
+    "option2": "Distance",
+    "option3": "Volume of gas",
+    "option4": "Intensity of light",
+    "answer": "Distance"
+  },
+  {
+    "id": 4,
+    "question": "The amount of time light takes to reach the earth’s surface from the sun in minutes is:",
+    "option1": 2,
+    "option2": 4,
+    "option3": 8,
+    "option4": 16,
+    "answer": 8
+  },
+  {
+    "id": 5,
+    "question": "Who was the first pre-Socratic philosopher to suggest that matter could neither be created nor destroyed?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Parmenides"
+  },
+  {
+    "id": 6,
+    "question": "Who in 1231 was the first to describe the science of optics?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Grosseteste"
+  },
+  {
+    "id": 7,
+    "question": "Which Greek philosopher suggested that the material world was composed of four basic elements – air, water, fire and earth?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Empedocles"
+  },
+  {
+    "id": 8,
+    "question": "Who was burnt to death for suggesting that the sun might be an ordinary star?",
+    "option1": "Parmenides",
+    "option2": "Grosseteste",
+    "option3": "Empedocles",
+    "option4": "Giordano Bruno",
+    "answer": "Giordano Bruno"
+  },
+  {
+    "id": 9,
+    "question": "In 1729 AD, Pieter Van Musschenbroek used the term ‘PHYSICS’ for the first time. What was the subject called so far?",
+    "option1": "Astrophysics",
+    "option2": "Natural philosophy",
+    "option3": "Physicology",
+    "option4": "United Science",
+    "answer": "Natural philosophy"
+  },
+  {
+    "id": 10,
+    "question": "Who in 1643 was the first person to create vacuum above the liquid?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Torricelli"
+  },
+  {
+    "id": 11,
+    "question": "Who in 1786 invented the gold leaf electroscope?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Bennet"
+  },
+  {
+    "id": 12,
+    "question": "Who encouraged Newton to write his idea for Principia?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Halley"
+  },
+  {
+    "id": 13,
+    "question": "Who in 1808 discovered polarization of light and introduced the term ‘Polarization’?",
+    "option1": "Torricelli",
+    "option2": "Bennet",
+    "option3": "Halley",
+    "option4": "Malus",
+    "answer": "Malus"
+  },
+  {
+    "id": 14,
+    "question": "The first scientist to apply scientific reasoning to cosmology was Rene Descartes. What was his theory called?",
+    "option1": "Principle of Cosmos",
+    "option2": "Descartes Principle",
+    "option3": "Rene's Theory of Cosmos",
+    "option4": "Vortex Theory",
+    "answer": "Vortex Theory"
+  },
+  {
+    "id": 15,
+    "question": "Black-hole is",
+    "option1": "A flight recorder in aeroplane",
+    "option2": "A spot on sun",
+    "option3": "A place in Antarctica",
+    "option4": "A collapsed star",
+    "answer": "A collapsed star"
+  },
+  {
+    "id": 16,
+    "question": "Which one of the following is associated with 'Albedo'?",
+    "option1": "Transmitting power",
+    "option2": "Absorbing power",
+    "option3": "Emissive power",
+    "option4": "Reflecting power",
+    "answer": "Reflecting power"
+  },
+  {
+    "id": 17,
+    "question": "The phenomenon used in optical fibre for transmission of light energy is",
+    "option1": "Total internal reflection",
+    "option2": "Refraction",
+    "option3": "Scattering",
+    "option4": "Diffraction",
+    "answer": "Total internal reflection"
+  },
+  {
+    "id": 18,
+    "question": "The unit of electric power is",
+    "option1": "Ampere",
+    "option2": "Volt",
+    "option3": "Coulumb",
+    "option4": "Watt",
+    "answer": "Watt"
+  },
+  {
+    "id": 19,
+    "question": "The device to measure electric current is",
+    "option1": "Voltmeter",
+    "option2": "Ammeter",
+    "option3": "Voltameter",
+    "option4": "Potentiometer",
+    "answer": "Ammeter"
+  },
+  {
+    "id": 20,
+    "question": "What is measured in Hertz?",
+    "option1": "Frequency",
+    "option2": "Energy",
+    "option3": "Heat",
+    "option4": "Quality",
+    "answer": "Frequency"
+  },
+  {
+    "id": 21,
+    "question": "Sound wave in air is",
+    "option1": "Transverse",
+    "option2": "Longitudinal",
+    "option3": "Electromagnetic",
+    "option4": "Polarized",
+    "answer": "Longitudinal"
+  },
+  {
+    "id": 22,
+    "question": "Which one of the following quantities does not have unit?",
+    "option1": "Stress",
+    "option2": "Force",
+    "option3": "Strain",
+    "option4": "Pressure",
+    "answer": "Strain"
+  },
+  {
+    "id": 23,
+    "question": "Which one of the following is a scalar quantity?",
+    "option1": "Force",
+    "option2": "Pressure",
+    "option3": "Velocity",
+    "option4": "Acceleration",
+    "answer": "Pressure"
+  },
+  {
+    "id": 24,
+    "question": "The process of movement of molecules from a higher concentration place to a lower concentration places is known as :",
+    "option1": "Condensation",
+    "option2": "Evaporation",
+    "option3": "Diffusion",
+    "option4": "Sublimation",
+    "answer": "Diffusion"
+  },
+  {
+    "id": 25,
+    "question": "The acceleration experienced by an object during a free fall is independent of its",
+    "option1": "Velocity",
+    "option2": "Pressure",
+    "option3": "Mass",
+    "option4": "Energy",
+    "answer": "Mass"
+  },
+  {
+    "id": 26,
+    "question": "What is the minimum temperature to which a fuel must be heated so that it may catch fire and start burning?",
+    "option1": "Normal temperature",
+    "option2": "Neutral temperature",
+    "option3": "Boiling temperature",
+    "option4": "Ignition temperature",
+    "answer": "Ignition temperature"
+  },
+  {
+    "id": 27,
+    "question": "How is the ammeter connected in all circuits to measure current flowing in it?",
+    "option1": "In parallel",
+    "option2": "Across",
+    "option3": "In series",
+    "option4": "In line",
+    "answer": "In series"
+  },
+  {
+    "id": 28,
+    "question": "If a convex lens forms a real inverted same size image at 30 cm, then the object is placed ......... in front of the lens.",
+    "option1": "30cm",
+    "option2": "40cm",
+    "option3": "10cm",
+    "option4": "20cm",
+    "answer": "30cm"
+  },
+  {
+    "id": 29,
+    "question": "If the frequency of a sound wave is 100 Hz, then what is its time period in seconds?",
+    "option1": 0.1,
+    "option2": 0.01,
+    "option3": 10,
+    "option4": 1,
+    "answer": 0.01
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is TRUE about the process of evaporation?",
+    "option1": "It does not depend upon humidity level",
+    "option2": "It increases with increase in surface area",
+    "option3": "It decreases with increase in wind speed",
+    "option4": "",
+    "answer": "It increases with increase in surface area"
+  },
+  {
+    "id": 31,
+    "question": "Which form of energy causes a matchstick to ignite into a bright flame when the matchstick is struck against the match box surface?",
+    "option1": "Potential",
+    "option2": "Kinetic",
+    "option3": "Chemical",
+    "option4": "Wind",
+    "answer": "Kinetic"
+  },
+  {
+    "id": 32,
+    "question": "Sound cannot travel through",
+    "option1": "Gas",
+    "option2": "Vacuum",
+    "option3": "Liquid",
+    "option4": "Metal",
+    "answer": "Vacuum"
+  },
+  {
+    "id": 33,
+    "question": "A car undergoes a uniform circular motion. The acceleration of the car is",
+    "option1": "zero",
+    "option2": "non-zero variable",
+    "option3": "non-zero constant",
+    "option4": "None of these",
+    "answer": "non-zero variable"
+  },
+  {
+    "id": 34,
+    "question": "The rate of evaporation of liquid does not depend upon",
+    "option1": "Temperature",
+    "option2": "Surface area exposed",
+    "option3": "Mass",
+    "option4": "Humidity",
+    "answer": "Mass"
+  },
+  {
+    "id": 35,
+    "question": "Bose-Einstein Condensate is",
+    "option1": "solid state of matter",
+    "option2": "fifth state of matter",
+    "option3": "condensed state of matter",
+    "option4": "fourth state of matter",
+    "answer": "fifth state of matter"
+  },
+  {
+    "id": 36,
+    "question": "Plasma is",
+    "option1": "solid state of matter",
+    "option2": "fifth state of matter",
+    "option3": "condensed state of matter",
+    "option4": "fourth state of matter",
+    "answer": "fourth state of matter"
+  },
+  {
+    "id": 37,
+    "question": "The frequency (in Hz) of a note that is one octave higher than 500 Hz is",
+    "option1": 375,
+    "option2": 750,
+    "option3": 1000,
+    "option4": 2000,
+    "answer": 1000
+  },
+  {
+    "id": 38,
+    "question": "If the speed of a moving magnet inside a coil increases the electric current in the coil",
+    "option1": "Increases",
+    "option2": "Decrease",
+    "option3": "Remains same",
+    "option4": "Reverses to Negative",
+    "answer": "Increases"
+  },
+  {
+    "id": 39,
+    "question": "If an object is at rest, then the time (X-axis) versus distance (Y-axis) graph",
+    "option1": "is vertical",
+    "option2": "is horizontal",
+    "option3": "has positive slope of 45 degree",
+    "option4": "has negative slope of 45 degree",
+    "answer": "is horizontal"
+  },
+  {
+    "id": 40,
+    "question": "Magnification is",
+    "option1": "actual size of specimen/ observed size",
+    "option2": "observed size of specimen/ actual size",
+    "option3": "actual size of specimen - observed size",
+    "option4": "actual size of specimen - observed size",
+    "answer": "observed size of specimen/ actual size"
+  },
+  {
+    "id": 41,
+    "question": "People prefer to wear cotton clothes in summer season. This is due to the fact that cotton clothes are",
+    "option1": "good absorbers of water",
+    "option2": "good conveyors of sound",
+    "option3": "good radiators of heat",
+    "option4": "good absorbers of heat",
+    "answer": "good absorbers of water"
+  },
+  {
+    "id": 42,
+    "question": "Soap solution used for cleaning purpose appears cloudy. This is due to the fact that soap micelles can",
+    "option1": "refract light",
+    "option2": "scatter light",
+    "option3": "diffract light",
+    "option4": "polarize light",
+    "answer": "scatter light"
+  },
+  {
+    "id": 43,
+    "question": "Who is the Father of Physics?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Newton"
+  },
+  {
+    "id": 44,
+    "question": "Who is the Father of Modern Physics?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Einstein"
+  },
+  {
+    "id": 45,
+    "question": "Who is the Father of Observational Physics?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Galileo"
+  },
+  {
+    "id": 46,
+    "question": "Who gave law of gravitation?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Newton"
+  },
+  {
+    "id": 47,
+    "question": "Who gave three laws of motion?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Newton"
+  },
+  {
+    "id": 48,
+    "question": "Who gave theory of relativity?",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Einstein"
+  },
+  {
+    "id": 49,
+    "question": "Mass-energy equivalence was given by",
+    "option1": "Newton",
+    "option2": "Einstein",
+    "option3": "Galileo",
+    "option4": "None",
+    "answer": "Einstein"
+  },
+  {
+    "id": 50,
+    "question": "Father of Modern Optics",
+    "option1": "CV Raman",
+    "option2": "George Washington Carver",
+    "option3": "Ibn Al-Haytham",
+    "option4": "Luc Montagnier",
+    "answer": "Ibn Al-Haytham"
+  },
+  {
+    "id": 1,
+    "question": "Where was first and only Modern Olympic games of 1800s played?",
+    "option1": "Athens, Greece",
+    "option2": "London, Great Britain",
+    "option3": "Paris, France",
+    "option4": "St. Louis, United States",
+    "answer": "Athens, Greece"
+  },
+  {
+    "id": 2,
+    "question": "Who has the most Olympic medals (23) ever?",
+    "option1": "Boris Shakhlin",
+    "option2": "Michael Phelps",
+    "option3": "Nikolai Andrianov",
+    "option4": "Ole Einar Bjørndalen",
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 3,
+    "question": "Most Olympic medals (18) by woman?",
+    "option1": "Birgit Fischer",
+    "option2": "Dana Torres",
+    "option3": "Jenny Thompson",
+    "option4": "Larisa Latynina",
+    "answer": "Larisa Latynina"
+  },
+  {
+    "id": 4,
+    "question": "Most Olympic golds by man",
+    "option1": "Boris Shakhlin",
+    "option2": "Michael Phelps",
+    "option3": "Nikolai Andrianov",
+    "option4": "Ole Einar Bjørndalen",
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 5,
+    "question": "Most Olympic golds by woman",
+    "option1": "Birgit Fischer",
+    "option2": "Dana Torres",
+    "option3": "Jenny Thompson",
+    "option4": "Larisa Latynina",
+    "answer": "Larisa Latynina"
+  },
+  {
+    "id": 6,
+    "question": "Most golds by woman in single Olympics (6)",
+    "option1": "Agnes Keleti",
+    "option2": "Fanny Blankers-Koen",
+    "option3": "Kristin Otto",
+    "option4": "Larisa Latynina",
+    "answer": "Kristin Otto"
+  },
+  {
+    "id": 7,
+    "question": "Fastest 100 m runner in 9.58 seconds",
+    "option1": "Donovan Bailey",
+    "option2": "Richard Thompson",
+    "option3": "Tyson Gay",
+    "option4": "Usain Bolt",
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": 8,
+    "question": "Fastest 100 m female runner in 10.49 seconds",
+    "option1": "Christine Arron",
+    "option2": "Florence Griffith-Joyner",
+    "option3": "Irina Privalova",
+    "option4": "Shelly-Ann Fraser-Pryce",
+    "answer": "Florence Griffith-Joyner"
+  },
+  {
+    "id": 9,
+    "question": "Most titles won in men's Olympic football (3)",
+    "option1": "Argentina and Uruguay",
+    "option2": "Cameroon and Nigeria",
+    "option3": "France and Italy",
+    "option4": "Great Britain and Hungary",
+    "answer": "Great Britain and Hungary"
+  },
+  {
+    "id": 10,
+    "question": "Most titles won in Olympic football both men's and women's combined (4)",
+    "option1": "Argentina",
+    "option2": "Great Britain",
+    "option3": "Hungary",
+    "option4": "United States",
+    "answer": "United States"
+  },
+  {
+    "id": 11,
+    "question": "When did Modern Olympics start?",
+    "option1": "1895 AD",
+    "option2": "1896 AD",
+    "option3": "1897 AD",
+    "option4": "1898 AD",
+    "answer": "1896 AD"
+  },
+  {
+    "id": 12,
+    "question": "Which is not an Olympic sport?",
+    "option1": "Swimming",
+    "option2": "High Jump",
+    "option3": "Skateboarding",
+    "option4": "Wrestling",
+    "answer": "Skateboarding"
+  },
+  {
+    "id": 13,
+    "question": "Which is not an Olympic sport?",
+    "option1": "Basketball",
+    "option2": "Cricket",
+    "option3": "Football",
+    "option4": "Tennis",
+    "answer": "Cricket"
+  },
+  {
+    "id": 14,
+    "question": "Where is Olympia, the place where ancient Olympic games were staged?",
+    "option1": "Great Britain",
+    "option2": "Greece",
+    "option3": "Italy",
+    "option4": "Syria",
+    "answer": "Greece"
+  },
+  {
+    "id": 15,
+    "question": "Number of rings in Olympic flag",
+    "option1": 5,
+    "option2": 6,
+    "option3": 7,
+    "option4": 8,
+    "answer": 5
+  },
+  {
+    "id": 16,
+    "question": "Country with most summer Olympic medals",
+    "option1": "Germany",
+    "option2": "Great Britain",
+    "option3": "Russia",
+    "option4": "United States",
+    "answer": "United States"
+  },
+  {
+    "id": 17,
+    "question": "Country with most winter Olympic medals",
+    "option1": "Germany",
+    "option2": "Great Britain",
+    "option3": "Russia",
+    "option4": "United States",
+    "answer": "Germany"
+  },
+  {
+    "id": 18,
+    "question": "Who never scored ICC ODI world cup final century?",
+    "option1": "Adam Gilchrist",
+    "option2": "Mahela Jayawardene",
+    "option3": "Sachin Tendulkar",
+    "option4": "Viv Richards",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 19,
+    "question": "Cricketer with most runs in both Test and ODI",
+    "option1": "Jacques Kallis",
+    "option2": "Kumar Sangakkara",
+    "option3": "Ricky Ponting",
+    "option4": "Sachin Tendulkar",
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 20,
+    "question": "Cricketer with most wickets in both Test and ODI",
+    "option1": "Glenn McGrath",
+    "option2": "Muttiah Muralitharan",
+    "option3": "Shaun Pollock",
+    "option4": "Wasim Akram",
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 21,
+    "question": "Who is known as best cricketer ever widely because of batting average of 99.94 while others don't even come close to 70.00?",
+    "option1": "Donald Bradman",
+    "option2": "Garfield Sobers",
+    "option3": "Sachin Tendulkar",
+    "option4": "Muttiah Muralitharan",
+    "answer": "Donald Bradman"
+  },
+  {
+    "id": 22,
+    "question": "Which of these Australian players haven't won 3 ICC ODI cricket world cups?",
+    "option1": "Adam Gilchrist",
+    "option2": "Glenn McGrath",
+    "option3": "Matthew Hayden",
+    "option4": "Ricky Ponting",
+    "answer": "Matthew Hayden"
+  },
+  {
+    "id": 23,
+    "question": "Which two countries contest in the test series \"The Ashes\"?",
+    "option1": "Australia and England",
+    "option2": "India and Pakistan",
+    "option3": "South Africa and Zimbabwe",
+    "option4": "None of these",
+    "answer": "Australia and England"
+  },
+  {
+    "id": 24,
+    "question": "Who is known as \"Sultan of Swing\"?",
+    "option1": "Chaminda Vaas",
+    "option2": "Irfan Pathan",
+    "option3": "Mustafizur Rahman",
+    "option4": "Wasim Akram",
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": 25,
+    "question": "Which Pakistani bowler called \"The Rawalpindi Express\" bowled the fastest recorded delivery ever at 161.3 km/hr?",
+    "option1": "Imran Khan",
+    "option2": "Shoaib Akhtar",
+    "option3": "Umar Gul",
+    "option4": "Waqar Younis",
+    "answer": "Shoaib Akhtar"
+  },
+  {
+    "id": 26,
+    "question": "Cricketer with most First Class runs",
+    "option1": "Jack Hobbs",
+    "option2": "Herbert Sutcliffe",
+    "option3": "Wally Hammond",
+    "option4": "William Gilbert Grace",
+    "answer": "Jack Hobbs"
+  },
+  {
+    "id": 27,
+    "question": "Most matches as captain in all cricket formats",
+    "option1": "Graeme Smith",
+    "option2": "Mahendra Singh Dhoni",
+    "option3": "Ricky Ponting",
+    "option4": "Stephen Fleming",
+    "answer": "Mahendra Singh Dhoni"
+  },
+  {
+    "id": 28,
+    "question": "Player with most ODI double hundreds (3)",
+    "option1": "Chris Gayle",
+    "option2": "Fakhar Zaman",
+    "option3": "Martin Guptill",
+    "option4": "Rohit Sharma",
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 29,
+    "question": "Which two players created biggest partnership in an inning (372) in ODI history?",
+    "option1": "Chris Gayle and Marlon Samuels",
+    "option2": "Imam-ul-Haq and Fakhar Zaman",
+    "option3": "Sachin Tendulkar and Rahul Dravid",
+    "option4": "Upul Tharanga and Sanath Jayasuriya",
+    "answer": "Chris Gayle and Marlon Samuels"
+  },
+  {
+    "id": 30,
+    "question": "Which two players created biggest partnership in an inning (624) in Test history?",
+    "option1": "Andrew Jones and Martin Crowe",
+    "option2": "Bill Ponsford and Donald Bradman",
+    "option3": "Kumar Sangakkara and Mahela Jayawardene",
+    "option4": "Mudassar Nazar and Javed Miandad",
+    "answer": "Kumar Sangakkara and Mahela Jayawardene"
+  },
+  {
+    "id": 31,
+    "question": "For which franchise does Nepal only player in IPL Sandeep Lamichhane play?",
+    "option1": "Delhi Capitals",
+    "option2": "Kings XI Punjab",
+    "option3": "Kolkata Knight Riders",
+    "option4": "Rajasthan Royals",
+    "answer": "Delhi Capitals"
+  },
+  {
+    "id": 32,
+    "question": "Which of these places' franchises did not win Champions League T20?",
+    "option1": "Chennai",
+    "option2": "Mumbai",
+    "option3": "Sydney",
+    "option4": "Trinidad and Tobago",
+    "answer": "Trinidad and Tobago"
+  },
+  {
+    "id": 33,
+    "question": "Who was nicknamed the Siberian Siren for grunting when they hit the ball?",
+    "option1": "Anna Kournikova",
+    "option2": "Maria Sharapova",
+    "option3": "Svetlana Kuznetsova",
+    "option4": "Vera Zvonareva",
+    "answer": "Maria Sharapova"
+  },
+  {
+    "id": 34,
+    "question": "Which player among Big Four in tennis has achieved the least in career?",
+    "option1": "Andy Murray",
+    "option2": "Novak Djokovic",
+    "option3": "Rafael Nadal",
+    "option4": "Roger Federer",
+    "answer": "Andy Murray"
+  },
+  {
+    "id": 35,
+    "question": "Which is the only female tennis player to beat male opponent in \"Battle of the Sexes\"?",
+    "option1": "Margaret Court",
+    "option2": "Billie Jean King",
+    "option3": "Martina Navratilova",
+    "option4": "Serena Williams",
+    "answer": "Billie Jean King"
+  },
+  {
+    "id": 36,
+    "question": "Who is the only player to win 3 FIFA world cups as a player?",
+    "option1": "Giovanni Ferrari",
+    "option2": "Giuseppe Meazza",
+    "option3": "Pele",
+    "option4": "Ronaldo",
+    "answer": "Pele"
+  },
+  {
+    "id": 37,
+    "question": "Which was the last country to win FIFA world cup in home soil?",
+    "option1": "England",
+    "option2": "France",
+    "option3": "Germany",
+    "option4": "Italy",
+    "answer": "France"
+  },
+  {
+    "id": 38,
+    "question": "Which among these teams never won UEFA European cup or Champions League 3 times in a row?",
+    "option1": "AC Milan",
+    "option2": "Ajax",
+    "option3": "Bayern Munich",
+    "option4": "Real Madrid",
+    "answer": "AC Milan"
+  },
+  {
+    "id": 39,
+    "question": "Derby della Madonnina is played between",
+    "option1": "Atletico Madrid and Real Madrid",
+    "option2": "AC Milan and Inter Milan",
+    "option3": "Bayern Munich and 1860 Munich",
+    "option4": "None of these",
+    "answer": "AC Milan and Inter Milan"
+  },
+  {
+    "id": 40,
+    "question": "Which player has scored most goals (13) in a single FIFA world cup tournament?",
+    "option1": "Gerd Muller (Germany)",
+    "option2": "Just Fontaine (France)",
+    "option3": "Ronaldo (Brazil)",
+    "option4": "Sandor Kocsis (Hungary)",
+    "answer": "Just Fontaine (France)"
+  },
+  {
+    "id": 41,
+    "question": "How many times has Germany won the FIFA world cup after reunification?",
+    "option1": 3,
+    "option2": 2,
+    "option3": 1,
+    "option4": "None of these",
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Which club other than Barcelona has won more Copa Del Reys than Real Madrid?",
+    "option1": "Atletico Madrid",
+    "option2": "Athletic Bilbao",
+    "option3": "Sevilla",
+    "option4": "Valencia",
+    "answer": "Athletic Bilbao"
+  },
+  {
+    "id": 43,
+    "question": "Which spanish club only plays with local players?",
+    "option1": "Atletico Madrid",
+    "option2": "Athletic Bilbao",
+    "option3": "Sevilla",
+    "option4": "Valencia",
+    "answer": "Athletic Bilbao"
+  },
+  {
+    "id": 44,
+    "question": "Only African player to win Ballon d'or",
+    "option1": "Abedi Pele (Ghana)",
+    "option2": "George Weah (Liberia)",
+    "option3": "Nwankwo Kanu (Nigeria)",
+    "option4": "Roger Milla (Cameroon)",
+    "answer": "George Weah (Liberia)"
+  },
+  {
+    "id": 45,
+    "question": "Nation to lose most FIFA world cup finals (4)",
+    "option1": "Argentina",
+    "option2": "Brazil",
+    "option3": "Germany",
+    "option4": "Netherlands",
+    "answer": "Germany"
+  },
+  {
+    "id": 46,
+    "question": "Only goalkeeper to win Ballon d'or",
+    "option1": "Gordon Banks",
+    "option2": "Lev Yashin",
+    "option3": "Oliver Kahn",
+    "option4": "Sepp Maier",
+    "answer": "Lev Yashin"
+  },
+  {
+    "id": 47,
+    "question": "Michael Jordon played for which of the following teams?",
+    "option1": "Boston Celtics",
+    "option2": "Chicago Bulls",
+    "option3": "Golden State Warriors",
+    "option4": "LA Lakers",
+    "answer": "Chicago Bulls"
+  },
+  {
+    "id": 48,
+    "question": "Which team has won the most NBA titles (17)?",
+    "option1": "Boston Celtics",
+    "option2": "Chicago Bulls",
+    "option3": "Golden State Warriors",
+    "option4": "LA Lakers",
+    "answer": "Boston Celtics"
+  },
+  {
+    "id": 49,
+    "question": "Babe Ruth left which baseball team to play for NY Yankees?",
+    "option1": "Boston Red Sox",
+    "option2": "Chicago Cubs",
+    "option3": "Detroit Tigers",
+    "option4": "St. Louis Cardinals",
+    "answer": "Boston Red Sox"
+  },
+  {
+    "id": 50,
+    "question": "Wayne Gretzky is associated with which sport?",
+    "option1": "American Football",
+    "option2": "Field Hockey",
+    "option3": "Golf",
+    "option4": "Ice Hockey",
+    "answer": "Ice Hockey"
+  },
+  {
+    "id": 1,
+    "question": "Jeff Bezos is CEO and President of which online retailer?",
+    "option1": "Amazon",
+    "option2": "Apple",
+    "option3": "Otto",
+    "option4": "Walmart",
+    "answer": "Amazon"
+  },
+  {
+    "id": 2,
+    "question": "Which social media app only lets you view pictures and messages for a limited time?",
+    "option1": "Messenger",
+    "option2": "Snapchat",
+    "option3": "Viber",
+    "option4": "Whatsapp",
+    "answer": "Snapchat"
+  },
+  {
+    "id": 3,
+    "question": "Which prestigious university did Microsoft founder Bill Gates drop out of?",
+    "option1": "Harvard University",
+    "option2": "Stanford University",
+    "option3": "MIT",
+    "option4": "University of California",
+    "answer": "Harvard University"
+  },
+  {
+    "id": 4,
+    "question": "Created in 1990, what was the name of the first internet search engine?",
+    "option1": "Archie",
+    "option2": "Baidu",
+    "option3": "Duckduckgo",
+    "option4": "Google",
+    "answer": "Archie"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of Elon Musk’s aerospace company?",
+    "option1": "Airbus",
+    "option2": "Boeing",
+    "option3": "Safran",
+    "option4": "SpaceX",
+    "answer": "SpaceX"
+  },
+  {
+    "id": 6,
+    "question": "Which duo invented the aeroplane?",
+    "option1": "Darwin and Wallace",
+    "option2": "Watson and Crick",
+    "option3": "Wright Brothers",
+    "option4": "None of these",
+    "answer": "Wright Brothers"
+  },
+  {
+    "id": 7,
+    "question": "Originally amazon only sold which product?",
+    "option1": "Books",
+    "option2": "Clothes",
+    "option3": "Laptops",
+    "option4": "Mobiles",
+    "answer": "Books"
+  },
+  {
+    "id": 8,
+    "question": "Who founded Apple Computer?",
+    "option1": "Bill Gates",
+    "option2": "Sheryl Sandberg",
+    "option3": "Steve Jobs",
+    "option4": "Sunder Pichai",
+    "answer": "Steve Jobs"
+  },
+  {
+    "id": 9,
+    "question": "Which of these is not a peripheral, in computer terms?",
+    "option1": "Keyboard",
+    "option2": "Monitor",
+    "option3": "Motherboard",
+    "option4": "Mouse",
+    "answer": "Motherboard"
+  },
+  {
+    "id": 10,
+    "question": "What does the Internet prefix WWW stand for?",
+    "option1": "Western Washington World",
+    "option2": "Wide Width Wickets",
+    "option3": "World Wide Weather",
+    "option4": "World Wide Web",
+    "answer": "World Wide Web"
+  },
+  {
+    "id": 11,
+    "question": "A network designed to allow communication within an organization is called:",
+    "option1": "Browser",
+    "option2": "Internet",
+    "option3": "Intranet",
+    "option4": "WWW",
+    "answer": "Intranet"
+  },
+  {
+    "id": 12,
+    "question": "Which of these is not a kind of computer?",
+    "option1": "Apple",
+    "option2": "Dell",
+    "option3": "Lada",
+    "option4": "Lenovo",
+    "answer": "Lada"
+  },
+  {
+    "id": 13,
+    "question": "What device, released in 1993, gave rise to the term personal digital assistant?",
+    "option1": "Iphone",
+    "option2": "Microsoft Surface",
+    "option3": "Newton Messagepad",
+    "option4": "Palm Pilot",
+    "answer": "Newton Messagepad"
+  },
+  {
+    "id": 14,
+    "question": "What is the name for a computer pointing device?",
+    "option1": "Modem",
+    "option2": "Monitor",
+    "option3": "Mouse",
+    "option4": "Sound card",
+    "answer": "Mouse"
+  },
+  {
+    "id": 15,
+    "question": "What operating system did Google develop?",
+    "option1": "Android",
+    "option2": "Blackberry OS",
+    "option3": "IOS",
+    "option4": "Windows",
+    "answer": "Android"
+  },
+  {
+    "id": 16,
+    "question": "What does the acronym FTP stand for?",
+    "option1": "Free Transfer Power",
+    "option2": "File Transfer Protocol",
+    "option3": "File Tripling Power",
+    "option4": "First Tripler Point",
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "id": 17,
+    "question": "Which of these is not one of the early “protocols,” or ways to use the Internet?",
+    "option1": "Blogging",
+    "option2": "FTP",
+    "option3": "Gopher",
+    "option4": "Telnet",
+    "answer": "Blogging"
+  },
+  {
+    "id": 18,
+    "question": "What is part of a database that holds only one type of information?",
+    "option1": "Report",
+    "option2": "Field",
+    "option3": "Record",
+    "option4": "File",
+    "answer": "Field"
+  },
+  {
+    "id": 19,
+    "question": "OS computer abbreviation usually means ?",
+    "option1": "Order of Significance",
+    "option2": "Open Software",
+    "option3": "Operating System",
+    "option4": "Optical Sensor",
+    "answer": "Operating System"
+  },
+  {
+    "id": 20,
+    "question": "'.MOV' extension refers usually to what kind of file?",
+    "option1": "Image",
+    "option2": "Animation/Movie",
+    "option3": "Audio",
+    "option4": "MS Office Document",
+    "answer": "Animation/Movie"
+  },
+  {
+    "id": 21,
+    "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+    "option1": "Sound",
+    "option2": "Remote Control",
+    "option3": "Color Balance",
+    "option4": "High Voltage",
+    "answer": "Remote Control"
+  },
+  {
+    "id": 22,
+    "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+    "option1": "Flash",
+    "option2": "Frange",
+    "option3": "Fury",
+    "option4": "FRAM",
+    "answer": "Flash"
+  },
+  {
+    "id": 23,
+    "question": "The purpose of choke in tube light is to",
+    "option1": "decrease current",
+    "option2": "increase current",
+    "option3": "decrease voltage",
+    "option4": "increase voltage",
+    "answer": "increase voltage"
+  },
+  {
+    "id": 24,
+    "question": "'.MPG' extension refers usually to what kind of file?",
+    "option1": "Image",
+    "option2": "Animation/Movie",
+    "option3": "Audio",
+    "option4": "MS Office Document",
+    "answer": "Animation/Movie"
+  },
+  {
+    "id": 25,
+    "question": "Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+    "option1": "Alan Turing",
+    "option2": "Jeff Bezos",
+    "option3": "George Boole",
+    "option4": "Charles Babbage",
+    "answer": "Alan Turing"
+  },
+  {
+    "id": 26,
+    "question": "Who developed Yahoo?",
+    "option1": "Dennis Ritchie & Ken Thompson",
+    "option2": "David Filo & Jerry Yang",
+    "option3": "Vint Cerf & Robert Kahn",
+    "option4": "Steve Case & Jeff Bezos",
+    "answer": "David Filo & Jerry Yang"
+  },
+  {
+    "id": 27,
+    "question": "Made from a variety of materials, such as carbon, which inhibits the flow of current?",
+    "option1": "Choke",
+    "option2": "Inductor",
+    "option3": "Resistor",
+    "option4": "Capacitor",
+    "answer": "Resistor"
+  },
+  {
+    "id": 28,
+    "question": "The most common format for a home video recorder is VHS. VHS stands for",
+    "option1": "Video Home System",
+    "option2": "Very High Speed",
+    "option3": "Video Horizontal Standard",
+    "option4": "Voltage House Standard",
+    "answer": "Video Home System"
+  },
+  {
+    "id": 29,
+    "question": "What does VVVF stand for?",
+    "option1": "Variant Voltage Vile Frequency",
+    "option2": "Variable Velocity Variable Fun",
+    "option3": "Very Very Vicious Frequency",
+    "option4": "Variable Voltage Variable Frequency",
+    "answer": "Variable Voltage Variable Frequency"
+  },
+  {
+    "id": 30,
+    "question": "What frequency range is the High Frequency band?",
+    "option1": "100 kHz",
+    "option2": "1 GHz",
+    "option3": "30 to 300 MHz",
+    "option4": "3 to 30 MHz",
+    "answer": "3 to 30 MHz"
+  },
+  {
+    "id": 31,
+    "question": "What is the relationship between resistivity r and conductivity s?",
+    "option1": "R = 2s",
+    "option2": "R = s",
+    "option3": "R = 1/s",
+    "option4": "Independent",
+    "answer": "R = 1/s"
+  },
+  {
+    "id": 32,
+    "question": "What does the term PLC stand for?",
+    "option1": "Programmable Lift Computer",
+    "option2": "Program List Control",
+    "option3": "Programmable Logic Controller",
+    "option4": "Piezo Lamp Connector",
+    "answer": "Programmable Logic Controller"
+  },
+  {
+    "id": 33,
+    "question": "'DB' computer abbreviation usually means",
+    "option1": "Database",
+    "option2": "Double Byte",
+    "option3": "Data Block",
+    "option4": "Driver Boot",
+    "answer": "Database"
+  },
+  {
+    "id": 34,
+    "question": "'.INI' extension refers usually to what kind of file?",
+    "option1": "Image file",
+    "option2": "System file",
+    "option3": "Hypertext related file",
+    "option4": "None of these",
+    "answer": "System file"
+  },
+  {
+    "id": 35,
+    "question": "After the first photons of light are produced, which process is responsible for amplification of the light?",
+    "option1": "Blackbody radiation",
+    "option2": "Stimulated emission",
+    "option3": "Planck's radiation",
+    "option4": "Einstein oscillation",
+    "answer": "Stimulated emission"
+  },
+  {
+    "id": 36,
+    "question": "Who co-founded Hotmail in 1996 and then sold the company to Microsoft?",
+    "option1": "Shawn Fanning",
+    "option2": "Ada Byron Lovelace",
+    "option3": "Sabeer Bhatia",
+    "option4": "Ray Tomlinson",
+    "answer": "Sabeer Bhatia"
+  },
+  {
+    "id": 37,
+    "question": "'.TMP' extension refers usually to what kind of file?",
+    "option1": "Compressed Archive file",
+    "option2": "Image file",
+    "option3": "Temporary file",
+    "option4": "Audio file",
+    "answer": "Temporary file"
+  },
+  {
+    "id": 38,
+    "question": "In the UK, what type of installation requires a fireman's switch?",
+    "option1": "Neon Lighting",
+    "option2": "High Pressure Sodium Lighting",
+    "option3": "Water Features",
+    "option4": "Hotel Rooms",
+    "answer": "Neon Lighting"
+  },
+  {
+    "id": 39,
+    "question": "The electromagnetic coils on the neck of the picture tube or tubes which pull the electron beam from side to side and up and down are called",
+    "option1": "Transformer",
+    "option2": "Yoke",
+    "option3": "Capacitor",
+    "option4": "Diode",
+    "answer": "Yoke"
+  },
+  {
+    "id": 40,
+    "question": "Which consists of two plates separated by a dielectric and can store a charge?",
+    "option1": "Inductor",
+    "option2": "Capacitor",
+    "option3": "Transistor",
+    "option4": "Relay",
+    "answer": "Capacitor"
+  },
+  {
+    "id": 41,
+    "question": "What do we call a collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly?",
+    "option1": "Internet",
+    "option2": "Intranet",
+    "option3": "LAN",
+    "option4": "WAN",
+    "answer": "LAN"
+  },
+  {
+    "id": 42,
+    "question": "'.JPG' extension refers usually to what kind of file?",
+    "option1": "System file",
+    "option2": "Animation/Movie file",
+    "option3": "MS Encarta document",
+    "option4": "Image file",
+    "answer": "Image file"
+  },
+  {
+    "id": 43,
+    "question": "What does AM mean?",
+    "option1": "Angelo marconi",
+    "option2": "Anno median",
+    "option3": "Amplitude modulation",
+    "option4": "Amperes",
+    "answer": "Amplitude modulation"
+  },
+  {
+    "id": 44,
+    "question": "'.TXT' extension refers usually to what kind of file?",
+    "option1": "Text file",
+    "option2": "Image file",
+    "option3": "Audio file",
+    "option4": "Adobe Acrobat file",
+    "answer": "Text file"
+  },
+  {
+    "id": 45,
+    "question": "Who built the world's first binary digit computer: Z1?",
+    "option1": "Konrad Zuse",
+    "option2": "Ken Thompson",
+    "option3": "Alan Turing",
+    "option4": "George Boole",
+    "answer": "Konrad Zuse"
+  },
+  {
+    "id": 46,
+    "question": "Who is considered father of Modern Computer?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Alan Turing"
+  },
+  {
+    "id": 47,
+    "question": "Who is considered father of Computer?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 48,
+    "question": "Who is considered father of Internet?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Vint Cerf"
+  },
+  {
+    "id": 49,
+    "question": "Who is considered father of Email?",
+    "option1": "Alan Turing",
+    "option2": "Charles Babbage",
+    "option3": "Ray Tomlinson",
+    "option4": "Vint Cerf",
+    "answer": "Ray Tomlinson"
+  },
+  {
+    "id": 50,
+    "question": "First computer programmer ever is",
+    "option1": "Ada Lovelace",
+    "option2": "Annie Easley",
+    "option3": "Grace Hopper",
+    "option4": "Hedy Lamarr",
+    "answer": "Ada Lovelace"
+  },
+  {
+    "id": 1,
+    "question": "Yellow fever is spread by",
+    "option1": "Air",
+    "option2": "Water",
+    "option3": "House fly",
+    "option4": "Mosquito",
+    "answer": "House fly"
+  },
+  {
+    "id": 2,
+    "question": "Rh factor is present in",
+    "option1": "Blood",
+    "option2": "Urine",
+    "option3": "Lymph",
+    "option4": "Sputum",
+    "answer": "Blood"
+  },
+  {
+    "id": 3,
+    "question": "BCG Vaccination is injected to get immunity from",
+    "option1": "Polio",
+    "option2": "Cholera",
+    "option3": "Small Pox",
+    "option4": "Tuberculosis",
+    "answer": "Tuberculosis"
+  },
+  {
+    "id": 4,
+    "question": "The structure of double helix of DNA was described by",
+    "option1": "Soha",
+    "option2": "Watson and Crick",
+    "option3": "Fleming",
+    "option4": "Hawking",
+    "answer": "Watson and Crick"
+  },
+  {
+    "id": 5,
+    "question": "Which among the following helps in circulation of blood?",
+    "option1": "Lymphocytes",
+    "option2": "Monocytes",
+    "option3": "Erythrocytes",
+    "option4": "Blood Platelets",
+    "answer": "Lymphocytes"
+  },
+  {
+    "id": 6,
+    "question": "The fungal derivative used in the treatment of tuberculosis is",
+    "option1": "Anacin",
+    "option2": "Aspirin",
+    "option3": "Streptomycin",
+    "option4": "Tetracycline",
+    "answer": "Streptomycin"
+  },
+  {
+    "id": 7,
+    "question": "How many pairs of spinal nerves are present in the human body?",
+    "option1": 28,
+    "option2": 31,
+    "option3": 35,
+    "option4": 42,
+    "answer": 31
+  },
+  {
+    "id": 8,
+    "question": "What cause malaria and sleeping sickness?",
+    "option1": "Bacteria",
+    "option2": "Viruses",
+    "option3": "Protozoans",
+    "option4": "None of these",
+    "answer": "Protozoans"
+  },
+  {
+    "id": 9,
+    "question": "Number of bones in human body is",
+    "option1": 220,
+    "option2": 292,
+    "option3": 302,
+    "option4": 206,
+    "answer": 206
+  },
+  {
+    "id": 10,
+    "question": "Which of the following organism is iteroparous?",
+    "option1": "Pacific Salmon Fish",
+    "option2": "Virus",
+    "option3": "Bacteria",
+    "option4": "Human",
+    "answer": "Human"
+  },
+  {
+    "id": 11,
+    "question": "The science related to the study of the composition of tissues is called",
+    "option1": "Cytology",
+    "option2": "Mycology",
+    "option3": "Histology",
+    "option4": "Anatomy",
+    "answer": "Histology"
+  },
+  {
+    "id": 12,
+    "question": "A hereditary disease which progressively damages muscle fibres and eventually destroys them is",
+    "option1": "Muscular Dystrophy",
+    "option2": "Hepatitis",
+    "option3": "Meningitis",
+    "option4": "None of these",
+    "answer": "Muscular Dystrophy"
+  },
+  {
+    "id": 13,
+    "question": "A branch of science dealing with the study of teeth is",
+    "option1": "Gerontology",
+    "option2": "Odontology",
+    "option3": "Entomology",
+    "option4": "Ornithology",
+    "answer": "Odontology"
+  },
+  {
+    "id": 14,
+    "question": "The phenomenon of summer sleep by animals is called",
+    "option1": "Hibernation",
+    "option2": "Aestivation",
+    "option3": "Laziness",
+    "option4": "Lethargy",
+    "answer": "Aestivation"
+  },
+  {
+    "id": 15,
+    "question": "The phenomenon of winter sleep by animals is called",
+    "option1": "Hibernation",
+    "option2": "Aestivation",
+    "option3": "Laziness",
+    "option4": "Lethargy",
+    "answer": "Hibernation"
+  },
+  {
+    "id": 16,
+    "question": "Night blindness is caused due to deficiency of Vitamin",
+    "option1": "A",
+    "option2": "B",
+    "option3": "E",
+    "option4": "K",
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Skeleton of sponges is produced by",
+    "option1": "Sclerocytes",
+    "option2": "Thescocytes",
+    "option3": "Pinacocytes",
+    "option4": "Choanocytes",
+    "answer": "Sclerocytes"
+  },
+  {
+    "id": 18,
+    "question": "Sweating on palm and sole due to psychic stimuli is called",
+    "option1": "Bradykinin",
+    "option2": "Blushing",
+    "option3": "Cold Sweat",
+    "option4": "None of these",
+    "answer": "Cold Sweat"
+  },
+  {
+    "id": 19,
+    "question": "In scorpion, poison is present in the",
+    "option1": "Leg",
+    "option2": "Hand",
+    "option3": "Sting",
+    "option4": "Mouth",
+    "answer": "Sting"
+  },
+  {
+    "id": 20,
+    "question": "What is the study of the basic principals, procedures, and rules of classification?",
+    "option1": "Nomenclature",
+    "option2": "Systematics",
+    "option3": "Taxonomy",
+    "option4": "Classification",
+    "answer": "Taxonomy"
+  },
+  {
+    "id": 21,
+    "question": "Since the 1700's, the naming system is a",
+    "option1": "Monomial",
+    "option2": "Binomial",
+    "option3": "Trinomial",
+    "option4": "Decanomial",
+    "answer": "Binomial"
+  },
+  {
+    "id": 22,
+    "question": "Birds excrete nitrogenous waste in the form of",
+    "option1": "Urea",
+    "option2": "Ammonia",
+    "option3": "Fatty Acid",
+    "option4": "Uric Acid",
+    "answer": "Uric Acid"
+  },
+  {
+    "id": 23,
+    "question": "Medulla oblongata is called",
+    "option1": "Piameter",
+    "option2": "Durameter",
+    "option3": "Vital Knot",
+    "option4": "Pons Varolii",
+    "answer": "Vital Knot"
+  },
+  {
+    "id": 24,
+    "question": "Bleeding of gums is one of the symptoms of",
+    "option1": "Beri Beri",
+    "option2": "Scurvy",
+    "option3": "Sterility",
+    "option4": "Pellagra",
+    "answer": "Scurvy"
+  },
+  {
+    "id": 25,
+    "question": "Rabies is transmitted by",
+    "option1": "Bugs",
+    "option2": "Flies",
+    "option3": "Dogs",
+    "option4": "Cats",
+    "answer": "Dogs"
+  },
+  {
+    "id": 26,
+    "question": "The outer convex region of kidney is called",
+    "option1": "Cortex",
+    "option2": "Calyces",
+    "option3": "Nephron",
+    "option4": "Pelvis",
+    "answer": "Cortex"
+  },
+  {
+    "id": 27,
+    "question": "The escape of haemoglobin from RBC is known as",
+    "option1": "Clotting",
+    "option2": "Thermolysis",
+    "option3": "Anaemia",
+    "option4": "Haemorrhage",
+    "answer": "Thermolysis"
+  },
+  {
+    "id": 28,
+    "question": "The color of inner part of brain",
+    "option1": "Red",
+    "option2": "Blue",
+    "option3": "Green",
+    "option4": "White",
+    "answer": "White"
+  },
+  {
+    "id": 29,
+    "question": "The largest living animals belong to the group of",
+    "option1": "Fishes",
+    "option2": "Birds",
+    "option3": "Invertebrates",
+    "option4": "Mammals",
+    "answer": "Mammals"
+  },
+  {
+    "id": 30,
+    "question": "Dialysis is given to a man having problems in",
+    "option1": "Phosphorus",
+    "option2": "Magnesium",
+    "option3": "Calcium",
+    "option4": "Iron",
+    "answer": "Iron"
+  },
+  {
+    "id": 31,
+    "question": "Which among the following helps in circulation of blood?",
+    "option1": "Lymphocytes",
+    "option2": "Monocytes",
+    "option3": "Arythrocytes",
+    "option4": "Blood Platelets",
+    "answer": "Lymphocytes"
+  },
+  {
+    "id": 32,
+    "question": "Which among the following is a large spectrum Antibiotic?",
+    "option1": "Penicillin",
+    "option2": "Paracetamol",
+    "option3": "Ampicillin",
+    "option4": "Chloramphenicol",
+    "answer": "Ampicillin"
+  },
+  {
+    "id": 33,
+    "question": "Our bones and teeth are generally made of",
+    "option1": "Hydrolith",
+    "option2": "Chloropetite",
+    "option3": "Fluoropetite",
+    "option4": "Tricalcium phosphate",
+    "answer": "Tricalcium phosphate"
+  },
+  {
+    "id": 34,
+    "question": "The fungal derivative used in the treatment of tuberculosis is",
+    "option1": "Anacin",
+    "option2": "Streptomycin",
+    "option3": "Aspirin",
+    "option4": "Tetracycline",
+    "answer": "Streptomycin"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is also called Jelly Fish?",
+    "option1": "Hydra",
+    "option2": "Aurelia",
+    "option3": "Physelia",
+    "option4": "Matrideam",
+    "answer": "Aurelia"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following disease is related to Vitamin B3?",
+    "option1": "Pellagra",
+    "option2": "Night blindness",
+    "option3": "Rickets",
+    "option4": "Beri Beri",
+    "answer": "Pellagra"
+  },
+  {
+    "id": 37,
+    "question": "Which one among the following is not a living fossil?",
+    "option1": "Diplodocus",
+    "option2": "Elephant Shrew",
+    "option3": "Stromatolite",
+    "option4": "Ginkgo",
+    "answer": "Diplodocus"
+  },
+  {
+    "id": 38,
+    "question": "Which one of the following genetic diseases is sex linked?",
+    "option1": "Cystic fibrosis",
+    "option2": "Haemophilia",
+    "option3": "Tay-Sachs Disease",
+    "option4": "None of these",
+    "answer": "Haemophilia"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following does not have blood but undergoes respiration?",
+    "option1": "Kangaroo",
+    "option2": "Cockroach",
+    "option3": "Hydra",
+    "option4": "Snail",
+    "answer": "Hydra"
+  },
+  {
+    "id": 40,
+    "question": "The scientist who firstly explained about the blood circulation",
+    "option1": "Ronald Ross",
+    "option2": "J.G. Mendel",
+    "option3": "William Harvey",
+    "option4": "Leeuwenhoek",
+    "answer": "William Harvey"
+  },
+  {
+    "id": 41,
+    "question": "The study of bones is done under the branch of science called",
+    "option1": "Geology",
+    "option2": "Seromology",
+    "option3": "Orology",
+    "option4": "Osteology",
+    "answer": "Osteology"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following does not have any enzymes in its cells?",
+    "option1": "Lichen",
+    "option2": "Virus",
+    "option3": "Bacteria",
+    "option4": "Algae",
+    "answer": "Virus"
+  },
+  {
+    "id": 43,
+    "question": "In which organ of the human body are the lymphocytes formed?",
+    "option1": "Liver",
+    "option2": "Bone Marrow",
+    "option3": "Spleen",
+    "option4": "Pancreas",
+    "answer": "Bone Marrow"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following hormones contains Iodine?",
+    "option1": "Testosterone",
+    "option2": "Adrenaline",
+    "option3": "Thyroxine",
+    "option4": "Insulin",
+    "answer": "Insulin"
+  },
+  {
+    "id": 45,
+    "question": "AIDS is caused by",
+    "option1": "Helminth",
+    "option2": "Bacteria",
+    "option3": "Fungus",
+    "option4": "Virus",
+    "answer": "Virus"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a substance available in small quantity in the sea and administered in a certain deficiency disease?",
+    "option1": "Fluorine",
+    "option2": "Iodine",
+    "option3": "Iron",
+    "option4": "Vitamin A",
+    "answer": "Iodine"
+  },
+  {
+    "id": 47,
+    "question": "The mad cow disease is caused by",
+    "option1": "Virus",
+    "option2": "Fungus",
+    "option3": "Prion",
+    "option4": "Bacteria",
+    "answer": "Prion"
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following disease is not caused by virus?",
+    "option1": "Rabies",
+    "option2": "Polio",
+    "option3": "Diphtheria",
+    "option4": "Small Pox",
+    "answer": "Diphtheria"
+  },
+  {
+    "id": 49,
+    "question": "What is the second fastest land animal in the world?",
+    "option1": "Springbuk",
+    "option2": "Leopard",
+    "option3": "Pronghorn",
+    "option4": "Jackrabbit",
+    "answer": "Pronghorn"
+  },
+  {
+    "id": 50,
+    "question": "Which is the next animal in 'Big five' of Africa after lion, leopard, rhino and elephant?",
+    "option1": "Cape Buffalo",
+    "option2": "Hartebeest",
+    "option3": "Spotted Hyena",
+    "option4": "Warthog",
+    "answer": "Cape Buffalo"
+  }
+]
